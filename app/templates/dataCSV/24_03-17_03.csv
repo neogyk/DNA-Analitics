@@ -1,0 +1,702 @@
+,NAME,STATUS,SHOT,SEQ,REEL
+0,Layout,In progress,SHOT_149,820,820
+1,Animation,Ready to Start,SHOT_150,450,450
+2,Layout,Completed,SHOT_150,450,450
+3,Layout,In progress,SHOT_150,820,820
+4,Animation,Ready to Start,SHOT_240,450,450
+5,Layout,Completed,SHOT_240,450,450
+6,Hair and Fur,Completed,SHOT_454,180,180
+7,Layout,In progress,SHOT_005,820,820
+8,Layout,In progress,SHOT_151,820,820
+9,Layout,In progress,SHOT_152,820,820
+10,Layout,In progress,SHOT_153,820,820
+11,FTP,Completed,SHOT_080,370,370
+12,Layout,In progress,SHOT_154,820,820
+13,Animation,Approved,SHOT_454,180,180
+14,Layout,In progress,SHOT_155,820,820
+15,Lookdev,On Hold,SHOT_454,180,180
+16,FTP,Completed,SHOT_100,370,370
+17,Assemble,Completed,SHOT_454,180,180
+18,Layout,In progress,SHOT_156,820,820
+19,Cloth,Completed,SHOT_454,180,180
+20,Baking,Completed,SHOT_454,180,180
+21,FTP,Completed,SHOT_070,370,370
+22,Layout,In progress,SHOT_160,820,820
+23,Assemble,Completed,SHOT_050,180,180
+24,Cloth,Completed,SHOT_060,180,180
+25,Compositing,Pending Review,SHOT_060,180,180
+26,Paint,Not started,SHOT_060,180,180
+27,Animation,Approved,SHOT_060,180,180
+28,Lookdev,Ready to Start,SHOT_060,180,180
+29,Baking,Completed,SHOT_060,180,180
+30,Compositing,Pending Review,SHOT_020,150,150
+31,Paint,Ready to Start,SHOT_020,150,150
+32,Compositing,Pending Review,SHOT_035,150,150
+33,Paint,Ready to Start,SHOT_035,150,150
+34,Animation,Approved,SHOT_035,150,150
+35,Lookdev,Pending Review,SHOT_035,150,150
+36,Baking,Completed,SHOT_035,150,150
+37,Compositing,Pending Review,SHOT_010,080,080
+38,Paint,Completed,SHOT_010,080,080
+39,Cloth,Completed,SHOT_160,180,180
+40,Compositing,Pending Review,SHOT_160,180,180
+41,Paint,In progress,SHOT_160,180,180
+42,Lookdev,In progress,SHOT_010,080,080
+43,Animation,Approved,SHOT_160,180,180
+44,Lookdev,Pending Review,SHOT_160,180,180
+45,Baking,Completed,SHOT_160,180,180
+46,Compositing,Pending Review,SHOT_060,110,110
+47,Paint,Completed,SHOT_060,110,110
+48,Animation,Approved,SHOT_060,110,110
+49,Lookdev,Ready to Start,SHOT_060,110,110
+50,Assemble,Completed,SHOT_060,110,110
+51,Baking,Completed,SHOT_060,110,110
+52,Rendering,Not started,SHOT_190,180,180
+53,Animation,Approved,SHOT_190,180,180
+54,Lookdev,In progress,SHOT_190,180,180
+55,Baking,Completed,SHOT_190,180,180
+56,Cloth,Ready to Start,SHOT_430,180,180
+57,Animation,Approved,SHOT_430,180,180
+58,Baking,Completed,SHOT_430,180,180
+59,Layout,In progress,SHOT_060,690,690
+60,Animation,Ready to Start,SHOT_080,360,360
+61,Layout,Completed,SHOT_080,360,360
+62,Compositing,In progress,SHOT_370,180,180
+63,Paint,Completed,SHOT_370,180,180
+64,Lookdev,In progress,SHOT_370,180,180
+65,Fur,Completed,SHOT_230,060,060
+66,Animation,Ready to Start,SHOT_020,450,450
+67,Layout,Completed,SHOT_020,450,450
+68,Rendering,In progress,SHOT_044,000,000
+69,Layout,In progress,SHOT_630,310,310
+70,Layout,In progress,SHOT_030,590,590
+71,Fur,Ready to Start,SHOT_220,060,060
+72,Animation,Ready to Start,SHOT_040,360,360
+73,Layout,Completed,SHOT_040,360,360
+74,Animation,Ready to Start,SHOT_180,360,360
+75,Layout,Completed,SHOT_180,360,360
+76,Layout,In progress,SHOT_031,610,610
+77,Layout,In progress,SHOT_145,640,640
+78,fx,Ready to Start,SHOT_010,170,170
+79,FTP,Completed,SHOT_061,780,780
+80,Animation,Ready to Start,SHOT_100,450,450
+81,Layout,Completed,SHOT_100,450,450
+82,FTP,Completed,SHOT_020,780,780
+83,FTP,Completed,SHOT_062,780,780
+84,FTP,Completed,SHOT_050,780,780
+85,FTP,Completed,SHOT_060,780,780
+86,FTP,Completed,SHOT_030,780,780
+87,FTP,Completed,SHOT_040,780,780
+88,Layout,In progress,SHOT_055,310,310
+89,Animation,Ready to Start,SHOT_250,450,450
+90,Layout,Completed,SHOT_250,450,450
+91,Lookdev,On Hold,SHOT_020,120,120
+92,Layout,In progress,SHOT_070,730,730
+93,Hair and Fur,Completed,SHOT_020,221,221
+94,Animation,Approved,SHOT_020,221,221
+95,Lookdev,On Hold,SHOT_020,221,221
+96,Cloth,Completed,SHOT_020,221,221
+97,Baking,Completed,SHOT_020,221,221
+98,Layout,In progress,SHOT_072,580,580
+99,Paint,Completed,SHOT_210,700,700
+100,Compositing,Approved,SHOT_010,050,050
+101,Paint,Completed,SHOT_010,050,050
+102,Rendering,Completed,SHOT_010,050,050
+103,Lookdev,Approved,SHOT_010,050,050
+104,Layout,In progress,SHOT_590,310,310
+105,Animation,Ready to Start,SHOT_080,650,650
+106,Layout,Completed,SHOT_080,650,650
+107,FTP,Completed,SHOT_010,360,360
+108,Layout,In progress,SHOT_080,730,730
+109,Layout,In progress,SHOT_075,580,580
+110,Compositing,Pending Review,SHOT_387,070,070
+111,Paint,Ready to Start,SHOT_387,070,070
+112,Lookdev,Pending Review,SHOT_387,070,070
+113,Animation,Ready to Start,SHOT_030,450,450
+114,Layout,Completed,SHOT_030,450,450
+115,Animation,In progress,SHOT_130,230,230
+116,Layout,In progress,SHOT_060,590,590
+117,Animation,Ready to Start,SHOT_011,750,750
+118,Layout,In progress,SHOT_170,820,820
+119,Layout,Completed,SHOT_011,750,750
+120,Animation,Ready to Start,SHOT_012,750,750
+121,Layout,In progress,SHOT_180,820,820
+122,Layout,Completed,SHOT_012,750,750
+123,Layout,In progress,SHOT_190,820,820
+124,Hair and Fur,Completed,SHOT_190,230,230
+125,Compositing,Pending Review,SHOT_190,230,230
+126,Layout,In progress,SHOT_200,820,820
+127,Cloth,Completed,SHOT_190,230,230
+128,Baking,Completed,SHOT_190,230,230
+129,Layout,In progress,SHOT_210,820,820
+130,Layout,In progress,SHOT_220,820,820
+131,Layout,In progress,SHOT_230,820,820
+132,Layout,In progress,SHOT_240,820,820
+133,Layout,In progress,SHOT_250,820,820
+134,Layout,In progress,SHOT_260,820,820
+135,Layout,In progress,SHOT_270,820,820
+136,Layout,In progress,SHOT_280,820,820
+137,Layout,In progress,SHOT_290,820,820
+138,Animation,In progress,SHOT_090,250,250
+139,Layout,In progress,SHOT_300,820,820
+140,hair and fur,Ready to Start,SHOT_060,110,110
+141,Layout,In progress,SHOT_070,690,690
+142,Layout,In progress,SHOT_082,590,590
+143,Paint,In progress,SHOT_010,800,800
+144,Animation,In progress,SHOT_140,230,230
+145,Assemble,Completed,SHOT_435,180,180
+146,Paint,Completed,SHOT_200,700,700
+147,Compositing,Approved,SHOT_160,070,070
+148,Paint,Completed,SHOT_160,070,070
+149,Rendering,In progress,SHOT_160,070,070
+150,Modeling,In progress,SHOT_033,000,000
+151,Fur,Completed,SHOT_020,050,050
+152,Animation,Ready to Start,SHOT_090,360,360
+153,Layout,Completed,SHOT_090,360,360
+154,Compositing,Approved,SHOT_080,070,070
+155,Paint,Completed,SHOT_080,070,070
+156,Rendering,In progress,SHOT_080,070,070
+157,Rendering,In progress,SHOT_180,070,070
+158,Compositing,Approved,SHOT_221,070,070
+159,Paint,Completed,SHOT_221,070,070
+160,Rendering,Completed,SHOT_221,070,070
+161,Layout,In progress,SHOT_125,580,580
+162,Animation,Ready to Start,SHOT_040,450,450
+163,Layout,Completed,SHOT_040,450,450
+164,FTP,Completed,SHOT_050,300,300
+165,Layout,In progress,SHOT_031,590,590
+166,FTP,Completed,SHOT_080,300,300
+167,FTP,Completed,SHOT_040,300,300
+168,FTP,Completed,SHOT_090,300,300
+169,FTP,Completed,SHOT_010,300,300
+170,Layout,In progress,SHOT_910,820,820
+171,Animation,Ready to Start,SHOT_110,360,360
+172,Layout,Completed,SHOT_110,360,360
+173,Layout,In progress,SHOT_920,820,820
+174,Layout,In progress,SHOT_020,690,690
+175,Animation,Ready to Start,SHOT_160,450,450
+176,Layout,Completed,SHOT_160,450,450
+177,Animation,Ready to Start,SHOT_160,360,360
+178,Layout,Completed,SHOT_160,360,360
+179,Animation,Ready to Start,SHOT_090,650,650
+180,Layout,Completed,SHOT_090,650,650
+181,Layout,In progress,SHOT_930,820,820
+182,Animation,Ready to Start,SHOT_110,450,450
+183,Layout,Completed,SHOT_110,450,450
+184,Animation,Ready to Start,SHOT_010,650,650
+185,Layout,Completed,SHOT_010,650,650
+186,Layout,In progress,SHOT_090,730,730
+187,Layout,In progress,SHOT_940,820,820
+188,Layout,In progress,SHOT_080,610,610
+189,Hair and Fur,Completed,SHOT_358,070,070
+190,Animation,Approved,SHOT_358,070,070
+191,Lookdev,In progress,SHOT_358,070,070
+192,Cloth,Completed,SHOT_358,070,070
+193,Baking,Completed,SHOT_358,070,070
+194,Animation,In progress,SHOT_100,250,250
+195,hair and fur,Completed,SHOT_160,180,180
+196,Baking,Ready to Start,SHOT_031,780,780
+197,Layout,In progress,SHOT_950,820,820
+198,Layout,In progress,SHOT_100,590,590
+199,Layout,In progress,SHOT_960,820,820
+200,FTP,Completed,SHOT_130,250,250
+201,Layout,In progress,SHOT_010,820,820
+202,FTP,Completed,SHOT_160,250,250
+203,FTP,Completed,SHOT_107,250,250
+204,FTP,Completed,SHOT_100,250,250
+205,Layout,In progress,SHOT_970,820,820
+206,Layout,In progress,SHOT_020,820,820
+207,FTP,Completed,SHOT_140,250,250
+208,FTP,Completed,SHOT_109,250,250
+209,Layout,In progress,SHOT_040,610,610
+210,Layout,In progress,SHOT_030,820,820
+211,FTP,Completed,SHOT_106,250,250
+212,FTP,Completed,SHOT_090,250,250
+213,FTP,Completed,SHOT_110,250,250
+214,Layout,In progress,SHOT_040,820,820
+215,FTP,Completed,SHOT_105,250,250
+216,FTP,Completed,SHOT_080,250,250
+217,Layout,In progress,SHOT_060,820,820
+218,Compositing,Approved,SHOT_372,070,070
+219,Paint,Completed,SHOT_372,070,070
+220,Rendering,Completed,SHOT_372,070,070
+221,FTP,Completed,SHOT_108,250,250
+222,Lookdev,Approved,SHOT_372,070,070
+223,Layout,In progress,SHOT_070,820,820
+224,Layout,In progress,SHOT_080,820,820
+225,Layout,In progress,SHOT_090,820,820
+226,Layout,In progress,SHOT_100,820,820
+227,Layout,In progress,SHOT_980,820,820
+228,Layout,In progress,SHOT_000,820,820
+229,Layout,In progress,SHOT_101,820,820
+230,Layout,In progress,SHOT_102,820,820
+231,Layout,In progress,SHOT_990,820,820
+232,Layout,In progress,SHOT_103,820,820
+233,Layout,In progress,SHOT_104,820,820
+234,Layout,In progress,SHOT_105,820,820
+235,Animation,Ready to Start,SHOT_190,360,360
+236,Layout,Completed,SHOT_190,360,360
+237,Layout,In progress,SHOT_080,690,690
+238,Layout,In progress,SHOT_012,600,600
+239,Animation,Ready to Start,SHOT_210,450,450
+240,Layout,Completed,SHOT_210,450,450
+241,Layout,In progress,SHOT_560,310,310
+242,Layout,In progress,SHOT_310,820,820
+243,Layout,Completed,SHOT_030,140,140
+244,Layout,In progress,SHOT_320,820,820
+245,fx,Ready to Start,SHOT_454,180,180
+246,Paint,Completed,SHOT_220,700,700
+247,Layout,In progress,SHOT_330,820,820
+248,Animation,Ready to Start,SHOT_170,450,450
+249,Layout,Completed,SHOT_170,450,450
+250,Compositing,Ready to Start,SHOT_240,060,060
+251,Layout,In progress,SHOT_010,620,620
+252,Layout,In progress,SHOT_020,620,620
+253,Layout,In progress,SHOT_030,620,620
+254,Animation,Ready to Start,SHOT_050,450,450
+255,Layout,In progress,SHOT_050,620,620
+256,Layout,Completed,SHOT_050,450,450
+257,Layout,In progress,SHOT_060,620,620
+258,Layout,In progress,SHOT_070,620,620
+259,Layout,In progress,SHOT_080,620,620
+260,Compositing,Pending Review,SHOT_070,090,090
+261,Animation,In progress,SHOT_080,250,250
+262,Paint,Ready to Start,SHOT_070,090,090
+263,Lookdev,Pending Review,SHOT_070,090,090
+264,Layout,In progress,SHOT_090,620,620
+265,Layout,In progress,SHOT_340,820,820
+266,Layout,In progress,SHOT_100,620,620
+267,Layout,In progress,SHOT_110,620,620
+268,Layout,In progress,SHOT_120,620,620
+269,Layout,In progress,SHOT_130,620,620
+270,Layout,In progress,SHOT_140,620,620
+271,Layout,In progress,SHOT_150,620,620
+272,Layout,In progress,SHOT_160,620,620
+273,Layout,In progress,SHOT_170,620,620
+274,Layout,In progress,SHOT_070,610,610
+275,fx,Ready to Start,SHOT_026,170,170
+276,Animation,Ready to Start,SHOT_020,650,650
+277,Layout,In progress,SHOT_350,820,820
+278,Layout,Completed,SHOT_020,650,650
+279,Animation,Ready to Start,SHOT_100,360,360
+280,Layout,Completed,SHOT_100,360,360
+281,Layout,In progress,SHOT_040,590,590
+282,Layout,In progress,SHOT_010,610,610
+283,Layout,In progress,SHOT_380,820,820
+284,Layout,In progress,SHOT_130,730,730
+285,Layout,In progress,SHOT_390,820,820
+286,Layout,In progress,SHOT_400,820,820
+287,Layout,In progress,SHOT_410,820,820
+288,Layout,In progress,SHOT_420,820,820
+289,Animation,Ready to Start,SHOT_100,650,650
+290,Layout,Completed,SHOT_100,650,650
+291,Hair and Fur,Completed,SHOT_031,220,220
+292,Compositing,Pending Review,SHOT_031,220,220
+293,Paint,Completed,SHOT_031,220,220
+294,Animation,Approved,SHOT_031,220,220
+295,Lookdev,Ready to Start,SHOT_031,220,220
+296,Cloth,Completed,SHOT_031,220,220
+297,Baking,Completed,SHOT_031,220,220
+298,Compositing,In progress,SHOT_030,050,050
+299,Layout,In progress,SHOT_430,820,820
+300,Paint,Completed,SHOT_030,050,050
+301,Rendering,Completed,SHOT_030,050,050
+302,Lookdev,Approved,SHOT_030,050,050
+303,Layout,In progress,SHOT_100,730,730
+304,Layout,In progress,SHOT_106,820,820
+305,Layout,In progress,SHOT_440,820,820
+306,hair and fur,Ready to Start,SHOT_190,180,180
+307,Layout,In progress,SHOT_107,820,820
+308,hair and fur,Completed,SHOT_026,170,170
+309,Layout,In progress,SHOT_108,820,820
+310,Animation,Ready to Start,SHOT_140,360,360
+311,Layout,Completed,SHOT_140,360,360
+312,Layout,In progress,SHOT_109,820,820
+313,Layout,In progress,SHOT_110,820,820
+314,Layout,In progress,SHOT_460,820,820
+315,Layout,In progress,SHOT_001,820,820
+316,Hair and Fur,Completed,SHOT_032,220,220
+317,Animation,Approved,SHOT_032,220,220
+318,Lookdev,In progress,SHOT_032,220,220
+319,Layout,In progress,SHOT_111,820,820
+320,Cloth,Completed,SHOT_032,220,220
+321,Baking,Completed,SHOT_032,220,220
+322,Layout,In progress,SHOT_600,310,310
+323,Layout,In progress,SHOT_112,820,820
+324,Layout,In progress,SHOT_470,820,820
+325,Layout,In progress,SHOT_113,820,820
+326,Layout,In progress,SHOT_114,820,820
+327,Layout,In progress,SHOT_115,820,820
+328,Paint,Completed,SHOT_180,700,700
+329,Layout,In progress,SHOT_116,820,820
+330,Layout,In progress,SHOT_117,820,820
+331,Layout,In progress,SHOT_480,820,820
+332,Animation,Approved,SHOT_021,221,221
+333,hair and fur,Ready to Start,SHOT_430,180,180
+334,Layout,In progress,SHOT_490,820,820
+335,Layout,In progress,SHOT_500,820,820
+336,Layout,In progress,SHOT_010,590,590
+337,Layout,In progress,SHOT_140,730,730
+338,Layout,Completed,SHOT_060,140,140
+339,Layout,In progress,SHOT_510,820,820
+340,Compositing,Pending Review,SHOT_040,221,221
+341,Lookdev,On Hold,SHOT_040,221,221
+342,FTP,Completed,SHOT_070,480,480
+343,FTP,Completed,SHOT_080,480,480
+344,FTP,Completed,SHOT_060,480,480
+345,FTP,Completed,SHOT_050,480,480
+346,FTP,Completed,SHOT_010,480,480
+347,FTP,Completed,SHOT_040,480,480
+348,Layout,In progress,SHOT_520,820,820
+349,Hair and Fur,Completed,SHOT_376,070,070
+350,Compositing,Pending Review,SHOT_376,070,070
+351,Paint,Completed,SHOT_376,070,070
+352,Animation,Approved,SHOT_376,070,070
+353,Lookdev,Ready to Start,SHOT_376,070,070
+354,Cloth,Completed,SHOT_376,070,070
+355,Baking,Completed,SHOT_376,070,070
+356,Layout,In progress,SHOT_120,590,590
+357,Animation,Ready to Start,SHOT_060,450,450
+358,Layout,Completed,SHOT_060,450,450
+359,Animation,Ready to Start,SHOT_010,750,750
+360,Layout,Completed,SHOT_010,750,750
+361,Animation,Approved,SHOT_241,070,070
+362,Layout,In progress,SHOT_050,590,590
+363,Assemble,Completed,SHOT_090,170,170
+364,Layout,In progress,SHOT_070,590,590
+365,Paint,In progress,SHOT_036,000,000
+366,Rendering,Completed,SHOT_036,000,000
+367,Paint,In progress,SHOT_037,000,000
+368,Rendering,Completed,SHOT_037,000,000
+369,Paint,In progress,SHOT_038,000,000
+370,Rendering,Completed,SHOT_038,000,000
+371,Paint,In progress,SHOT_039,000,000
+372,Rendering,Completed,SHOT_039,000,000
+373,Paint,In progress,SHOT_040,000,000
+374,Rendering,Completed,SHOT_040,000,000
+375,Rendering,In progress,SHOT_041,000,000
+376,Rendering,In progress,SHOT_042,000,000
+377,Rendering,In progress,SHOT_043,000,000
+378,Paint,Completed,SHOT_021,000,000
+379,Paint,Completed,SHOT_022,000,000
+380,Paint,Completed,SHOT_023,000,000
+381,Paint,Completed,SHOT_024,000,000
+382,Paint,Completed,SHOT_025,000,000
+383,Paint,Completed,SHOT_026,000,000
+384,Paint,Completed,SHOT_027,000,000
+385,Paint,Completed,SHOT_028,000,000
+386,Paint,Completed,SHOT_029,000,000
+387,Paint,Completed,SHOT_030,000,000
+388,Paint,Completed,SHOT_031,000,000
+389,Rendering,Completed,SHOT_031,000,000
+390,Paint,Completed,SHOT_032,000,000
+391,Paint,Completed,SHOT_034,000,000
+392,Rendering,Completed,SHOT_034,000,000
+393,Paint,Completed,SHOT_035,000,000
+394,Animation,Ready to Start,SHOT_180,450,450
+395,Layout,Completed,SHOT_180,450,450
+396,Layout,In progress,SHOT_792,820,820
+397,Layout,In progress,SHOT_793,820,820
+398,Animation,Ready to Start,SHOT_060,360,360
+399,Layout,Completed,SHOT_060,360,360
+400,Hair and Fur,Completed,SHOT_301,180,180
+401,Animation,Approved,SHOT_301,180,180
+402,Lookdev,Ready to Start,SHOT_301,180,180
+403,Cloth,Completed,SHOT_301,180,180
+404,Baking,Completed,SHOT_301,180,180
+405,Compositing,Pending Review,SHOT_378,070,070
+406,Paint,Completed,SHOT_378,070,070
+407,Rendering,In progress,SHOT_378,070,070
+408,Animation,Approved,SHOT_378,070,070
+409,Lookdev,Approved,SHOT_378,070,070
+410,Baking,Completed,SHOT_378,070,070
+411,Layout,Ready to Start,SHOT_118,820,820
+412,Layout,Ready to Start,SHOT_119,820,820
+413,Layout,In progress,SHOT_120,820,820
+414,Layout,Ready to Start,SHOT_002,820,820
+415,FTP,Completed,SHOT_010,560,560
+416,Layout,Ready to Start,SHOT_121,820,820
+417,Layout,Ready to Start,SHOT_122,820,820
+418,Layout,Ready to Start,SHOT_123,820,820
+419,Layout,Ready to Start,SHOT_124,820,820
+420,Layout,Ready to Start,SHOT_125,820,820
+421,Layout,Ready to Start,SHOT_126,820,820
+422,Layout,Ready to Start,SHOT_127,820,820
+423,Layout,Ready to Start,SHOT_128,820,820
+424,Layout,Ready to Start,SHOT_129,820,820
+425,Layout,In progress,SHOT_130,820,820
+426,Layout,In progress,SHOT_011,590,590
+427,Hair and Fur,Completed,SHOT_380,070,070
+428,Compositing,Pending Review,SHOT_380,070,070
+429,Paint,Completed,SHOT_380,070,070
+430,Animation,Approved,SHOT_380,070,070
+431,Lookdev,Ready to Start,SHOT_380,070,070
+432,Cloth,Completed,SHOT_380,070,070
+433,Baking,Completed,SHOT_380,070,070
+434,Layout,In progress,SHOT_640,310,310
+435,Layout,In progress,SHOT_570,310,310
+436,Animation,In progress,SHOT_100,230,230
+437,fx,Completed,SHOT_010,050,050
+438,Layout,In progress,SHOT_261,820,820
+439,Animation,Ready to Start,SHOT_030,650,650
+440,Layout,Completed,SHOT_030,650,650
+441,Layout,In progress,SHOT_150,730,730
+442,Layout,In progress,SHOT_262,820,820
+443,Layout,In progress,SHOT_263,820,820
+444,Animation,Ready to Start,SHOT_190,450,450
+445,Layout,Completed,SHOT_190,450,450
+446,Layout,In progress,SHOT_055,610,610
+447,fx,On Hold,SHOT_031,221,221
+448,Layout,In progress,SHOT_080,590,590
+449,Layout,In progress,SHOT_791,820,820
+450,Paint,Completed,SHOT_020,330,330
+451,Lookdev,In progress,SHOT_020,330,330
+452,Hair and Fur,Completed,SHOT_030,080,080
+453,Compositing,Pending Review,SHOT_030,080,080
+454,Paint,Completed,SHOT_030,080,080
+455,Animation,Approved,SHOT_030,080,080
+456,Lookdev,Ready to Start,SHOT_030,080,080
+457,Cloth,Completed,SHOT_030,080,080
+458,Baking,Completed,SHOT_030,080,080
+459,Animation,In progress,SHOT_015,280,280
+460,Animation,In progress,SHOT_010,230,230
+461,Layout,In progress,SHOT_020,610,610
+462,Animation,Ready to Start,SHOT_070,450,450
+463,Layout,Completed,SHOT_070,450,450
+464,Hair and Fur,Completed,SHOT_377,070,070
+465,Compositing,Pending Review,SHOT_377,070,070
+466,Paint,Completed,SHOT_377,070,070
+467,Animation,Ready to Start,SHOT_377,070,070
+468,Lookdev,Not started,SHOT_377,070,070
+469,Layout,In progress,SHOT_650,310,310
+470,Cloth,Ready to Start,SHOT_377,070,070
+471,Baking,Completed,SHOT_377,070,070
+472,Cloth,Completed,SHOT_021,240,240
+473,Animation,Approved,SHOT_021,240,240
+474,Lookdev,In progress,SHOT_021,240,240
+475,Assemble,Completed,SHOT_021,240,240
+476,Baking,Completed,SHOT_021,240,240
+477,Animation,Ready to Start,SHOT_220,450,450
+478,Layout,Completed,SHOT_220,450,450
+479,FTP,Completed,SHOT_150,450,450
+480,FTP,Completed,SHOT_060,450,450
+481,FTP,Completed,SHOT_160,450,450
+482,FTP,Completed,SHOT_020,450,450
+483,FTP,Completed,SHOT_050,450,450
+484,FTP,Completed,SHOT_100,450,450
+485,FTP,Completed,SHOT_040,450,450
+486,FTP,Completed,SHOT_180,450,450
+487,FTP,Completed,SHOT_090,450,450
+488,FTP,Completed,SHOT_080,450,450
+489,FTP,Completed,SHOT_210,450,450
+490,FTP,Completed,SHOT_110,450,450
+491,FTP,Completed,SHOT_140,450,450
+492,FTP,Completed,SHOT_170,450,450
+493,FTP,Completed,SHOT_200,450,450
+494,FTP,Completed,SHOT_010,450,450
+495,FTP,Completed,SHOT_030,450,450
+496,FTP,Completed,SHOT_070,450,450
+497,FTP,Completed,SHOT_190,450,450
+498,FTP,Completed,SHOT_010,410,410
+499,FTP,Completed,SHOT_050,410,410
+500,FTP,Completed,SHOT_020,410,410
+501,FTP,Completed,SHOT_040,410,410
+502,Layout,In progress,SHOT_110,730,730
+503,FTP,Completed,SHOT_030,410,410
+504,FTP,Completed,SHOT_060,410,410
+505,Animation,Ready to Start,SHOT_010,630,630
+506,Layout,Completed,SHOT_010,630,630
+507,Layout,In progress,SHOT_090,610,610
+508,Layout,In progress,SHOT_081,590,590
+509,Layout,Ready to Start,SHOT_003,820,820
+510,Layout,Ready to Start,SHOT_131,820,820
+511,Layout,Ready to Start,SHOT_132,820,820
+512,Layout,Ready to Start,SHOT_133,820,820
+513,Cloth,Completed,SHOT_020,050,050
+514,Compositing,Approved,SHOT_020,050,050
+515,Paint,Completed,SHOT_020,050,050
+516,Rendering,Completed,SHOT_020,050,050
+517,Lookdev,Approved,SHOT_020,050,050
+518,Layout,Ready to Start,SHOT_137,820,820
+519,Layout,Ready to Start,SHOT_138,820,820
+520,Compositing,Pending Review,SHOT_010,170,170
+521,Paint,Completed,SHOT_010,170,170
+522,Rendering,In progress,SHOT_010,170,170
+523,Lookdev,Approved,SHOT_010,170,170
+524,Layout,Ready to Start,SHOT_139,820,820
+525,Layout,In progress,SHOT_610,310,310
+526,Cloth,Completed,SHOT_026,170,170
+527,Layout,In progress,SHOT_140,820,820
+528,Compositing,Pending Review,SHOT_026,170,170
+529,Paint,Ready to Start,SHOT_026,170,170
+530,Animation,Approved,SHOT_026,170,170
+531,Lookdev,Pending Review,SHOT_026,170,170
+532,Baking,Completed,SHOT_026,170,170
+533,Assemble,Completed,SHOT_080,170,170
+534,Layout,Ready to Start,SHOT_004,820,820
+535,Layout,In progress,SHOT_040,690,690
+536,Assemble,Completed,SHOT_060,170,170
+537,Layout,In progress,SHOT_141,820,820
+538,Assemble,Completed,SHOT_070,170,170
+539,Animation,In progress,SHOT_105,250,250
+540,Layout,In progress,SHOT_142,820,820
+541,Layout,In progress,SHOT_143,820,820
+542,Animation,Ready to Start,SHOT_010,360,360
+543,Layout,In progress,SHOT_144,820,820
+544,Layout,Completed,SHOT_010,360,360
+545,Layout,In progress,SHOT_145,820,820
+546,Animation,Ready to Start,SHOT_200,450,450
+547,Layout,Completed,SHOT_200,450,450
+548,Hair and Fur,Completed,SHOT_406,180,180
+549,Animation,Ready to Start,SHOT_070,360,360
+550,Animation,Approved,SHOT_406,180,180
+551,Lookdev,In progress,SHOT_406,180,180
+552,Layout,Completed,SHOT_070,360,360
+553,Assemble,Completed,SHOT_406,180,180
+554,Cloth,Completed,SHOT_406,180,180
+555,Baking,Completed,SHOT_406,180,180
+556,Lookdev,Not started,SHOT_010,210,210
+557,Paint,Completed,SHOT_190,700,700
+558,Animation,Ready to Start,SHOT_120,360,360
+559,Layout,Completed,SHOT_120,360,360
+560,Animation,Ready to Start,SHOT_020,630,630
+561,Layout,In progress,SHOT_065,310,310
+562,Layout,Completed,SHOT_020,630,630
+563,FTP,Completed,SHOT_010,630,630
+564,Layout,In progress,SHOT_060,730,730
+565,Animation,Ready to Start,SHOT_030,630,630
+566,Layout,Completed,SHOT_030,630,630
+567,Hair and Fur,Completed,SHOT_140,180,180
+568,Compositing,Pending Review,SHOT_140,180,180
+569,Paint,Ready to Start,SHOT_140,180,180
+570,Animation,Approved,SHOT_140,180,180
+571,Lookdev,Pending Review,SHOT_140,180,180
+572,Cloth,Completed,SHOT_140,180,180
+573,Baking,Completed,SHOT_140,180,180
+574,Paint,Completed,SHOT_120,250,250
+575,Lookdev,In progress,SHOT_120,250,250
+576,Animation,Ready to Start,SHOT_230,450,450
+577,Layout,Completed,SHOT_230,450,450
+578,Layout,In progress,SHOT_660,310,310
+579,Paint,Completed,SHOT_050,280,280
+580,Lookdev,On Hold,SHOT_050,280,280
+581,Animation,In progress,SHOT_120,230,230
+582,Animation,Ready to Start,SHOT_050,650,650
+583,FTP,Completed,SHOT_011,750,750
+584,FTP,Completed,SHOT_012,750,750
+585,Layout,Completed,SHOT_050,650,650
+586,FTP,Completed,SHOT_010,750,750
+587,Layout,In progress,SHOT_050,690,690
+588,Animation,Ready to Start,SHOT_080,450,450
+589,Layout,Completed,SHOT_080,450,450
+590,Layout,In progress,SHOT_030,610,610
+591,fx,Ready to Start,SHOT_035,150,150
+592,Animation,Ready to Start,SHOT_140,450,450
+593,Layout,Completed,SHOT_140,450,450
+594,Animation,Ready to Start,SHOT_150,360,360
+595,Layout,Completed,SHOT_150,360,360
+596,Layout,In progress,SHOT_580,310,310
+597,Animation,Ready to Start,SHOT_170,360,360
+598,Layout,Completed,SHOT_170,360,360
+599,Baking,Completed,SHOT_250,700,700
+600,Layout,In progress,SHOT_060,610,610
+601,FTP,Completed,SHOT_020,630,630
+602,Layout,In progress,SHOT_120,730,730
+603,Hair and Fur,Ready to Start,SHOT_359,070,070
+604,Animation,Approved,SHOT_359,070,070
+605,Cloth,Ready to Start,SHOT_359,070,070
+606,Baking,Completed,SHOT_359,070,070
+607,Animation,Ready to Start,SHOT_070,650,650
+608,Layout,Completed,SHOT_070,650,650
+609,hair and fur,Completed,SHOT_060,180,180
+610,hair and fur,Ready to Start,SHOT_035,150,150
+611,FTP,Completed,SHOT_030,430,430
+612,FTP,Completed,SHOT_020,430,430
+613,FTP,Completed,SHOT_040,430,430
+614,Layout,In progress,SHOT_611,310,310
+615,fx,Ready to Start,SHOT_040,221,221
+616,Animation,Ready to Start,SHOT_010,450,450
+617,Layout,Completed,SHOT_010,450,450
+618,Hair and Fur,Completed,SHOT_452,180,180
+619,Animation,Approved,SHOT_452,180,180
+620,Lookdev,In progress,SHOT_452,180,180
+621,Assemble,Completed,SHOT_452,180,180
+622,Cloth,Completed,SHOT_452,180,180
+623,Baking,Completed,SHOT_452,180,180
+624,Layout,In progress,SHOT_530,820,820
+625,Hair and Fur,Completed,SHOT_066,160,160
+626,Compositing,Pending Review,SHOT_066,160,160
+627,Paint,Completed,SHOT_066,160,160
+628,Layout,In progress,SHOT_540,820,820
+629,Animation,Approved,SHOT_066,160,160
+630,Lookdev,In progress,SHOT_066,160,160
+631,Cloth,Completed,SHOT_066,160,160
+632,Baking,Completed,SHOT_066,160,160
+633,Layout,In progress,SHOT_550,820,820
+634,Layout,In progress,SHOT_560,820,820
+635,Layout,In progress,SHOT_570,820,820
+636,FTP,Completed,SHOT_015,280,280
+637,Layout,In progress,SHOT_580,820,820
+638,FTP,Completed,SHOT_010,280,280
+639,FTP,Completed,SHOT_040,280,280
+640,FTP,Completed,SHOT_020,280,280
+641,FTP,Completed,SHOT_030,280,280
+642,Layout,In progress,SHOT_590,820,820
+643,Layout,In progress,SHOT_600,820,820
+644,Layout,In progress,SHOT_610,820,820
+645,Layout,In progress,SHOT_620,820,820
+646,Layout,In progress,SHOT_630,820,820
+647,Layout,In progress,SHOT_631,820,820
+648,Layout,In progress,SHOT_640,820,820
+649,Layout,In progress,SHOT_050,610,610
+650,Layout,In progress,SHOT_650,820,820
+651,Layout,In progress,SHOT_660,820,820
+652,Layout,In progress,SHOT_670,820,820
+653,Layout,In progress,SHOT_020,590,590
+654,Layout,In progress,SHOT_680,820,820
+655,Layout,In progress,SHOT_690,820,820
+656,Layout,In progress,SHOT_700,820,820
+657,Layout,In progress,SHOT_710,820,820
+658,Animation,Ready to Start,SHOT_090,450,450
+659,Layout,Completed,SHOT_090,450,450
+660,FTP,Completed,SHOT_030,630,630
+661,Layout,In progress,SHOT_720,820,820
+662,Layout,In progress,SHOT_730,820,820
+663,Layout,In progress,SHOT_740,820,820
+664,Layout,In progress,SHOT_750,820,820
+665,Layout,In progress,SHOT_760,820,820
+666,Compositing,Approved,SHOT_170,060,060
+667,Paint,Completed,SHOT_170,060,060
+668,Rendering,Completed,SHOT_170,060,060
+669,Layout,In progress,SHOT_770,820,820
+670,Layout,In progress,SHOT_780,820,820
+671,Layout,In progress,SHOT_790,820,820
+672,Compositing,Pending Review,SHOT_220,060,060
+673,Layout,In progress,SHOT_800,820,820
+674,Paint,Completed,SHOT_220,060,060
+675,Rendering,Not started,SHOT_220,060,060
+676,Animation,Approved,SHOT_220,060,060
+677,Lookdev,In progress,SHOT_220,060,060
+678,Baking,Completed,SHOT_220,060,060
+679,Cloth,Completed,SHOT_230,060,060
+680,Animation,Approved,SHOT_230,060,060
+681,Lookdev,In progress,SHOT_230,060,060
+682,Animation,Ready to Start,SHOT_362,070,070
+683,Layout,In progress,SHOT_810,820,820
+684,Baking,Completed,SHOT_230,060,060
+685,Layout,In progress,SHOT_820,820,820
+686,Layout,In progress,SHOT_830,820,820
+687,Layout,In progress,SHOT_146,820,820
+688,Layout,In progress,SHOT_840,820,820
+689,Layout,In progress,SHOT_850,820,820
+690,Layout,In progress,SHOT_860,820,820
+691,Animation,In progress,SHOT_090,230,230
+692,Layout,In progress,SHOT_870,820,820
+693,Layout,In progress,SHOT_147,820,820
+694,Layout,In progress,SHOT_880,820,820
+695,Layout,In progress,SHOT_010,600,600
+696,Layout,In progress,SHOT_890,820,820
+697,Layout,In progress,SHOT_900,820,820
+698,Layout,In progress,SHOT_148,820,820
+699,Lookdev,Not started,SHOT_031,221,221
+700,Compositing,On Hold,SHOT_031,221,221
