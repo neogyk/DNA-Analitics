@@ -13,6 +13,11 @@
 
  
   <style>
+      @font-face{
+          font-family:Futura-Condesed-Light;
+          src:url(/static/ufonts.com_futura-condensedlight.ttf);
+          
+      }
     /* Remove the navbar's default margin-bottom and rounded borders */ 
     .navbar {
       margin-bottom: 0;
@@ -52,7 +57,7 @@
             margin-right: 2px;
             min-height: 25px;
             min-width: 20px;
-            display:inline-block;
+           
         }
         .data {
             background-color: steelblue;
@@ -63,6 +68,21 @@
         .name{
             display:inline-block;
             margin-left:5px;
+        }
+        .chart rect {
+                    fill: steelblue;
+                    }
+
+        .chart text {
+                    fill: white;
+                    font: 10px sans-serif;
+                    text-anchor: middle;
+                    }
+        .description{
+            font-family: Futura-Condensed-Light;
+            font-size:20;
+            fill:white;
+            
         }
 </style>
 </head>
@@ -106,6 +126,7 @@
       <h3>Test</h3>
       <p>Lorem ipsum...</p>
       <div id='main'></div>
+      <svg class="chart"></svg>
     </div>
     <div class="col-sm-2 sidenav">
       <div class="well">
@@ -117,7 +138,7 @@
     </div>
   </div>
 </div>
-
+<svg class='barchart'></svg>
 <footer class="container-fluid text-center">
   <p>Footer Text</p>
 </footer>
@@ -156,7 +177,7 @@
       
       //Update
         d3.select("#main").selectAll('div.item').data(Special)
-.select('div').style('width', function (d) { return (d.value) + 'px';})
+.select('div').style('width', function (d) { return (d.value*2) + 'px';})
 .select('span').text(function (d) { return d.value;});
       
         d3.select("#main").selectAll('div.item').data(Special).append('div').attr('class', 'name')
@@ -168,10 +189,10 @@
    //Data loaded 
    //TO DO
    /*
-   1) make list of object -['name':,'status']
+   1) make list of object -['name':,'status'] -- Done
    There are another way to Produce Functionality of code:
    
-   2) make diagram
+   2) make diagram -- Done
       
    3) make bar chart
    
@@ -185,6 +206,41 @@
    
    7) admin Page    
    */
+  </script>
+  <script>
+     var data = [{name: "Layout", value: 286},
+{name: "Animation", value: 92},
+{name: "FTP", value: 74},
+{name: "Paint", value: 56},
+{name: "Lookdev", value: 40},
+{name: "Compositing", value: 32},
+{name: "Baking", value: 29},
+{name: "Rendering", value: 24},
+{name: "Cloth", value: 23},
+{name: "Hair and Fur", value: 16},
+{name: "Assemble", value: 11},
+{name: "hair and fur", value: 7},
+{name: "fx", value: 7},
+{name: "Fur", value: 3},
+{name: "Modeling", value: 1}]
+var width = 960;
+var height = 500;
+var barchart=d3.select('.barchart')
+              .attr('width',width)
+              .attr('height',height);
+var barWidth = width / data.length;
+var bar  = barchart.selectAll("g").data(data).enter().append("g")
+        .attr("transform", function(d, i) { return "translate(" + i * barWidth + ",0)"; })
+        .text(function(d){return d.name;});
+bar.append('rect').attr("y", function(d) { return d.value })
+                  .attr("height", function(d) { return height - d.value })
+                  .attr("width", barWidth - 1)
+                  .attr('style','fill:rgb(81,135,161);');
+bar.append('text').attr('transform','rotate(-90)')
+                  .attr('class','description')
+                  .attr("x", function(d) { return -height+d.value/2; })
+                  .attr("y", barWidth/2)
+                  .text(function(d){return d.name;});
   </script>
 </body>
 </html>
