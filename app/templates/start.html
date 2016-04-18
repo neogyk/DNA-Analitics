@@ -84,6 +84,12 @@
             fill:white;
             
         }
+        .description-form{
+            font-family: Futura-Condensed-Light;
+            font-size:20;
+            fill:silver;
+            position:relative;
+        }
 </style>
 </head>
 <body>
@@ -138,7 +144,12 @@
     </div>
   </div>
 </div>
-<svg class='barchart'></svg>
+<div class = "container-fluid text-center" id = "mainSVG">
+    <svg class='barchart'></svg>
+</div>
+<div class = "container-fluid text-center">
+    <svg class='circlediagram'></svg>
+</div>
 <footer class="container-fluid text-center">
   <p>Footer Text</p>
 </footer>
@@ -225,8 +236,9 @@
 {name: "Modeling", value: 1}]
 var width = 960;
 var height = 500;
+var event = [];
 var barchart=d3.select('.barchart')
-              .attr('width',width)
+              .attr('width',width+100)
               .attr('height',height);
 var barWidth = width / data.length;
 var bar  = barchart.selectAll("g").data(data).enter().append("g")
@@ -238,9 +250,39 @@ bar.append('rect').attr("y", function(d) { return d.value })
                   .attr('style','fill:rgb(81,135,161);');
 bar.append('text').attr('transform','rotate(-90)')
                   .attr('class','description')
-                  .attr("x", function(d) { return -height+d.value/2; })
+                  .attr("x", function(d) { return -(height)/1.25; })//-(height)/1.25
                   .attr("y", barWidth/2)
                   .text(function(d){return d.name;});
+bar.append('rect').attr('class','description-form')
+                  .attr('width',barWidth-1)
+                  .attr('height',50)
+                  .attr("y", function(d) { return d.value-5; });
+bar.append('text').attr("y", function(d) { return d.value-5; })
+                  .attr('width',barWidth-1)
+                  .attr('height',50)
+                  .attr("x", function(d) { return height - d.value ; })
+                  .text(function(d){return d.value;});      
+
+/*
+d3.select('g').on('mouseenter',function(){
+
+    
+});    
+*/         
+  </script>
+  
+  <script>
+      /*
+      var arc1= d3.svg.arc() //Функція відмальовки кругової діаграми
+                .innerRadius(10)//внутрішній радіус
+                .outerRadius(100)//зовнійшній радіус
+                .startAngle(0)//Початковий кут
+                .endAngle(Math.PI/4);//Кінцевий
+     chart_area
+                .append('path')
+                .attr('d',arc1)
+                .attr('transform',)
+                */
   </script>
 </body>
 </html>
