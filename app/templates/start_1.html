@@ -12,22 +12,7 @@
 <script src="https://d3js.org/d3.v4.min.js"></script>
   <script type=text/javascript>$SCRIPT_ROOT = {{ request.script_root|tojson|safe }};</script>
 
-
-<style>
-
-.arc text {
-  font: 10px sans-serif;
-  text-anchor: middle;
-}
-
-.arc path {
-  stroke: #fff;
-}
-
-
-</style>
-
-<head>
+</head>
 <body >
 <div class ="left">
     <ul>
@@ -54,66 +39,55 @@
         <svg class='barchart'></svg>
 </div>
 
-<svg></svg>
+<canvas></canvas>
 <script>
 
-var height = 500;
-var width=960;
-var margin=15;
-var radius  = Math.min(width, height) / 2;
 
-var color = d3.scaleOrdinal().range(["#a05d56", "#fd4b29"]);
-//"#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", 
-var arc = d3.arc()
-            .outerRadius(radius)
-            .innerRadius(0)
-            .padAngle(0.01); 
-
-
-var labelArc = d3.arc()
-    .outerRadius(radius - 45)
-    .innerRadius(radius - 45);
-
-
-var pie = d3.pie()
-          .sort(null)
-          .value(function(d) { return d; });
-
-var svg = d3.select("body").append("svg")
-    .attr("width", width)
-    .attr("height", height)
-    .append("g")
-    .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 
 
 var pdata = d3.json("/getDataCSV",function(error,data){
-    console.log(data);
-    console.log(Object.keys(data));
-    /*
     da = Object.keys(data['Duration']).map(k => data['Duration'][k]);
     console.log(da);
     console.log(Object.keys(data['Duration']).map(k => data['Duration'][k]));
     console.log( data['Duration']);
-    */
-    RenderData(data);
+    RenderData(da);
 });
 function RenderData(da)
 {
+var height = 500;
+var width=960;
+var margin=10;
+var canvas = document.querySelector("canvas"),
+    context = canvas.getContext("2d");
+canvas.style.width = 500;
+canvas.style.height = 300;
+context.translate(100,100);
+var radius  = Math.min(width, height) / 2;
+var color = d3.scale.ordinal().range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
+var arc = d3.arc()
+            .outerRadius(radius)
+            .innerRadius(0)
+            .padAngle(0.03)
+            .context(context);    
 
-    var g = svg.selectAll(".arc")
-      .data(pie(da))
-      .enter().append("g")
-      .attr("class", "arc");
+var arcs = d3.pie()(da);
 
-    g.append("path")
-      .attr("d", arc)
-      .style("fill", function(d) { return color(d['data']['Duration']); });
+context.globalAlpha = 0.5;
 
-    g.append("text")
-      .attr("transform", function(d) { return "translate(" + labelArc.centroid(d) + ")"; })
-      .attr("dy", ".35em")
-      .text(function(d) { console.log(d['data']['Name']);
-                          return d['data']['Name']; })  
+arcs.forEach(function(d,i) {
+    console.log(d);
+    context.beginPath();
+    arc(d);
+    context.fill();
+});
+
+
+context.globalAlpha = 1;
+context.beginPath();
+arcs.forEach(arc);
+context.lineWidth = 1.5;
+context.stroke();
+
 }
 </script>
 
