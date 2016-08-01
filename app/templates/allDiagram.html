@@ -1,0 +1,125 @@
+
+<html ng-app="visualApp">
+<head>
+  <title></title>
+  <meta charset="utf-8">
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.12.0.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+  <script type=text/javascript>$SCRIPT_ROOT = {{ request.script_root|tojson|safe }};</script>
+
+
+<style>
+
+.arc text {
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+
+.arc path {
+  stroke:#232;
+}
+
+
+</style>
+
+<head>
+<body >
+<div class ="left">
+    <ul>
+        <li>Status</li>
+        <li>Approved</li>
+        <li>Completed</li>
+        <li>Ready to Start</li>
+        <li>Not Started</li>
+    </ul>
+    <ul>
+        <li>Task</li>
+        <li>Layout</li>
+        <li>Animation</li>
+        <li>Rendering</li>
+        <li>Compositing</li>
+    </ul>
+</div>
+<div class="btn-group-vertical">
+  <button type="button" class="btn btn-primary">Pie Chart</button>
+  <button type="button" class="btn btn-primary">Bar Chart</button>
+  <button type="button" class="btn btn-primary">Bilevel Partition</button>
+</div>
+<div ng-controller="data">
+    
+    <p ng-bind="ldata"></p>
+    <p ng-bind="secondName"></p>
+</div>
+<div class = "container-fluid text-center" id = "mainSVG">
+        <svg class='barchart'></svg>
+</div>
+
+<svg></svg>
+<script>
+//Set up properies 
+var height = 500;
+var width=960;
+var margin=15;
+var radius  = Math.min(width, height) / 2;
+//Color scale generator
+var color = d3.scaleOrdinal().range(d3.schemeCategory10);
+//Generate arc with given arguments
+var arc = d3.arc()
+            .outerRadius(radius)
+            .innerRadius(40)
+            .padAngle(0.1); 
+
+//Constructs a new pie generator with the default settings.
+var labelArc = d3.arc()
+                 .outerRadius(radius - 15)
+                 .innerRadius(radius-55);
+
+//Constructs a new pie generator with the default settings.
+var pie = d3.pie()
+          .sort(null)
+          .value(function(d) {  
+                              console.log(d['Duration']);
+                              return d['Duration']; });
+
+
+var svg = d3.select("body")
+            .append("svg")
+            .attr("width", width)
+            .attr("height", height)
+            .append("g")
+            .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+
+var pdata = d3.json("/getDataCSV",function(error,data){
+            RenderData(data);
+});
+
+function RenderData(da){
+
+    var g = svg.selectAll(".arc")
+               .data(pie(da))
+               .enter()
+               .append("g")
+               .attr("class", "arc");
+
+    g.append("path")
+      .attr("d", arc)
+      .style("fill", function(d) { return color(d['data']['Duration']); });
+
+    g.append("text")
+      .attr("transform", function(d) { return "translate(" + labelArc.centroid(d) + ")"; })
+      .attr("dy", ".35em")
+      .text(function(d) { console.log(d['data']['Name']);
+                          return d['data']['Name']; })  
+}
+</script>
+
+<script crs="/static/js/visual.js"></script>
+<script crs="/static/js/controls.js"></script>
+</body>
+</html>

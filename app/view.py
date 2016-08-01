@@ -1,6 +1,8 @@
 from app import app
 from flask import render_template,jsonify,request
 import pandas as pd
+from database import db_session
+from database import init_db
 import numpy as np
 
 def diff(list_1,list_2):
@@ -18,18 +20,28 @@ def Sum(array):
     
 @app.route('/')
 def startPage():
-    print "Plus"
+    print app.config
+    init_db()
+    from schema import Task
+    u= Task(1, 'admin@localhost')
+    db_session.add(u)
+    db_session.add(u)
+    print u
     return render_template('start.html')
+
+@app.route("/allDiagram")
+def alldiagram():
+    print "Process Start"
+    return render_template("allDiagram.html")
 @app.route('/getDataCSV')
 def get_Data():
     print 'Radar'
-    
     df = pd.read_csv("P:/TANNER/PREP/MANAGE/DataBase_Ftrack/Task Statistics/TotalStatistics/17.06.2016/REEL_04.csv")
     #_df = df[['Name','Status','Duration']]
     
     #_df['Name'].values
     ##Return All for Animation Data:
-    animationData = df[df.Name=="Rendering"][['Name','Status','Duration']]
+    animationData = df[df.Name=="Animation"][['Name','Status','Duration']]
     #taskNames = np.unique(_df['Name'].values).tolist()
     dInform = []
     statusLists = np.unique(animationData['Status'].values).tolist()
