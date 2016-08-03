@@ -30,20 +30,34 @@
 <head>
 <body >
 <div class ="left">
-    <ul>
+    <ul class="status_control">
         <li>Status</li>
         <li>Approved</li>
         <li>Completed</li>
         <li>Ready to Start</li>
         <li>Not Started</li>
     </ul>
-    <ul>
+    <ul class="task_control">
         <li>Task</li>
-        <li>Layout</li>
-        <li>Animation</li>
-        <li>Rendering</li>
-        <li>Compositing</li>
+        <li id="Layout">Layout</li>
+        <li id="Animation">Animation</li>
+        <li id="Rendering">Rendering</li>
+        <li id="Compositing">Compositing</li>
+        <li id = "reel_control">
+          <a>REEL</a>
+          <ul class="nav nav-second-level collapase">
+            <li>
+              <a>REEL_01</a></li>
+            <li>
+              <a>REEL_02</a></li>
+            <li>
+              <a>REEL_03</a></li>
+            <li>
+              <a>REEL_04</a></li>
+          </ul>  
+        </li>
     </ul>
+    
 </div>
 <div class="btn-group-vertical">
   <button type="button" class="btn btn-primary">Pie Chart</button>
@@ -119,6 +133,12 @@ function RenderData(da){
 }
 </script>
 
+
+
+<sctip>
+
+
+</script>
 <script crs="/static/js/visual.js"></script>
 <script crs="/static/js/controls.js"></script>
 </body>

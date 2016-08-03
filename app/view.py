@@ -28,7 +28,26 @@ def startPage():
     db_session.add(u)
     print u
     return render_template('start.html')
-
+@app.route('/second')
+def secondPage():
+    print app.config
+    init_db()
+    from schema import Task
+    u= Task(1, 'admin@localhost')
+    db_session.add(u)
+    db_session.add(u)
+    print u
+    return render_template('second.html')
+@app.route('/third')
+def thirdPage():
+    print app.config
+    init_db()
+    from schema import Task
+    u= Task(1, 'admin@localhost')
+    db_session.add(u)
+    db_session.add(u)
+    print u
+    return render_template('third.html')
 @app.route("/allDiagram")
 def alldiagram():
     print "Process Start"
@@ -52,4 +71,23 @@ def get_Data():
     animationData
     dataJson = animationData.to_json()
     return jsonify(dInform)
-
+@app.route('/getDataCSV')
+def get_Data():
+    print 'Radar'
+    df = pd.read_csv("P:/TANNER/PREP/MANAGE/DataBase_Ftrack/Task Statistics/TotalStatistics/17.06.2016/REEL_04.csv")
+    _df = df[['Name','Status','Duration']]
+    
+    #_df['Name'].values
+    ##Return All for Animation Data:
+    taskNameData = np.unique(animationData['Name'].values).tolist()
+    animationData = df[df.Name=="Animation"][['Name','Status','Duration']]
+    #taskNames = np.unique(_df['Name'].values).tolist()
+    dInform = []
+    statusLists = np.unique(animationData['Status'].values).tolist()
+    for status in statusLists:
+        dInform.append({"Status":status,"Duration":animationData[animationData.Status==status]["Duration"].sum()})
+    print(dInform)
+    #print(np.unique(_df['Duration'].values).tolist())
+    animationData
+    dataJson = animationData.to_json()
+    return jsonify(dInform)
