@@ -71,8 +71,31 @@ def get_Data():
     animationData
     dataJson = animationData.to_json()
     return jsonify(dInform)
-@app.route('/getDataCSV')
-def get_Data():
+@app.route('/getBubbleDataCSV')
+def get_BubbleData():
+    print 'Radar'
+    df = pd.read_csv("P:/TANNER/PREP/MANAGE/DataBase_Ftrack/Task Statistics/TotalStatistics/17.06.2016/REEL_04.csv")
+    _df = df[['Name','Status','Duration']]
+    
+    #_df['Name'].values
+    ##Return All for Animation Data:
+    taskNameData = np.unique(_df['Name'].values).tolist()
+    largeDict = {}
+    for name in taskNameData:
+        taskData = df[df.Name==name][['Name','Status','Duration']]
+        print taskData
+        #taskNames = np.unique(_df['Name'].values).tolist()
+        dInform = []
+        statusLists = np.unique(_df['Status'].values).tolist()
+        print statusLists
+        for status in statusLists:
+            dInform.append({"Status":status,"Duration":_df[_df.Status==status]["Duration"].sum()})
+        print(dInform)
+        largeDict[name]=dInform
+    print(largeDict)
+    return jsonify(largeDict)
+@app.route('/get3DataCSV')
+def get_3Data():
     print 'Radar'
     df = pd.read_csv("P:/TANNER/PREP/MANAGE/DataBase_Ftrack/Task Statistics/TotalStatistics/17.06.2016/REEL_04.csv")
     _df = df[['Name','Status','Duration']]
