@@ -1,9 +1,10 @@
 from app import app
-from flask import render_template,jsonify,request
+from flask import render_template,jsonify,request, url_for, json
 import pandas as pd
 from database import db_session
 from database import init_db
 import numpy as np
+import os
 
 def diff(list_1,list_2):
     d_list = []
@@ -48,6 +49,14 @@ def thirdPage():
     db_session.add(u)
     print u
     return render_template('third.html')
+
+
+@app.route('/four')
+def fourPage():
+    return render_template('four.html')
+
+
+####AJAX REQUEST-RESPONCE SCHEMA
 @app.route("/allDiagram")
 def alldiagram():
     print "Process Start"
@@ -76,14 +85,19 @@ def get_BubbleData():
     print 'Radar'
     df = pd.read_csv("P:/TANNER/PREP/MANAGE/DataBase_Ftrack/Task Statistics/TotalStatistics/17.06.2016/REEL_04.csv")
     _df = df[['Name','Status','Duration']]
-    
+
     #_df['Name'].values
     ##Return All for Animation Data:
     taskNameData = np.unique(_df['Name'].values).tolist()
-    largeDict = {}
+    largeList = []
+    
     for name in taskNameData:
+        largeDict = {}
         taskData = df[df.Name==name][['Name','Status','Duration']]
         print taskData
+        print name
+        largeDict['Name']=name
+       
         #taskNames = np.unique(_df['Name'].values).tolist()
         dInform = []
         statusLists = np.unique(_df['Status'].values).tolist()
@@ -91,9 +105,11 @@ def get_BubbleData():
         for status in statusLists:
             dInform.append({"Status":status,"Duration":_df[_df.Status==status]["Duration"].sum()})
         print(dInform)
-        largeDict[name]=dInform
-    print(largeDict)
-    return jsonify(largeDict)
+        largeDict['Data']=dInform
+        largeList.append(largeDict)
+
+    print(largeList)
+    return jsonify(largeList)
 @app.route('/get3DataCSV')
 def get_3Data():
     print 'Radar'
@@ -114,3 +130,10 @@ def get_3Data():
     animationData
     dataJson = animationData.to_json()
     return jsonify(dInform)
+@app.route('/getGeoJson')
+def getGeoJson():
+    SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
+    json_url = os.path.join(SITE_ROOT, "static/ukraine_geojson-master", "Kiev.json")
+    data = json.load(open(json_url))
+    print data
+    return jsonify(data)

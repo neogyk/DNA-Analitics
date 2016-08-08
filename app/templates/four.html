@@ -10,6 +10,9 @@
   <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.12.0.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 <script src="https://d3js.org/d3.v4.min.js"></script>
+
+
+  <script src="//d3js.org/topojson.v1.min.js"></script>
   <script type=text/javascript>$SCRIPT_ROOT = {{ request.script_root|tojson|safe }};</script>
 
 
@@ -209,39 +212,32 @@ $('.left_Navigator ul  #status_control').focus(function(){
     
     $(this).css("background-color","yellow");
 
-})
+});
 
 
-var diameter = 960.
-    format = d3.format(",d");
+
+var width = 960,
+    height = 1160;
+
 var color = d3.scaleOrdinal().range(d3.schemeCategory10);
 
-var bubble = d3.pack()
-    .size([diameter])
-    .padding(1.5);
+
 
 var svg = d3.select("body .monitor #main #in_the_middle").append("svg")
-    .attr("width", diameter)
-    .attr("height", diameter)
-    .attr("class", "bubble");
+    .attr("width", width)
+    .attr("height", height);
 
-var pdata = d3.json("/getBubbleDataCSV",function(error,data){
-            
-            
-            RenderBubbleData(data);
-            console.log("Hello");   
-         
-        });
-function RenderBubbleData(data){
-    var node = svg.selectAll(".node")
-        .data(data)
-        .filter(function(d) { condole.log(d.Name); })
-        .enter().append("g")
-        .attr("class", "node")
-        .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+d3.json("/getGeoJson", function(error, kiev) {
+    console.log(kiev);
+    svg.append("path")
+      .datum(kiev)
+      .attr("d", d3.geo.path().projection(d3.geo.mercator()));
+});
+  //svg.append("path")
+    //  .datum(topojson.feature(kiev, kiev.objects.subunits))
+     // .attr("d", d3.geo.path().projection(d3.geo.mercator()));
 
 
-}
 /*
 //Set up properies 
 var height = 500;

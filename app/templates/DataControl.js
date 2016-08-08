@@ -5,12 +5,11 @@ $('.left_Navigator #controls .second_level li a').click(function(){
     else{
         $(this).parent().addClass("selected");
         var pdata = d3.json("/getDataCSV",function(error,data){
-        RenderData(data);
-        console.log("Hello");   
-        } 
-});
-
-
+            RenderData(data);
+            console.log("Hello");   
+         
+        });
+    }
 })
 
 $('.left_Navigator ul  #status_control').focus(function(){
