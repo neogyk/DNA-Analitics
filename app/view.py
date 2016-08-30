@@ -11,12 +11,3 @@ app.config.update(dict(
     USERNAME='admin',
     PASSWORD='default'
 ))
-
-import database_connection():
-
-@app.route('/')
-
-@app.route('/create')
-@app.route('/update')
-@app.route('/destroy')
-@app.route('/read')
