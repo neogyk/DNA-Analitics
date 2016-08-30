@@ -1,13 +1,9 @@
 from app import app
-from flask import render_template,jsonify,request, url_for, json, g , session
+from flask import render_template,jsonify,request, url_for, json, g , session,request
 import pandas as pd
 import os
-import sqlite3
 
-# Load default config and override config from an environment variable
-app.config.update(dict(
-    DATABASE=os.path.join(app.root_path, 'flaskr.db'),
-    SECRET_KEY='development key',
-    USERNAME='admin',
-    PASSWORD='default'
-))
+
+@app.route('/login',methods = ['POST','GET'])
+def index():
+    return render_template('index.html')
