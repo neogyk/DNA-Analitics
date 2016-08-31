@@ -1,5 +1,5 @@
 from app import db
-
+ 
 class Users(db.Model):
     id = db.Column(db.Integer,primary_key = True)
     login = db.Column(db.String(64))
@@ -23,11 +23,26 @@ class Tasks(db.Model):
     start_date = db.Column(db.String(64))
     end_date = db.Column(db.String(64))
     duration = db.Column(db.Integer)
+    def __init__(self,name,shot,seq,reel,start_date,end_date,duration):
+        self.name = name
+        self.shot = shot
+        self.seq = seq
+        self.reel = reel
+        self.start_date = start_date
+        self.end_date = end_date
+        self.duration = duration
     def __repr__(self):
         print "Task %r %r %r %r %r %r %r " %(self.name,self.shot,self.seq,self.reel,self.start_date,self.end_date,self.duration)
 class WorkFlow(db.Model):
     id = db.Column(db.Integer,primary_key = True)
-    status = db.Column(db.String(64))
+    status = db.Column(db.String)
+    fill_date = db.Column(db.String)
     task_id = db.Column(db.Integer, db.ForeignKey('tasks.task_id'))
+    task = db.relationship('Tasks',
+        backref=db.backref('workflow', lazy='dynamic'))
+    def __init__(self,status,fill_date,task):
+        self.status = status
+        self.fill_date = fill_date
+        self.task = task
     def __repr__(self):
         print "work_flow %r %r" % (self.status,self.task_id)

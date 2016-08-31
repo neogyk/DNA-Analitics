@@ -1,0 +1,2650 @@
+,Name,Status,Shot,Seq,Reel,StartDate,EndDate,Duration
+0,Hair and Fur,Not started,SHOT_220,550,REEL_03,,,78.0
+1,Compositing,Not started,SHOT_220,550,REEL_03,,,78.0
+2,Paint,Not started,SHOT_220,550,REEL_03,,,78.0
+3,Rendering,Not started,SHOT_220,550,REEL_03,,,78.0
+4,Animation,Not started,SHOT_220,550,REEL_03,,,78.0
+5,Lookdev,Not started,SHOT_220,550,REEL_03,,,78.0
+6,Assemble,Completed,SHOT_220,550,REEL_03,,,78.0
+7,Layout,Completed,SHOT_220,550,REEL_03,,,78.0
+8,Cloth,Not started,SHOT_220,550,REEL_03,,,78.0
+9,Baking,Not started,SHOT_220,550,REEL_03,,,78.0
+10,Hair and Fur,Not started,SHOT_040,550,REEL_03,,,55.0
+11,Compositing,Not started,SHOT_040,550,REEL_03,,,55.0
+12,Paint,Not started,SHOT_040,550,REEL_03,,,55.0
+13,Rendering,Not started,SHOT_040,550,REEL_03,,,55.0
+14,Animation,Not started,SHOT_040,550,REEL_03,,,55.0
+15,Lookdev,Not started,SHOT_040,550,REEL_03,,,55.0
+16,Assemble,Completed,SHOT_040,550,REEL_03,,,55.0
+17,Layout,Completed,SHOT_040,550,REEL_03,,,55.0
+18,Cloth,Not started,SHOT_040,550,REEL_03,,,55.0
+19,Baking,Not started,SHOT_040,550,REEL_03,,,55.0
+20,Hair and Fur,Not started,SHOT_110,550,REEL_03,,,54.0
+21,Compositing,Not started,SHOT_110,550,REEL_03,,,54.0
+22,Paint,Not started,SHOT_110,550,REEL_03,,,54.0
+23,Rendering,Not started,SHOT_110,550,REEL_03,,,54.0
+24,Animation,Not started,SHOT_110,550,REEL_03,,,54.0
+25,Lookdev,Not started,SHOT_110,550,REEL_03,,,54.0
+26,Assemble,Completed,SHOT_110,550,REEL_03,,,54.0
+27,Layout,Completed,SHOT_110,550,REEL_03,2015-12-11 00:00:00,,54.0
+28,Cloth,Not started,SHOT_110,550,REEL_03,,,54.0
+29,Baking,Not started,SHOT_110,550,REEL_03,,,54.0
+30,Hair and Fur,Not started,SHOT_150,550,REEL_03,,,108.0
+31,Compositing,Not started,SHOT_150,550,REEL_03,,,108.0
+32,Paint,Not started,SHOT_150,550,REEL_03,,,108.0
+33,Rendering,Not started,SHOT_150,550,REEL_03,,,108.0
+34,Animation,Not started,SHOT_150,550,REEL_03,,,108.0
+35,Lookdev,Not started,SHOT_150,550,REEL_03,,,108.0
+36,Assemble,Completed,SHOT_150,550,REEL_03,,,108.0
+37,Layout,Completed,SHOT_150,550,REEL_03,,,108.0
+38,Cloth,Not started,SHOT_150,550,REEL_03,,,108.0
+39,Baking,Not started,SHOT_150,550,REEL_03,,,108.0
+40,Hair and Fur,Not started,SHOT_190,550,REEL_03,,,141.0
+41,Compositing,Not started,SHOT_190,550,REEL_03,,,141.0
+42,Paint,Not started,SHOT_190,550,REEL_03,,,141.0
+43,Rendering,Not started,SHOT_190,550,REEL_03,,,141.0
+44,Animation,Not started,SHOT_190,550,REEL_03,,,141.0
+45,Lookdev,Not started,SHOT_190,550,REEL_03,,,141.0
+46,Assemble,Completed,SHOT_190,550,REEL_03,,,141.0
+47,Layout,Completed,SHOT_190,550,REEL_03,,,141.0
+48,Cloth,Not started,SHOT_190,550,REEL_03,,,141.0
+49,Baking,Not started,SHOT_190,550,REEL_03,,,141.0
+50,Hair and Fur,Not started,SHOT_120,550,REEL_03,,,63.0
+51,Compositing,Not started,SHOT_120,550,REEL_03,,,63.0
+52,Paint,Not started,SHOT_120,550,REEL_03,,,63.0
+53,Rendering,Not started,SHOT_120,550,REEL_03,,,63.0
+54,Animation,Not started,SHOT_120,550,REEL_03,,,63.0
+55,Lookdev,Not started,SHOT_120,550,REEL_03,,,63.0
+56,Assemble,Completed,SHOT_120,550,REEL_03,,,63.0
+57,Layout,Completed,SHOT_120,550,REEL_03,,,63.0
+58,Cloth,Not started,SHOT_120,550,REEL_03,,,63.0
+59,Baking,Not started,SHOT_120,550,REEL_03,,,63.0
+60,Hair and Fur,Not started,SHOT_010,550,REEL_03,,,204.0
+61,Compositing,Not started,SHOT_010,550,REEL_03,,,204.0
+62,Paint,Not started,SHOT_010,550,REEL_03,,,204.0
+63,Rendering,Not started,SHOT_010,550,REEL_03,,,204.0
+64,Animation,Not started,SHOT_010,550,REEL_03,,,204.0
+65,Lookdev,Not started,SHOT_010,550,REEL_03,,,204.0
+66,Assemble,Completed,SHOT_010,550,REEL_03,,,204.0
+67,Layout,Completed,SHOT_010,550,REEL_03,,,204.0
+68,Cloth,Not started,SHOT_010,550,REEL_03,,,204.0
+69,Baking,Not started,SHOT_010,550,REEL_03,,,204.0
+70,Hair and Fur,Not started,SHOT_090,550,REEL_03,,,57.0
+71,Compositing,Not started,SHOT_090,550,REEL_03,,,57.0
+72,Paint,Not started,SHOT_090,550,REEL_03,,,57.0
+73,Rendering,Not started,SHOT_090,550,REEL_03,,,57.0
+74,Animation,Not started,SHOT_090,550,REEL_03,,,57.0
+75,Lookdev,Not started,SHOT_090,550,REEL_03,,,57.0
+76,Assemble,Completed,SHOT_090,550,REEL_03,,,57.0
+77,Layout,Completed,SHOT_090,550,REEL_03,2015-12-11 00:00:00,,57.0
+78,Cloth,Not started,SHOT_090,550,REEL_03,,,57.0
+79,Baking,Not started,SHOT_090,550,REEL_03,,,57.0
+80,Hair and Fur,Not started,SHOT_200,550,REEL_03,,,61.0
+81,Compositing,Not started,SHOT_200,550,REEL_03,,,61.0
+82,Paint,Not started,SHOT_200,550,REEL_03,,,61.0
+83,Rendering,Not started,SHOT_200,550,REEL_03,,,61.0
+84,Animation,Not started,SHOT_200,550,REEL_03,,,61.0
+85,Lookdev,Not started,SHOT_200,550,REEL_03,,,61.0
+86,Assemble,Completed,SHOT_200,550,REEL_03,,,61.0
+87,Layout,Completed,SHOT_200,550,REEL_03,,,61.0
+88,Cloth,Not started,SHOT_200,550,REEL_03,,,61.0
+89,Baking,Not started,SHOT_200,550,REEL_03,,,61.0
+90,Hair and Fur,Not started,SHOT_050,550,REEL_03,,,66.0
+91,Compositing,Not started,SHOT_050,550,REEL_03,,,66.0
+92,Paint,Not started,SHOT_050,550,REEL_03,,,66.0
+93,Rendering,Not started,SHOT_050,550,REEL_03,,,66.0
+94,Animation,Not started,SHOT_050,550,REEL_03,,,66.0
+95,Lookdev,Not started,SHOT_050,550,REEL_03,,,66.0
+96,Assemble,Completed,SHOT_050,550,REEL_03,,,66.0
+97,Layout,Completed,SHOT_050,550,REEL_03,,,66.0
+98,Cloth,Not started,SHOT_050,550,REEL_03,,,66.0
+99,Baking,Not started,SHOT_050,550,REEL_03,,,66.0
+100,Hair and Fur,Not started,SHOT_030,550,REEL_03,,,167.0
+101,Compositing,Not started,SHOT_030,550,REEL_03,,,167.0
+102,Paint,Not started,SHOT_030,550,REEL_03,,,167.0
+103,Rendering,Not started,SHOT_030,550,REEL_03,,,167.0
+104,Animation,Not started,SHOT_030,550,REEL_03,,,167.0
+105,Lookdev,Not started,SHOT_030,550,REEL_03,,,167.0
+106,Assemble,Completed,SHOT_030,550,REEL_03,,,167.0
+107,Layout,Completed,SHOT_030,550,REEL_03,,,167.0
+108,Cloth,Not started,SHOT_030,550,REEL_03,,,167.0
+109,Baking,Not started,SHOT_030,550,REEL_03,,,167.0
+110,Hair and Fur,Not started,SHOT_130,550,REEL_03,,,38.0
+111,Compositing,Not started,SHOT_130,550,REEL_03,,,38.0
+112,Paint,Not started,SHOT_130,550,REEL_03,,,38.0
+113,Rendering,Not started,SHOT_130,550,REEL_03,,,38.0
+114,Animation,Not started,SHOT_130,550,REEL_03,,,38.0
+115,Lookdev,Not started,SHOT_130,550,REEL_03,,,38.0
+116,Assemble,Completed,SHOT_130,550,REEL_03,,,38.0
+117,Layout,Completed,SHOT_130,550,REEL_03,,,38.0
+118,Cloth,Not started,SHOT_130,550,REEL_03,,,38.0
+119,Baking,Not started,SHOT_130,550,REEL_03,,,38.0
+120,Hair and Fur,Not started,SHOT_210,550,REEL_03,,,104.0
+121,Compositing,Not started,SHOT_210,550,REEL_03,,,104.0
+122,Paint,Not started,SHOT_210,550,REEL_03,,,104.0
+123,Rendering,Not started,SHOT_210,550,REEL_03,,,104.0
+124,Animation,Not started,SHOT_210,550,REEL_03,,,104.0
+125,Lookdev,Not started,SHOT_210,550,REEL_03,,,104.0
+126,Assemble,Completed,SHOT_210,550,REEL_03,,,104.0
+127,Layout,Completed,SHOT_210,550,REEL_03,,,104.0
+128,Cloth,Not started,SHOT_210,550,REEL_03,,,104.0
+129,Baking,Not started,SHOT_210,550,REEL_03,,,104.0
+130,Hair and Fur,Not started,SHOT_020,550,REEL_03,,,50.0
+131,Compositing,Not started,SHOT_020,550,REEL_03,,,50.0
+132,Paint,Not started,SHOT_020,550,REEL_03,,,50.0
+133,Rendering,Not started,SHOT_020,550,REEL_03,,,50.0
+134,Animation,Not started,SHOT_020,550,REEL_03,,,50.0
+135,Lookdev,Not started,SHOT_020,550,REEL_03,,,50.0
+136,Assemble,Completed,SHOT_020,550,REEL_03,,,50.0
+137,Layout,Completed,SHOT_020,550,REEL_03,,,50.0
+138,Cloth,Not started,SHOT_020,550,REEL_03,,,50.0
+139,Baking,Not started,SHOT_020,550,REEL_03,,,50.0
+140,Hair and Fur,Not started,SHOT_060,550,REEL_03,,,99.0
+141,Compositing,Not started,SHOT_060,550,REEL_03,,,99.0
+142,Paint,Not started,SHOT_060,550,REEL_03,,,99.0
+143,Rendering,Not started,SHOT_060,550,REEL_03,,,99.0
+144,Animation,Not started,SHOT_060,550,REEL_03,,,99.0
+145,Lookdev,Not started,SHOT_060,550,REEL_03,,,99.0
+146,Assemble,Completed,SHOT_060,550,REEL_03,,,99.0
+147,Layout,Completed,SHOT_060,550,REEL_03,,,99.0
+148,Cloth,Not started,SHOT_060,550,REEL_03,,,99.0
+149,Baking,Not started,SHOT_060,550,REEL_03,,,99.0
+150,Hair and Fur,Not started,SHOT_180,550,REEL_03,,,24.0
+151,Compositing,Not started,SHOT_180,550,REEL_03,,,24.0
+152,Paint,Not started,SHOT_180,550,REEL_03,,,24.0
+153,Rendering,Not started,SHOT_180,550,REEL_03,,,24.0
+154,Animation,Not started,SHOT_180,550,REEL_03,,,24.0
+155,Lookdev,Not started,SHOT_180,550,REEL_03,,,24.0
+156,Assemble,Completed,SHOT_180,550,REEL_03,,,24.0
+157,Layout,Completed,SHOT_180,550,REEL_03,,,24.0
+158,Cloth,Not started,SHOT_180,550,REEL_03,,,24.0
+159,Baking,Not started,SHOT_180,550,REEL_03,,,24.0
+160,Hair and Fur,Not started,SHOT_100,550,REEL_03,,,83.0
+161,Compositing,Not started,SHOT_100,550,REEL_03,,,83.0
+162,Paint,Not started,SHOT_100,550,REEL_03,,,83.0
+163,Rendering,Not started,SHOT_100,550,REEL_03,,,83.0
+164,Animation,Not started,SHOT_100,550,REEL_03,,,83.0
+165,Lookdev,Not started,SHOT_100,550,REEL_03,,,83.0
+166,Assemble,Completed,SHOT_100,550,REEL_03,,,83.0
+167,Layout,Completed,SHOT_100,550,REEL_03,2015-12-11 00:00:00,,83.0
+168,Cloth,Not started,SHOT_100,550,REEL_03,,,83.0
+169,Baking,Not started,SHOT_100,550,REEL_03,,,83.0
+170,Hair and Fur,Not started,SHOT_070,550,REEL_03,,,102.0
+171,Compositing,Not started,SHOT_070,550,REEL_03,,,102.0
+172,Paint,Not started,SHOT_070,550,REEL_03,,,102.0
+173,Rendering,Not started,SHOT_070,550,REEL_03,,,102.0
+174,Animation,Not started,SHOT_070,550,REEL_03,,,102.0
+175,Lookdev,Not started,SHOT_070,550,REEL_03,,,102.0
+176,Assemble,Completed,SHOT_070,550,REEL_03,,,102.0
+177,Layout,Completed,SHOT_070,550,REEL_03,2015-12-11 00:00:00,,102.0
+178,Cloth,Not started,SHOT_070,550,REEL_03,,,102.0
+179,Baking,Not started,SHOT_070,550,REEL_03,,,102.0
+180,Hair and Fur,Not started,SHOT_140,550,REEL_03,,,68.0
+181,Compositing,Not started,SHOT_140,550,REEL_03,,,68.0
+182,Paint,Not started,SHOT_140,550,REEL_03,,,68.0
+183,Rendering,Not started,SHOT_140,550,REEL_03,,,68.0
+184,Animation,Not started,SHOT_140,550,REEL_03,,,68.0
+185,Lookdev,Not started,SHOT_140,550,REEL_03,,,68.0
+186,Assemble,Completed,SHOT_140,550,REEL_03,,,68.0
+187,Layout,Completed,SHOT_140,550,REEL_03,,,68.0
+188,Cloth,Not started,SHOT_140,550,REEL_03,,,68.0
+189,Baking,Not started,SHOT_140,550,REEL_03,,,68.0
+190,Compositing,Pending Review,SHOT_010,420,REEL_03,,2016-08-11 18:19:46,196.0
+191,Paint,Completed,SHOT_010,420,REEL_03,,,196.0
+192,Rendering,In progress,SHOT_010,420,REEL_03,,,196.0
+193,Animation,Approved,SHOT_010,420,REEL_03,2016-03-11 00:00:00,2016-08-08 21:00:00,196.0
+194,Lookdev,Approved,SHOT_010,420,REEL_03,,,196.0
+195,Hair and Fur,Completed,SHOT_010,420,REEL_03,,,196.0
+196,Layout,Completed,SHOT_010,420,REEL_03,,2016-02-15 00:00:00,196.0
+197,Cloth,Completed,SHOT_010,420,REEL_03,,,196.0
+198,Baking,Completed,SHOT_010,420,REEL_03,,,196.0
+199,FTP,Completed,SHOT_010,420,REEL_03,,,196.0
+200,Previz,Pending Review,SHOT_010,420,REEL_03,,,196.0
+201,Hair and Fur,Not started,SHOT_100,570,REEL_03,,,140.0
+202,Compositing,Not started,SHOT_100,570,REEL_03,,,140.0
+203,Paint,Not started,SHOT_100,570,REEL_03,,,140.0
+204,Rendering,Not started,SHOT_100,570,REEL_03,,,140.0
+205,Animation,Completed,SHOT_100,570,REEL_03,2016-05-12 21:00:00,,140.0
+206,Lookdev,Not started,SHOT_100,570,REEL_03,,,140.0
+207,Assemble,Completed,SHOT_100,570,REEL_03,,,140.0
+208,Layout,Completed,SHOT_100,570,REEL_03,,2016-02-09 00:00:00,140.0
+209,Cloth,Not started,SHOT_100,570,REEL_03,,,140.0
+210,Baking,Not started,SHOT_100,570,REEL_03,,,140.0
+211,FTP,Completed,SHOT_100,570,REEL_03,,,140.0
+212,Previz,Not started,SHOT_100,570,REEL_03,,,140.0
+213,Hair and Fur,Not started,SHOT_040,570,REEL_03,,,63.0
+214,Compositing,Not started,SHOT_040,570,REEL_03,,,63.0
+215,Paint,Not started,SHOT_040,570,REEL_03,,,63.0
+216,Rendering,Not started,SHOT_040,570,REEL_03,,,63.0
+217,Animation,Ready to Start,SHOT_040,570,REEL_03,2016-05-12 21:00:00,,63.0
+218,Lookdev,Not started,SHOT_040,570,REEL_03,,,63.0
+219,Assemble,Completed,SHOT_040,570,REEL_03,,,63.0
+220,Layout,Completed,SHOT_040,570,REEL_03,,2016-02-09 00:00:00,63.0
+221,Cloth,Not started,SHOT_040,570,REEL_03,,,63.0
+222,Baking,Not started,SHOT_040,570,REEL_03,,,63.0
+223,FTP,Completed,SHOT_040,570,REEL_03,,,63.0
+224,Previz,On Hold,SHOT_040,570,REEL_03,,,63.0
+225,Hair and Fur,Not started,SHOT_050,570,REEL_03,,,70.0
+226,Compositing,Not started,SHOT_050,570,REEL_03,,,70.0
+227,Paint,Not started,SHOT_050,570,REEL_03,,,70.0
+228,Rendering,Not started,SHOT_050,570,REEL_03,,,70.0
+229,Animation,Ready to Start,SHOT_050,570,REEL_03,2016-05-12 21:00:00,,70.0
+230,Lookdev,Not started,SHOT_050,570,REEL_03,,,70.0
+231,Assemble,Completed,SHOT_050,570,REEL_03,,,70.0
+232,Layout,Completed,SHOT_050,570,REEL_03,,2016-02-24 00:00:00,70.0
+233,Cloth,Not started,SHOT_050,570,REEL_03,,,70.0
+234,Baking,Not started,SHOT_050,570,REEL_03,,,70.0
+235,FTP,Completed,SHOT_050,570,REEL_03,,,70.0
+236,Previz,On Hold,SHOT_050,570,REEL_03,,,70.0
+237,Hair and Fur,Not started,SHOT_060,570,REEL_03,,,100.0
+238,Compositing,Not started,SHOT_060,570,REEL_03,,,100.0
+239,Paint,Not started,SHOT_060,570,REEL_03,,,100.0
+240,Rendering,Not started,SHOT_060,570,REEL_03,,,100.0
+241,Animation,Ready to Start,SHOT_060,570,REEL_03,2016-05-12 21:00:00,,100.0
+242,Lookdev,Not started,SHOT_060,570,REEL_03,,,100.0
+243,Assemble,Completed,SHOT_060,570,REEL_03,,,100.0
+244,Layout,Completed,SHOT_060,570,REEL_03,,2016-02-09 00:00:00,100.0
+245,Cloth,Not started,SHOT_060,570,REEL_03,,,100.0
+246,Baking,Not started,SHOT_060,570,REEL_03,,,100.0
+247,FTP,Completed,SHOT_060,570,REEL_03,,,100.0
+248,Previz,On Hold,SHOT_060,570,REEL_03,,,100.0
+249,Hair and Fur,Not started,SHOT_070,570,REEL_03,,,124.0
+250,Compositing,Not started,SHOT_070,570,REEL_03,,,124.0
+251,Paint,Not started,SHOT_070,570,REEL_03,,,124.0
+252,Rendering,Not started,SHOT_070,570,REEL_03,,,124.0
+253,Animation,Ready to Start,SHOT_070,570,REEL_03,2016-05-12 21:00:00,,124.0
+254,Lookdev,Not started,SHOT_070,570,REEL_03,,,124.0
+255,Assemble,Completed,SHOT_070,570,REEL_03,,,124.0
+256,Layout,Completed,SHOT_070,570,REEL_03,,2016-02-09 00:00:00,124.0
+257,Cloth,Not started,SHOT_070,570,REEL_03,,,124.0
+258,Baking,Not started,SHOT_070,570,REEL_03,,,124.0
+259,FTP,Completed,SHOT_070,570,REEL_03,,,124.0
+260,Previz,On Hold,SHOT_070,570,REEL_03,,,124.0
+261,Hair and Fur,Not started,SHOT_080,570,REEL_03,,,64.0
+262,Compositing,Not started,SHOT_080,570,REEL_03,,,64.0
+263,Paint,Not started,SHOT_080,570,REEL_03,,,64.0
+264,Rendering,Not started,SHOT_080,570,REEL_03,,,64.0
+265,Animation,Completed,SHOT_080,570,REEL_03,2016-05-12 21:00:00,,64.0
+266,Lookdev,Not started,SHOT_080,570,REEL_03,,,64.0
+267,Assemble,Completed,SHOT_080,570,REEL_03,,,64.0
+268,Layout,Completed,SHOT_080,570,REEL_03,,2016-02-09 00:00:00,64.0
+269,Cloth,Not started,SHOT_080,570,REEL_03,,,64.0
+270,Baking,Not started,SHOT_080,570,REEL_03,,,64.0
+271,Previz,Not started,SHOT_080,570,REEL_03,,,64.0
+272,FTP,Completed,SHOT_080,570,REEL_03,,,64.0
+273,FTP,Completed,SHOT_090,570,REEL_03,,,107.0
+274,Hair and Fur,Not started,SHOT_090,570,REEL_03,,,107.0
+275,Compositing,Not started,SHOT_090,570,REEL_03,,,107.0
+276,Paint,Not started,SHOT_090,570,REEL_03,,,107.0
+277,Rendering,Not started,SHOT_090,570,REEL_03,,,107.0
+278,Animation,Completed,SHOT_090,570,REEL_03,2016-05-12 21:00:00,,107.0
+279,Lookdev,Not started,SHOT_090,570,REEL_03,,,107.0
+280,Assemble,Completed,SHOT_090,570,REEL_03,,,107.0
+281,Layout,Completed,SHOT_090,570,REEL_03,,2016-02-09 00:00:00,107.0
+282,Cloth,Not started,SHOT_090,570,REEL_03,,,107.0
+283,Baking,Not started,SHOT_090,570,REEL_03,,,107.0
+284,Previz,Not started,SHOT_090,570,REEL_03,,,107.0
+285,Compositing,Ready to Start,SHOT_051,590,REEL_03,,2016-08-25 13:58:51,50.0
+286,Paint,Completed,SHOT_051,590,REEL_03,,,50.0
+287,Rendering,Pending Review,SHOT_051,590,REEL_03,,,50.0
+288,Animation,Approved,SHOT_051,590,REEL_03,2016-07-03 21:00:00,,50.0
+289,Lookdev,Approved,SHOT_051,590,REEL_03,,,50.0
+290,Hair and Fur,Completed,SHOT_051,590,REEL_03,,,50.0
+291,Layout,Completed,SHOT_051,590,REEL_03,2016-06-05 21:00:00,2016-06-07 21:00:00,50.0
+292,Baking,Completed,SHOT_051,590,REEL_03,,,50.0
+293,Previz,Not started,SHOT_051,590,REEL_03,,,50.0
+294,Compositing,Pending Review,SHOT_030,590,REEL_03,,2016-08-29 13:12:34,46.0
+295,Paint,Completed,SHOT_030,590,REEL_03,,,46.0
+296,Rendering,Not started,SHOT_030,590,REEL_03,,,46.0
+297,Animation,Approved,SHOT_030,590,REEL_03,2016-07-03 21:00:00,2016-08-23 21:00:00,46.0
+298,Lookdev,Ready to Start,SHOT_030,590,REEL_03,,,46.0
+299,Hair and Fur,Completed,SHOT_030,590,REEL_03,,,46.0
+300,Layout,Completed,SHOT_030,590,REEL_03,2016-03-18 00:00:00,2016-06-07 21:00:00,46.0
+301,Baking,Completed,SHOT_030,590,REEL_03,,,46.0
+302,Previz,Not started,SHOT_030,590,REEL_03,,,46.0
+303,ROL,Completed,SHOT_052,590,REEL_03,,,50.0
+304,Compositing,Approved,SHOT_052,590,REEL_03,,2016-08-26 18:35:55,50.0
+305,Paint,Completed,SHOT_052,590,REEL_03,,,50.0
+306,Rendering,Completed,SHOT_052,590,REEL_03,,,50.0
+307,Animation,Approved,SHOT_052,590,REEL_03,2016-07-03 21:00:00,2016-08-15 21:00:00,50.0
+308,Lookdev,Approved,SHOT_052,590,REEL_03,,,50.0
+309,Hair and Fur,Completed,SHOT_052,590,REEL_03,,,50.0
+310,Layout,Completed,SHOT_052,590,REEL_03,2016-06-05 21:00:00,2016-06-07 21:00:00,50.0
+311,Cloth,Completed,SHOT_052,590,REEL_03,,,50.0
+312,Baking,Completed,SHOT_052,590,REEL_03,,,50.0
+313,Previz,Not started,SHOT_052,590,REEL_03,,,50.0
+314,Compositing,Not started,SHOT_082,590,REEL_03,,,44.0
+315,Paint,Not started,SHOT_082,590,REEL_03,,,44.0
+316,Rendering,Not started,SHOT_082,590,REEL_03,,,44.0
+317,Animation,In progress,SHOT_082,590,REEL_03,2016-07-03 21:00:00,,44.0
+318,Lookdev,Not started,SHOT_082,590,REEL_03,,,44.0
+319,Hair and Fur,Not started,SHOT_082,590,REEL_03,,,44.0
+320,Layout,Completed,SHOT_082,590,REEL_03,2016-03-18 00:00:00,2016-06-07 21:00:00,44.0
+321,Cloth,Not started,SHOT_082,590,REEL_03,,,44.0
+322,Baking,Not started,SHOT_082,590,REEL_03,,,44.0
+323,Previz,Not started,SHOT_082,590,REEL_03,,,44.0
+324,Compositing,Not started,SHOT_031,590,REEL_03,,,141.0
+325,Paint,Not started,SHOT_031,590,REEL_03,,,141.0
+326,Rendering,Not started,SHOT_031,590,REEL_03,,,141.0
+327,Animation,In progress,SHOT_031,590,REEL_03,2016-07-03 21:00:00,,141.0
+328,Lookdev,Not started,SHOT_031,590,REEL_03,,,141.0
+329,Hair and Fur,Not started,SHOT_031,590,REEL_03,,,141.0
+330,Layout,Completed,SHOT_031,590,REEL_03,2016-03-18 00:00:00,2016-06-07 21:00:00,141.0
+331,Cloth,Not started,SHOT_031,590,REEL_03,,,141.0
+332,Baking,Not started,SHOT_031,590,REEL_03,,,141.0
+333,Previz,Not started,SHOT_031,590,REEL_03,,,141.0
+334,Compositing,Not started,SHOT_100,590,REEL_03,,,124.0
+335,Paint,Not started,SHOT_100,590,REEL_03,,,124.0
+336,Rendering,Not started,SHOT_100,590,REEL_03,,,124.0
+337,Animation,In progress,SHOT_100,590,REEL_03,2016-07-03 21:00:00,,124.0
+338,Lookdev,Not started,SHOT_100,590,REEL_03,,,124.0
+339,Hair and Fur,Not started,SHOT_100,590,REEL_03,,,124.0
+340,Layout,Completed,SHOT_100,590,REEL_03,2016-03-18 00:00:00,2016-06-07 21:00:00,124.0
+341,Cloth,Not started,SHOT_100,590,REEL_03,,,124.0
+342,Baking,Not started,SHOT_100,590,REEL_03,,,124.0
+343,Previz,Not started,SHOT_100,590,REEL_03,,,124.0
+344,Compositing,Not started,SHOT_040,590,REEL_03,,,30.0
+345,Paint,Not started,SHOT_040,590,REEL_03,,,30.0
+346,Rendering,Not started,SHOT_040,590,REEL_03,,,30.0
+347,Animation,In progress,SHOT_040,590,REEL_03,2016-07-03 21:00:00,,30.0
+348,Lookdev,Not started,SHOT_040,590,REEL_03,,,30.0
+349,Hair and Fur,Not started,SHOT_040,590,REEL_03,,,30.0
+350,Layout,Completed,SHOT_040,590,REEL_03,2016-03-18 00:00:00,2016-06-07 21:00:00,30.0
+351,Cloth,Not started,SHOT_040,590,REEL_03,,,30.0
+352,Baking,Not started,SHOT_040,590,REEL_03,,,30.0
+353,Previz,Not started,SHOT_040,590,REEL_03,,,30.0
+354,Compositing,Not started,SHOT_010,590,REEL_03,,,153.0
+355,Paint,Not started,SHOT_010,590,REEL_03,,,153.0
+356,Rendering,Not started,SHOT_010,590,REEL_03,,,153.0
+357,Animation,In progress,SHOT_010,590,REEL_03,2016-07-03 21:00:00,,153.0
+358,Lookdev,Not started,SHOT_010,590,REEL_03,,,153.0
+359,Hair and Fur,Not started,SHOT_010,590,REEL_03,,,153.0
+360,Layout,Completed,SHOT_010,590,REEL_03,2016-03-18 00:00:00,2016-06-07 21:00:00,153.0
+361,Cloth,Not started,SHOT_010,590,REEL_03,,,153.0
+362,Baking,Not started,SHOT_010,590,REEL_03,,,153.0
+363,Previz,Not started,SHOT_010,590,REEL_03,,,153.0
+364,Compositing,Pending Review,SHOT_120,590,REEL_03,,2016-08-24 20:14:40,70.0
+365,Paint,Completed,SHOT_120,590,REEL_03,,,70.0
+366,Rendering,Not started,SHOT_120,590,REEL_03,,,70.0
+367,Animation,Approved,SHOT_120,590,REEL_03,2016-07-03 21:00:00,,70.0
+368,Lookdev,Ready to Start,SHOT_120,590,REEL_03,,,70.0
+369,Hair and Fur,Completed,SHOT_120,590,REEL_03,,,70.0
+370,Layout,Completed,SHOT_120,590,REEL_03,2016-03-18 00:00:00,2016-06-07 21:00:00,70.0
+371,Cloth,Completed,SHOT_120,590,REEL_03,,,70.0
+372,Baking,Completed,SHOT_120,590,REEL_03,,,70.0
+373,Previz,Not started,SHOT_120,590,REEL_03,,,70.0
+374,Compositing,Pending Review,SHOT_050,590,REEL_03,,2016-08-22 14:58:09,40.0
+375,Paint,Completed,SHOT_050,590,REEL_03,,,40.0
+376,Rendering,Not started,SHOT_050,590,REEL_03,,,40.0
+377,Animation,Approved,SHOT_050,590,REEL_03,2016-07-03 21:00:00,2016-08-17 21:00:00,40.0
+378,Lookdev,Ready to Start,SHOT_050,590,REEL_03,,,40.0
+379,Hair and Fur,Completed,SHOT_050,590,REEL_03,,,40.0
+380,Layout,Completed,SHOT_050,590,REEL_03,2016-03-18 00:00:00,2016-06-07 21:00:00,40.0
+381,Cloth,Completed,SHOT_050,590,REEL_03,,,40.0
+382,Baking,Completed,SHOT_050,590,REEL_03,,,40.0
+383,Previz,Not started,SHOT_050,590,REEL_03,,,40.0
+384,Compositing,Not started,SHOT_070,590,REEL_03,,,71.0
+385,Paint,Not started,SHOT_070,590,REEL_03,,,71.0
+386,Rendering,Not started,SHOT_070,590,REEL_03,,,71.0
+387,Animation,In progress,SHOT_070,590,REEL_03,2016-07-03 21:00:00,,71.0
+388,Lookdev,Not started,SHOT_070,590,REEL_03,,,71.0
+389,Hair and Fur,Not started,SHOT_070,590,REEL_03,,,71.0
+390,Layout,Completed,SHOT_070,590,REEL_03,2016-03-18 00:00:00,2016-06-07 21:00:00,71.0
+391,Cloth,Not started,SHOT_070,590,REEL_03,,,71.0
+392,Baking,Not started,SHOT_070,590,REEL_03,,,71.0
+393,ROL,Not started,SHOT_070,590,REEL_03,,,71.0
+394,Previz,Not started,SHOT_070,590,REEL_03,,,71.0
+395,Compositing,Not started,SHOT_011,590,REEL_03,,,48.0
+396,Paint,Not started,SHOT_011,590,REEL_03,,,48.0
+397,Rendering,Not started,SHOT_011,590,REEL_03,,,48.0
+398,Animation,In progress,SHOT_011,590,REEL_03,2016-07-03 21:00:00,,48.0
+399,Lookdev,Not started,SHOT_011,590,REEL_03,,,48.0
+400,Hair and Fur,Not started,SHOT_011,590,REEL_03,,,48.0
+401,Layout,Completed,SHOT_011,590,REEL_03,2016-03-18 00:00:00,2016-06-07 21:00:00,48.0
+402,Cloth,Not started,SHOT_011,590,REEL_03,,,48.0
+403,Baking,Not started,SHOT_011,590,REEL_03,,,48.0
+404,Previz,Not started,SHOT_011,590,REEL_03,,,48.0
+405,Compositing,Not started,SHOT_080,590,REEL_03,,,40.0
+406,Paint,Not started,SHOT_080,590,REEL_03,,,40.0
+407,Rendering,Not started,SHOT_080,590,REEL_03,,,40.0
+408,Animation,In progress,SHOT_080,590,REEL_03,2016-07-03 21:00:00,,40.0
+409,Lookdev,Not started,SHOT_080,590,REEL_03,,,40.0
+410,Hair and Fur,Not started,SHOT_080,590,REEL_03,,,40.0
+411,Layout,Completed,SHOT_080,590,REEL_03,2016-03-18 00:00:00,2016-06-07 21:00:00,40.0
+412,Cloth,Not started,SHOT_080,590,REEL_03,,,40.0
+413,Baking,Not started,SHOT_080,590,REEL_03,,,40.0
+414,Previz,Not started,SHOT_080,590,REEL_03,,,40.0
+415,Compositing,Pending Review,SHOT_081,590,REEL_03,,2016-07-26 12:56:26,50.0
+416,Paint,Completed,SHOT_081,590,REEL_03,,,50.0
+417,Rendering,Not started,SHOT_081,590,REEL_03,,,50.0
+418,Lookdev,Ready to Start,SHOT_081,590,REEL_03,2016-06-13 16:27:42,,50.0
+419,Layout,Completed,SHOT_081,590,REEL_03,2016-03-18 00:00:00,2016-06-07 21:00:00,50.0
+420,Baking,Completed,SHOT_081,590,REEL_03,,2016-06-13 16:15:52,50.0
+421,animation,Approved,SHOT_081,590,REEL_03,,,50.0
+422,Previz,Not started,SHOT_081,590,REEL_03,,,50.0
+423,Hair and Fur,Completed,SHOT_020,440,REEL_03,,,48.0
+424,Compositing,Approved,SHOT_020,440,REEL_03,,2016-08-25 18:19:23,48.0
+425,Paint,Completed,SHOT_020,440,REEL_03,,,48.0
+426,Rendering,Completed,SHOT_020,440,REEL_03,,,48.0
+427,Animation,Approved,SHOT_020,440,REEL_03,2016-03-11 00:00:00,2016-07-04 21:00:00,48.0
+428,Lookdev,Approved,SHOT_020,440,REEL_03,,,48.0
+429,Assemble,Completed,SHOT_020,440,REEL_03,,,48.0
+430,Layout,Completed,SHOT_020,440,REEL_03,,2016-02-11 00:00:00,48.0
+431,Cloth,Completed,SHOT_020,440,REEL_03,,,48.0
+432,Baking,Completed,SHOT_020,440,REEL_03,,,48.0
+433,WEL,Not started,SHOT_020,440,REEL_03,,,48.0
+434,Previz,Completed,SHOT_020,440,REEL_03,,,48.0
+435,Hair and Fur,Completed,SHOT_030,440,REEL_03,,,336.0
+436,Compositing,Approved,SHOT_030,440,REEL_03,,2016-08-29 18:21:04,336.0
+437,Paint,Completed,SHOT_030,440,REEL_03,,,336.0
+438,Rendering,Completed,SHOT_030,440,REEL_03,,,336.0
+439,Animation,Approved,SHOT_030,440,REEL_03,2016-03-11 00:00:00,2016-08-11 21:00:00,336.0
+440,Lookdev,Approved,SHOT_030,440,REEL_03,,,336.0
+441,Assemble,Completed,SHOT_030,440,REEL_03,,,336.0
+442,Layout,Completed,SHOT_030,440,REEL_03,,2016-02-11 00:00:00,336.0
+443,Cloth,Completed,SHOT_030,440,REEL_03,,,336.0
+444,Baking,Completed,SHOT_030,440,REEL_03,,,336.0
+445,Previz,On Hold,SHOT_030,440,REEL_03,,,336.0
+446,Compositing,Pending Review,SHOT_040,440,REEL_03,,2016-08-28 16:03:20,100.0
+447,Paint,Completed,SHOT_040,440,REEL_03,,,100.0
+448,Rendering,Not started,SHOT_040,440,REEL_03,,,100.0
+449,Animation,Approved,SHOT_040,440,REEL_03,2016-03-11 00:00:00,2016-08-24 21:00:00,100.0
+450,Lookdev,Ready to Start,SHOT_040,440,REEL_03,,,100.0
+451,Hair and Fur,Completed,SHOT_040,440,REEL_03,,,100.0
+452,Layout,Completed,SHOT_040,440,REEL_03,2016-02-01 00:00:00,2016-02-11 00:00:00,100.0
+453,Cloth,Completed,SHOT_040,440,REEL_03,,,100.0
+454,Baking,Completed,SHOT_040,440,REEL_03,,,100.0
+455,SMK,Ready to Start,SHOT_040,440,REEL_03,,,100.0
+456,WEL,Not started,SHOT_040,440,REEL_03,,,100.0
+457,Previz,Not started,SHOT_040,440,REEL_03,,,100.0
+458,FTP,Completed,SHOT_021,440,REEL_03,,,48.0
+459,Compositing,Approved,SHOT_021,440,REEL_03,,2016-08-25 18:20:54,48.0
+460,Paint,Completed,SHOT_021,440,REEL_03,,,48.0
+461,Rendering,Completed,SHOT_021,440,REEL_03,,,48.0
+462,Animation,Approved,SHOT_021,440,REEL_03,2016-03-11 00:00:00,2016-07-24 21:00:00,48.0
+463,Lookdev,Approved,SHOT_021,440,REEL_03,,,48.0
+464,Hair and Fur,Completed,SHOT_021,440,REEL_03,,,48.0
+465,Layout,Completed,SHOT_021,440,REEL_03,,,48.0
+466,Cloth,Completed,SHOT_021,440,REEL_03,,,48.0
+467,Baking,Completed,SHOT_021,440,REEL_03,,,48.0
+468,Previz,On Hold,SHOT_021,440,REEL_03,,,48.0
+469,Compositing,Pending Review,SHOT_066,460,REEL_03,,2016-08-01 16:14:01,76.0
+470,Paint,Completed,SHOT_066,460,REEL_03,,,76.0
+471,Rendering,Not started,SHOT_066,460,REEL_03,,,76.0
+472,Animation,Approved,SHOT_066,460,REEL_03,2016-03-11 00:00:00,2016-07-26 21:00:00,76.0
+473,Lookdev,Ready to Start,SHOT_066,460,REEL_03,,,76.0
+474,Hair and Fur,Completed,SHOT_066,460,REEL_03,,,76.0
+475,Layout,Completed,SHOT_066,460,REEL_03,,,76.0
+476,Cloth,Completed,SHOT_066,460,REEL_03,,,76.0
+477,Baking,Completed,SHOT_066,460,REEL_03,,,76.0
+478,Previz,On Hold,SHOT_066,460,REEL_03,,,76.0
+479,Hair and Fur,Completed,SHOT_055,460,REEL_03,,,88.0
+480,Compositing,Pending Review,SHOT_055,460,REEL_03,,2016-08-25 12:45:45,88.0
+481,Paint,In progress,SHOT_055,460,REEL_03,,,88.0
+482,Rendering,Pending Review,SHOT_055,460,REEL_03,,,88.0
+483,Animation,Approved,SHOT_055,460,REEL_03,2016-03-11 00:00:00,2016-07-31 21:00:00,88.0
+484,Lookdev,Approved,SHOT_055,460,REEL_03,,,88.0
+485,Assemble,Completed,SHOT_055,460,REEL_03,,,88.0
+486,Layout,Completed,SHOT_055,460,REEL_03,,,88.0
+487,Cloth,Completed,SHOT_055,460,REEL_03,,,88.0
+488,Baking,Completed,SHOT_055,460,REEL_03,,,88.0
+489,Previz,On Hold,SHOT_055,460,REEL_03,,,88.0
+490,Hair and Fur,Completed,SHOT_065,460,REEL_03,,,76.0
+491,Compositing,Pending Review,SHOT_065,460,REEL_03,,2016-08-16 10:32:56,76.0
+492,Paint,Completed,SHOT_065,460,REEL_03,,,76.0
+493,Rendering,In progress,SHOT_065,460,REEL_03,,,76.0
+494,Animation,Approved,SHOT_065,460,REEL_03,2016-03-11 00:00:00,,76.0
+495,Lookdev,Approved,SHOT_065,460,REEL_03,,,76.0
+496,Assemble,Completed,SHOT_065,460,REEL_03,,,76.0
+497,Layout,Completed,SHOT_065,460,REEL_03,,,76.0
+498,Cloth,Completed,SHOT_065,460,REEL_03,,,76.0
+499,Baking,Completed,SHOT_065,460,REEL_03,,,76.0
+500,Previz,On Hold,SHOT_065,460,REEL_03,,,76.0
+501,Compositing,Pending Review,SHOT_056,460,REEL_03,,2016-07-29 11:41:37,88.0
+502,Paint,Completed,SHOT_056,460,REEL_03,,,88.0
+503,Rendering,Not started,SHOT_056,460,REEL_03,,,88.0
+504,Animation,Approved,SHOT_056,460,REEL_03,2016-03-11 00:00:00,2016-07-25 21:00:00,88.0
+505,Lookdev,Ready to Start,SHOT_056,460,REEL_03,,,88.0
+506,Hair and Fur,Completed,SHOT_056,460,REEL_03,,,88.0
+507,Layout,Completed,SHOT_056,460,REEL_03,2016-01-29 00:00:00,,88.0
+508,Cloth,Completed,SHOT_056,460,REEL_03,,,88.0
+509,Baking,Completed,SHOT_056,460,REEL_03,,,88.0
+510,Previz,On Hold,SHOT_056,460,REEL_03,,,88.0
+511,DRP,Completed,SHOT_060,460,REEL_03,,,49.0
+512,Hair and Fur,Completed,SHOT_060,460,REEL_03,,,49.0
+513,Compositing,Approved,SHOT_060,460,REEL_03,,2016-08-24 16:37:06,49.0
+514,Paint,Completed,SHOT_060,460,REEL_03,,,49.0
+515,Rendering,Completed,SHOT_060,460,REEL_03,,,49.0
+516,Animation,Approved,SHOT_060,460,REEL_03,2016-03-11 00:00:00,2016-07-14 21:00:00,49.0
+517,Lookdev,Approved,SHOT_060,460,REEL_03,,,49.0
+518,Assemble,Completed,SHOT_060,460,REEL_03,,,49.0
+519,Layout,Completed,SHOT_060,460,REEL_03,,,49.0
+520,Cloth,Completed,SHOT_060,460,REEL_03,,,49.0
+521,Baking,Completed,SHOT_060,460,REEL_03,,,49.0
+522,Previz,On Hold,SHOT_060,460,REEL_03,,,49.0
+523,Hair and Fur,Completed,SHOT_020,460,REEL_03,,,50.0
+524,Compositing,Not started,SHOT_020,460,REEL_03,,,50.0
+525,Paint,Not started,SHOT_020,460,REEL_03,,,50.0
+526,Rendering,Not started,SHOT_020,460,REEL_03,,,50.0
+527,Animation,Approved,SHOT_020,460,REEL_03,2016-03-11 00:00:00,2016-08-28 21:00:00,50.0
+528,Lookdev,In progress,SHOT_020,460,REEL_03,,,50.0
+529,Assemble,Completed,SHOT_020,460,REEL_03,,,50.0
+530,Layout,Completed,SHOT_020,460,REEL_03,,,50.0
+531,Cloth,Completed,SHOT_020,460,REEL_03,,,50.0
+532,Baking,Completed,SHOT_020,460,REEL_03,,,50.0
+533,Previz,On Hold,SHOT_020,460,REEL_03,,,50.0
+534,Hair and Fur,Completed,SHOT_030,460,REEL_03,,,100.0
+535,Compositing,Pending Review,SHOT_030,460,REEL_03,,2016-08-10 09:36:06,100.0
+536,Paint,Completed,SHOT_030,460,REEL_03,,,100.0
+537,Rendering,In progress,SHOT_030,460,REEL_03,,,100.0
+538,Animation,Approved,SHOT_030,460,REEL_03,2016-03-11 00:00:00,,100.0
+539,Lookdev,Approved,SHOT_030,460,REEL_03,,,100.0
+540,Assemble,Completed,SHOT_030,460,REEL_03,,,100.0
+541,Layout,Completed,SHOT_030,460,REEL_03,,,100.0
+542,Cloth,Completed,SHOT_030,460,REEL_03,,,100.0
+543,Baking,Completed,SHOT_030,460,REEL_03,,,100.0
+544,SFR,In progress,SHOT_030,460,REEL_03,,,100.0
+545,Previz,On Hold,SHOT_030,460,REEL_03,,,100.0
+546,Hair and Fur,Completed,SHOT_040,460,REEL_03,,,91.0
+547,Compositing,Ready to Start,SHOT_040,460,REEL_03,,2016-07-27 10:52:43,91.0
+548,Paint,Completed,SHOT_040,460,REEL_03,,,91.0
+549,Rendering,Pending Review,SHOT_040,460,REEL_03,,,91.0
+550,Animation,Approved,SHOT_040,460,REEL_03,2016-03-11 00:00:00,2016-07-05 21:00:00,91.0
+551,Lookdev,Approved,SHOT_040,460,REEL_03,,,91.0
+552,Assemble,Completed,SHOT_040,460,REEL_03,,,91.0
+553,Layout,Completed,SHOT_040,460,REEL_03,,,91.0
+554,Cloth,Completed,SHOT_040,460,REEL_03,,,91.0
+555,Baking,Completed,SHOT_040,460,REEL_03,,,91.0
+556,ASH,Pending Review,SHOT_040,460,REEL_03,,,91.0
+557,Previz,Not started,SHOT_040,460,REEL_03,,,91.0
+558,ASH,Ready to Start,SHOT_050,460,REEL_03,,,166.0
+559,Hair and Fur,Completed,SHOT_050,460,REEL_03,,,166.0
+560,Compositing,Pending Review,SHOT_050,460,REEL_03,,2016-07-27 16:42:37,166.0
+561,Paint,Completed,SHOT_050,460,REEL_03,,,166.0
+562,Rendering,In progress,SHOT_050,460,REEL_03,,,166.0
+563,Animation,Approved,SHOT_050,460,REEL_03,2016-03-11 00:00:00,,166.0
+564,Lookdev,Approved,SHOT_050,460,REEL_03,,,166.0
+565,Assemble,Completed,SHOT_050,460,REEL_03,,,166.0
+566,Layout,Completed,SHOT_050,460,REEL_03,,,166.0
+567,Cloth,Completed,SHOT_050,460,REEL_03,,,166.0
+568,Baking,Completed,SHOT_050,460,REEL_03,,,166.0
+569,Previz,On Hold,SHOT_050,460,REEL_03,,,166.0
+570,Hair and Fur,Completed,SHOT_010,460,REEL_03,,,56.0
+571,Compositing,Approved,SHOT_010,460,REEL_03,,2016-08-29 16:15:33,56.0
+572,Paint,Completed,SHOT_010,460,REEL_03,,,56.0
+573,Rendering,Completed,SHOT_010,460,REEL_03,,,56.0
+574,Animation,Approved,SHOT_010,460,REEL_03,2016-03-11 00:00:00,2016-07-24 21:00:00,56.0
+575,Lookdev,Approved,SHOT_010,460,REEL_03,,,56.0
+576,Assemble,Completed,SHOT_010,460,REEL_03,,,56.0
+577,Layout,Completed,SHOT_010,460,REEL_03,,,56.0
+578,Cloth,Completed,SHOT_010,460,REEL_03,,,56.0
+579,Baking,Completed,SHOT_010,460,REEL_03,,,56.0
+580,WLS,Approved,SHOT_010,460,REEL_03,,,56.0
+581,Previz,On Hold,SHOT_010,460,REEL_03,,,56.0
+582,Compositing,Not started,SHOT_121,620,REEL_03,,,136.0
+583,Paint,Not started,SHOT_121,620,REEL_03,,,136.0
+584,Rendering,Not started,SHOT_121,620,REEL_03,,,136.0
+585,Animation,In progress,SHOT_121,620,REEL_03,2016-08-14 21:00:00,,136.0
+586,Lookdev,Not started,SHOT_121,620,REEL_03,,,136.0
+587,Hair and Fur,Not started,SHOT_121,620,REEL_03,,,136.0
+588,Layout,Completed,SHOT_121,620,REEL_03,2016-06-02 21:00:00,2016-06-08 21:00:00,136.0
+589,Cloth,Not started,SHOT_121,620,REEL_03,,,136.0
+590,Baking,Not started,SHOT_121,620,REEL_03,,,136.0
+591,previz,Not started,SHOT_121,620,REEL_03,,,136.0
+592,Compositing,Pending Review,SHOT_141,620,REEL_03,,2016-08-30 11:41:38,70.0
+593,Paint,Completed,SHOT_141,620,REEL_03,,,70.0
+594,Rendering,Ready to Start,SHOT_141,620,REEL_03,,,70.0
+595,Animation,Approved,SHOT_141,620,REEL_03,2016-06-13 18:16:51,,70.0
+596,Lookdev,Completed,SHOT_141,620,REEL_03,,,70.0
+597,Hair and Fur,Completed,SHOT_141,620,REEL_03,,,70.0
+598,Layout,Completed,SHOT_141,620,REEL_03,2016-06-02 21:00:00,2016-06-08 21:00:00,70.0
+599,Cloth,Completed,SHOT_141,620,REEL_03,,,70.0
+600,Baking,Completed,SHOT_141,620,REEL_03,,,70.0
+601,previz,Not started,SHOT_141,620,REEL_03,,,70.0
+602,Compositing,Not started,SHOT_081,620,REEL_03,,,81.0
+603,Paint,Not started,SHOT_081,620,REEL_03,,,81.0
+604,Rendering,Not started,SHOT_081,620,REEL_03,,,81.0
+605,Animation,Completed,SHOT_081,620,REEL_03,2016-06-23 21:00:00,,81.0
+606,Lookdev,Not started,SHOT_081,620,REEL_03,,,81.0
+607,Hair and Fur,Not started,SHOT_081,620,REEL_03,,,81.0
+608,Layout,Completed,SHOT_081,620,REEL_03,,2016-06-08 21:00:00,81.0
+609,Cloth,Not started,SHOT_081,620,REEL_03,,,81.0
+610,Baking,Not started,SHOT_081,620,REEL_03,,,81.0
+611,previz,Not started,SHOT_081,620,REEL_03,,,81.0
+612,previz,Not started,SHOT_071,620,REEL_03,,,43.0
+613,Compositing,Not started,SHOT_071,620,REEL_03,,,43.0
+614,Paint,Not started,SHOT_071,620,REEL_03,,,43.0
+615,Rendering,Not started,SHOT_071,620,REEL_03,,,43.0
+616,Animation,In progress,SHOT_071,620,REEL_03,2016-08-15 16:05:47,,43.0
+617,Lookdev,Not started,SHOT_071,620,REEL_03,,,43.0
+618,Hair and Fur,Not started,SHOT_071,620,REEL_03,,,43.0
+619,Layout,Completed,SHOT_071,620,REEL_03,2016-06-02 21:00:00,2016-06-08 21:00:00,43.0
+620,Cloth,Not started,SHOT_071,620,REEL_03,,,43.0
+621,Baking,Not started,SHOT_071,620,REEL_03,,,43.0
+622,Compositing,Not started,SHOT_160,620,REEL_03,,,159.0
+623,Paint,Not started,SHOT_160,620,REEL_03,,,159.0
+624,Rendering,Not started,SHOT_160,620,REEL_03,,,159.0
+625,Animation,In progress,SHOT_160,620,REEL_03,2016-08-14 21:00:00,,159.0
+626,Lookdev,Not started,SHOT_160,620,REEL_03,,,159.0
+627,Hair and Fur,Not started,SHOT_160,620,REEL_03,,,159.0
+628,Layout,Completed,SHOT_160,620,REEL_03,2016-03-11 00:00:00,2016-06-08 21:00:00,159.0
+629,Cloth,Not started,SHOT_160,620,REEL_03,,,159.0
+630,Baking,Not started,SHOT_160,620,REEL_03,,,159.0
+631,previz,Not started,SHOT_160,620,REEL_03,,,159.0
+632,Compositing,Not started,SHOT_070,620,REEL_03,,,76.0
+633,Paint,Not started,SHOT_070,620,REEL_03,,,76.0
+634,Rendering,Not started,SHOT_070,620,REEL_03,,,76.0
+635,Animation,In progress,SHOT_070,620,REEL_03,2016-08-15 16:05:46,,76.0
+636,Lookdev,Not started,SHOT_070,620,REEL_03,,,76.0
+637,Hair and Fur,Not started,SHOT_070,620,REEL_03,,,76.0
+638,Layout,Completed,SHOT_070,620,REEL_03,2016-03-11 00:00:00,2016-06-08 21:00:00,76.0
+639,Cloth,Not started,SHOT_070,620,REEL_03,,,76.0
+640,Baking,Not started,SHOT_070,620,REEL_03,,,76.0
+641,previz,Not started,SHOT_070,620,REEL_03,,,76.0
+642,Compositing,Pending Review,SHOT_010,620,REEL_03,,2016-08-23 11:49:27,126.0
+643,Paint,Completed,SHOT_010,620,REEL_03,,,126.0
+644,Rendering,Not started,SHOT_010,620,REEL_03,,,126.0
+645,Animation,Approved,SHOT_010,620,REEL_03,2016-06-24 16:05:44,,126.0
+646,Lookdev,Ready to Start,SHOT_010,620,REEL_03,,,126.0
+647,Hair and Fur,Completed,SHOT_010,620,REEL_03,,,126.0
+648,Layout,Completed,SHOT_010,620,REEL_03,2016-03-11 00:00:00,2016-06-08 21:00:00,126.0
+649,Cloth,Completed,SHOT_010,620,REEL_03,,,126.0
+650,Baking,Completed,SHOT_010,620,REEL_03,,,126.0
+651,previz,Not started,SHOT_010,620,REEL_03,,,126.0
+652,ORL,Omitted,SHOT_010,620,REEL_03,,,126.0
+653,Compositing,Not started,SHOT_100,620,REEL_03,,,37.0
+654,Paint,Not started,SHOT_100,620,REEL_03,,,37.0
+655,Rendering,Not started,SHOT_100,620,REEL_03,,,37.0
+656,Animation,In progress,SHOT_100,620,REEL_03,2016-08-14 21:00:00,,37.0
+657,Lookdev,Not started,SHOT_100,620,REEL_03,,,37.0
+658,Hair and Fur,Not started,SHOT_100,620,REEL_03,,,37.0
+659,Layout,Completed,SHOT_100,620,REEL_03,2016-03-11 00:00:00,2016-06-08 21:00:00,37.0
+660,Cloth,Not started,SHOT_100,620,REEL_03,,,37.0
+661,Baking,Not started,SHOT_100,620,REEL_03,,,37.0
+662,previz,Not started,SHOT_100,620,REEL_03,,,37.0
+663,previz,Not started,SHOT_110,620,REEL_03,,,95.0
+664,Compositing,Not started,SHOT_110,620,REEL_03,,,95.0
+665,Paint,Not started,SHOT_110,620,REEL_03,,,95.0
+666,Rendering,Not started,SHOT_110,620,REEL_03,,,95.0
+667,Animation,In progress,SHOT_110,620,REEL_03,2016-08-14 21:00:00,,95.0
+668,Lookdev,Not started,SHOT_110,620,REEL_03,,,95.0
+669,Hair and Fur,Not started,SHOT_110,620,REEL_03,,,95.0
+670,Layout,Completed,SHOT_110,620,REEL_03,2016-03-11 00:00:00,2016-06-08 21:00:00,95.0
+671,Cloth,Not started,SHOT_110,620,REEL_03,,,95.0
+672,Baking,Not started,SHOT_110,620,REEL_03,,,95.0
+673,Compositing,Not started,SHOT_130,620,REEL_03,,,171.0
+674,Paint,Not started,SHOT_130,620,REEL_03,,,171.0
+675,Rendering,Not started,SHOT_130,620,REEL_03,,,171.0
+676,Animation,In progress,SHOT_130,620,REEL_03,2016-06-23 21:00:00,,171.0
+677,Lookdev,Not started,SHOT_130,620,REEL_03,,,171.0
+678,Hair and Fur,Not started,SHOT_130,620,REEL_03,,,171.0
+679,Layout,Completed,SHOT_130,620,REEL_03,2016-03-11 00:00:00,2016-06-08 21:00:00,171.0
+680,Cloth,Not started,SHOT_130,620,REEL_03,,,171.0
+681,Baking,Not started,SHOT_130,620,REEL_03,,,171.0
+682,previz,Not started,SHOT_130,620,REEL_03,,,171.0
+683,RHL,Not started,SHOT_130,620,REEL_03,,,171.0
+684,Compositing,Not started,SHOT_050,620,REEL_03,,,54.0
+685,Paint,Not started,SHOT_050,620,REEL_03,,,54.0
+686,Rendering,Not started,SHOT_050,620,REEL_03,,,54.0
+687,Animation,In progress,SHOT_050,620,REEL_03,2016-08-15 16:05:45,,54.0
+688,Lookdev,Not started,SHOT_050,620,REEL_03,,,54.0
+689,Hair and Fur,Not started,SHOT_050,620,REEL_03,,,54.0
+690,Layout,Completed,SHOT_050,620,REEL_03,2016-03-11 00:00:00,2016-06-08 21:00:00,54.0
+691,Cloth,Not started,SHOT_050,620,REEL_03,,,54.0
+692,Baking,Not started,SHOT_050,620,REEL_03,,,54.0
+693,previz,Not started,SHOT_050,620,REEL_03,,,54.0
+694,FPP,Not started,SHOT_140,620,REEL_03,,,44.0
+695,Compositing,Not started,SHOT_140,620,REEL_03,,,44.0
+696,Paint,Not started,SHOT_140,620,REEL_03,,,44.0
+697,Rendering,Not started,SHOT_140,620,REEL_03,,,44.0
+698,Animation,In progress,SHOT_140,620,REEL_03,2016-08-14 21:00:00,,44.0
+699,Lookdev,Not started,SHOT_140,620,REEL_03,,,44.0
+700,Hair and Fur,Not started,SHOT_140,620,REEL_03,,,44.0
+701,Layout,Completed,SHOT_140,620,REEL_03,2016-03-11 00:00:00,2016-06-08 21:00:00,44.0
+702,Cloth,Not started,SHOT_140,620,REEL_03,,,44.0
+703,Baking,Not started,SHOT_140,620,REEL_03,,,44.0
+704,previz,Not started,SHOT_140,620,REEL_03,,,44.0
+705,Compositing,Pending Review,SHOT_090,620,REEL_03,,2016-08-29 14:26:18,91.0
+706,Paint,In progress,SHOT_090,620,REEL_03,,,91.0
+707,Rendering,Pending Review,SHOT_090,620,REEL_03,,,91.0
+708,Animation,Approved,SHOT_090,620,REEL_03,2016-06-13 18:16:35,,91.0
+709,Lookdev,Approved,SHOT_090,620,REEL_03,,,91.0
+710,Hair and Fur,Completed,SHOT_090,620,REEL_03,,,91.0
+711,Layout,Completed,SHOT_090,620,REEL_03,2016-03-11 00:00:00,2016-06-08 21:00:00,91.0
+712,Cloth,Completed,SHOT_090,620,REEL_03,,,91.0
+713,Baking,Completed,SHOT_090,620,REEL_03,,,91.0
+714,previz,Not started,SHOT_090,620,REEL_03,,,91.0
+715,Compositing,Not started,SHOT_080,620,REEL_03,,,40.0
+716,Paint,Not started,SHOT_080,620,REEL_03,,,40.0
+717,Rendering,Not started,SHOT_080,620,REEL_03,,,40.0
+718,Animation,Completed,SHOT_080,620,REEL_03,2016-06-24 16:05:47,,40.0
+719,Lookdev,Not started,SHOT_080,620,REEL_03,,,40.0
+720,Hair and Fur,Not started,SHOT_080,620,REEL_03,,,40.0
+721,Layout,Completed,SHOT_080,620,REEL_03,2016-03-11 00:00:00,2016-06-09 15:25:22,40.0
+722,Cloth,Not started,SHOT_080,620,REEL_03,,,40.0
+723,Baking,Not started,SHOT_080,620,REEL_03,,,40.0
+724,previz,Not started,SHOT_080,620,REEL_03,,,40.0
+725,Compositing,Not started,SHOT_020,620,REEL_03,,,131.0
+726,Paint,Not started,SHOT_020,620,REEL_03,,,131.0
+727,Rendering,Not started,SHOT_020,620,REEL_03,,,131.0
+728,Animation,In progress,SHOT_020,620,REEL_03,2016-08-15 16:05:44,,131.0
+729,Lookdev,Not started,SHOT_020,620,REEL_03,,,131.0
+730,Hair and Fur,Not started,SHOT_020,620,REEL_03,,,131.0
+731,Layout,Completed,SHOT_020,620,REEL_03,2016-03-11 00:00:00,2016-06-08 21:00:00,131.0
+732,Cloth,Not started,SHOT_020,620,REEL_03,,,131.0
+733,Baking,Not started,SHOT_020,620,REEL_03,,,131.0
+734,previz,Not started,SHOT_020,620,REEL_03,,,131.0
+735,DLT,Not started,SHOT_150,620,REEL_03,,,176.0
+736,Compositing,Not started,SHOT_150,620,REEL_03,,,176.0
+737,Paint,Not started,SHOT_150,620,REEL_03,,,176.0
+738,Rendering,Not started,SHOT_150,620,REEL_03,,,176.0
+739,Animation,In progress,SHOT_150,620,REEL_03,2016-06-23 21:00:00,,176.0
+740,Lookdev,Not started,SHOT_150,620,REEL_03,,,176.0
+741,Hair and Fur,Not started,SHOT_150,620,REEL_03,,,176.0
+742,Layout,Completed,SHOT_150,620,REEL_03,2016-03-11 00:00:00,2016-06-08 21:00:00,176.0
+743,Cloth,Not started,SHOT_150,620,REEL_03,,,176.0
+744,Baking,Not started,SHOT_150,620,REEL_03,,,176.0
+745,previz,Not started,SHOT_150,620,REEL_03,,,176.0
+746,Compositing,Not started,SHOT_120,620,REEL_03,,,58.0
+747,Paint,Not started,SHOT_120,620,REEL_03,,,58.0
+748,Rendering,Not started,SHOT_120,620,REEL_03,,,58.0
+749,Animation,In progress,SHOT_120,620,REEL_03,2016-08-14 21:00:00,,58.0
+750,Lookdev,Not started,SHOT_120,620,REEL_03,,,58.0
+751,Hair and Fur,Not started,SHOT_120,620,REEL_03,,,58.0
+752,Layout,Completed,SHOT_120,620,REEL_03,2016-03-11 00:00:00,2016-06-08 21:00:00,58.0
+753,Cloth,Not started,SHOT_120,620,REEL_03,,,58.0
+754,Baking,Not started,SHOT_120,620,REEL_03,,,58.0
+755,previz,Not started,SHOT_120,620,REEL_03,,,58.0
+756,Compositing,Not started,SHOT_030,620,REEL_03,,,41.0
+757,Paint,Not started,SHOT_030,620,REEL_03,,,41.0
+758,Rendering,Not started,SHOT_030,620,REEL_03,,,41.0
+759,Animation,In progress,SHOT_030,620,REEL_03,2016-08-15 16:05:45,,41.0
+760,Lookdev,Not started,SHOT_030,620,REEL_03,,,41.0
+761,Hair and Fur,Not started,SHOT_030,620,REEL_03,,,41.0
+762,Layout,Completed,SHOT_030,620,REEL_03,2016-03-11 00:00:00,2016-06-08 21:00:00,41.0
+763,Cloth,Not started,SHOT_030,620,REEL_03,,,41.0
+764,Baking,Not started,SHOT_030,620,REEL_03,,,41.0
+765,previz,Not started,SHOT_030,620,REEL_03,,,41.0
+766,Compositing,Not started,SHOT_060,620,REEL_03,,,45.0
+767,Paint,Not started,SHOT_060,620,REEL_03,,,45.0
+768,Rendering,Not started,SHOT_060,620,REEL_03,,,45.0
+769,Animation,In progress,SHOT_060,620,REEL_03,2016-08-15 16:05:46,,45.0
+770,Lookdev,Not started,SHOT_060,620,REEL_03,,,45.0
+771,Hair and Fur,Not started,SHOT_060,620,REEL_03,,,45.0
+772,Layout,Completed,SHOT_060,620,REEL_03,2016-03-11 00:00:00,2016-06-08 21:00:00,45.0
+773,Cloth,Not started,SHOT_060,620,REEL_03,,,45.0
+774,Baking,Not started,SHOT_060,620,REEL_03,,,45.0
+775,previz,Not started,SHOT_060,620,REEL_03,,,45.0
+776,Compositing,Not started,SHOT_170,620,REEL_03,,,40.0
+777,Paint,Not started,SHOT_170,620,REEL_03,,,40.0
+778,Rendering,Not started,SHOT_170,620,REEL_03,,,40.0
+779,Animation,In progress,SHOT_170,620,REEL_03,2016-08-14 21:00:00,,40.0
+780,Lookdev,Not started,SHOT_170,620,REEL_03,,,40.0
+781,Hair and Fur,Not started,SHOT_170,620,REEL_03,,,40.0
+782,Layout,Completed,SHOT_170,620,REEL_03,2016-03-11 00:00:00,2016-06-08 21:00:00,40.0
+783,Cloth,Not started,SHOT_170,620,REEL_03,,,40.0
+784,Baking,Not started,SHOT_170,620,REEL_03,,,40.0
+785,previz,Not started,SHOT_170,620,REEL_03,,,40.0
+786,previz,Not started,SHOT_072,620,REEL_03,,,51.0
+787,Compositing,Not started,SHOT_072,620,REEL_03,,,51.0
+788,Paint,Not started,SHOT_072,620,REEL_03,,,51.0
+789,Rendering,Not started,SHOT_072,620,REEL_03,,,51.0
+790,Animation,In progress,SHOT_072,620,REEL_03,2016-08-15 16:05:47,,51.0
+791,Lookdev,Not started,SHOT_072,620,REEL_03,,,51.0
+792,Hair and Fur,Not started,SHOT_072,620,REEL_03,,,51.0
+793,Layout,Completed,SHOT_072,620,REEL_03,2016-06-02 21:00:00,2016-06-08 21:00:00,51.0
+794,Cloth,Not started,SHOT_072,620,REEL_03,,,51.0
+795,Baking,Not started,SHOT_072,620,REEL_03,,,51.0
+796,Compositing,Not started,SHOT_010,630,REEL_03,,,86.0
+797,Paint,Not started,SHOT_010,630,REEL_03,,,86.0
+798,Rendering,Not started,SHOT_010,630,REEL_03,,,86.0
+799,Animation,In progress,SHOT_010,630,REEL_03,2016-05-12 21:00:00,,86.0
+800,Lookdev,Not started,SHOT_010,630,REEL_03,,,86.0
+801,Hair and Fur,Not started,SHOT_010,630,REEL_03,,,86.0
+802,Layout,Completed,SHOT_010,630,REEL_03,2016-02-16 00:00:00,,86.0
+803,Cloth,Not started,SHOT_010,630,REEL_03,,,86.0
+804,Baking,Not started,SHOT_010,630,REEL_03,,,86.0
+805,FTP,Completed,SHOT_010,630,REEL_03,,,86.0
+806,Previz,Not started,SHOT_010,630,REEL_03,,,86.0
+807,Compositing,Not started,SHOT_020,630,REEL_03,,,90.0
+808,Paint,Not started,SHOT_020,630,REEL_03,,,90.0
+809,Rendering,Not started,SHOT_020,630,REEL_03,,,90.0
+810,Animation,In progress,SHOT_020,630,REEL_03,2016-05-12 21:00:00,,90.0
+811,Lookdev,Not started,SHOT_020,630,REEL_03,,,90.0
+812,Hair and Fur,Not started,SHOT_020,630,REEL_03,,,90.0
+813,Layout,Completed,SHOT_020,630,REEL_03,2016-02-16 00:00:00,,90.0
+814,Cloth,Not started,SHOT_020,630,REEL_03,,,90.0
+815,Baking,Not started,SHOT_020,630,REEL_03,,,90.0
+816,FTP,Completed,SHOT_020,630,REEL_03,,,90.0
+817,Previz,Not started,SHOT_020,630,REEL_03,,,90.0
+818,Previz,Not started,SHOT_030,630,REEL_03,,,126.0
+819,Compositing,Not started,SHOT_030,630,REEL_03,,,126.0
+820,Paint,Not started,SHOT_030,630,REEL_03,,,126.0
+821,Rendering,Not started,SHOT_030,630,REEL_03,,,126.0
+822,Animation,Completed,SHOT_030,630,REEL_03,2016-08-15 21:00:00,,126.0
+823,Lookdev,Not started,SHOT_030,630,REEL_03,,,126.0
+824,Hair and Fur,Not started,SHOT_030,630,REEL_03,,,126.0
+825,Layout,Completed,SHOT_030,630,REEL_03,2016-02-16 00:00:00,,126.0
+826,Cloth,Not started,SHOT_030,630,REEL_03,,,126.0
+827,Baking,Not started,SHOT_030,630,REEL_03,,,126.0
+828,FTP,Completed,SHOT_030,630,REEL_03,,,126.0
+829,Previz,Not started,SHOT_160,640,REEL_03,,,38.0
+830,Compositing,Pending Review,SHOT_160,640,REEL_03,,2016-07-26 13:20:56,38.0
+831,Paint,Completed,SHOT_160,640,REEL_03,,,38.0
+832,Rendering,In progress,SHOT_160,640,REEL_03,,,38.0
+833,Animation,Approved,SHOT_160,640,REEL_03,2016-06-11 21:00:00,2016-07-06 21:00:00,38.0
+834,Lookdev,Approved,SHOT_160,640,REEL_03,,,38.0
+835,Hair and Fur,Completed,SHOT_160,640,REEL_03,,,38.0
+836,Layout,Completed,SHOT_160,640,REEL_03,2016-02-17 21:00:00,2016-05-23 21:00:00,38.0
+837,Cloth,Completed,SHOT_160,640,REEL_03,,,38.0
+838,Baking,Completed,SHOT_160,640,REEL_03,,,38.0
+839,Previz,Not started,SHOT_110,640,REEL_03,,,68.0
+840,Compositing,Pending Review,SHOT_110,640,REEL_03,,2016-08-08 12:07:04,68.0
+841,Paint,Completed,SHOT_110,640,REEL_03,,,68.0
+842,Rendering,Not started,SHOT_110,640,REEL_03,,,68.0
+843,Animation,Approved,SHOT_110,640,REEL_03,2016-06-11 21:00:00,2016-08-01 21:00:00,68.0
+844,Lookdev,Ready to Start,SHOT_110,640,REEL_03,,,68.0
+845,Hair and Fur,Completed,SHOT_110,640,REEL_03,,,68.0
+846,Layout,Completed,SHOT_110,640,REEL_03,2016-02-17 21:00:00,2016-05-23 21:00:00,68.0
+847,Cloth,Completed,SHOT_110,640,REEL_03,,,68.0
+848,Baking,Completed,SHOT_110,640,REEL_03,,,68.0
+849,WTB,Pending Review,SHOT_110,640,REEL_03,,,68.0
+850,Previz,Not started,SHOT_145,640,REEL_03,,,50.0
+851,Compositing,Pending Review,SHOT_145,640,REEL_03,,2016-07-25 15:53:54,50.0
+852,Paint,Completed,SHOT_145,640,REEL_03,,,50.0
+853,Rendering,Not started,SHOT_145,640,REEL_03,,,50.0
+854,Animation,Approved,SHOT_145,640,REEL_03,2016-06-11 21:00:00,,50.0
+855,Lookdev,Ready to Start,SHOT_145,640,REEL_03,,,50.0
+856,Hair and Fur,Completed,SHOT_145,640,REEL_03,,,50.0
+857,Layout,Completed,SHOT_145,640,REEL_03,2016-02-17 21:00:00,2016-05-23 21:00:00,50.0
+858,Cloth,Completed,SHOT_145,640,REEL_03,,,50.0
+859,Baking,Completed,SHOT_145,640,REEL_03,,,50.0
+860,FAL,Pending Review,SHOT_145,640,REEL_03,,,50.0
+861,Previz,Not started,SHOT_170,640,REEL_03,,,60.0
+862,Compositing,Approved,SHOT_170,640,REEL_03,,2016-07-29 09:14:30,60.0
+863,Paint,Completed,SHOT_170,640,REEL_03,,,60.0
+864,Rendering,Completed,SHOT_170,640,REEL_03,,,60.0
+865,Animation,Approved,SHOT_170,640,REEL_03,2016-06-11 21:00:00,,60.0
+866,Lookdev,Approved,SHOT_170,640,REEL_03,,,60.0
+867,Hair and Fur,Completed,SHOT_170,640,REEL_03,,,60.0
+868,Layout,Completed,SHOT_170,640,REEL_03,2016-02-17 21:00:00,2016-05-23 21:00:00,60.0
+869,Cloth,Completed,SHOT_170,640,REEL_03,,,60.0
+870,Baking,Completed,SHOT_170,640,REEL_03,,,60.0
+871,Previz,Not started,SHOT_100,640,REEL_03,,,59.0
+872,Compositing,Pending Review,SHOT_100,640,REEL_03,,2016-07-26 13:18:04,59.0
+873,Paint,Completed,SHOT_100,640,REEL_03,,,59.0
+874,Rendering,In progress,SHOT_100,640,REEL_03,,,59.0
+875,Animation,Approved,SHOT_100,640,REEL_03,2016-06-11 21:00:00,2016-07-06 21:00:00,59.0
+876,Lookdev,Approved,SHOT_100,640,REEL_03,,,59.0
+877,Hair and Fur,Completed,SHOT_100,640,REEL_03,,,59.0
+878,Layout,Completed,SHOT_100,640,REEL_03,2016-02-17 21:00:00,2016-05-23 21:00:00,59.0
+879,Baking,Completed,SHOT_100,640,REEL_03,,,59.0
+880,KEY,Ready to Start,SHOT_100,640,REEL_03,,,59.0
+881,Previz,Not started,SHOT_052,640,REEL_03,,,80.0
+882,Compositing,Pending Review,SHOT_052,640,REEL_03,,2016-08-27 14:51:32,80.0
+883,Paint,Completed,SHOT_052,640,REEL_03,,,80.0
+884,Rendering,Not started,SHOT_052,640,REEL_03,,,80.0
+885,Animation,Approved,SHOT_052,640,REEL_03,2016-06-11 21:00:00,2016-08-22 21:00:00,80.0
+886,Lookdev,Ready to Start,SHOT_052,640,REEL_03,,,80.0
+887,Hair and Fur,Completed,SHOT_052,640,REEL_03,,,80.0
+888,Layout,Completed,SHOT_052,640,REEL_03,,,80.0
+889,Cloth,Completed,SHOT_052,640,REEL_03,,,80.0
+890,Baking,Completed,SHOT_052,640,REEL_03,,,80.0
+891,Previz,Not started,SHOT_180,640,REEL_03,,,72.0
+892,Compositing,Not started,SHOT_180,640,REEL_03,,,72.0
+893,Paint,Not started,SHOT_180,640,REEL_03,,,72.0
+894,Rendering,Not started,SHOT_180,640,REEL_03,,,72.0
+895,Animation,In progress,SHOT_180,640,REEL_03,2016-06-12 21:00:00,,72.0
+896,Lookdev,Not started,SHOT_180,640,REEL_03,,,72.0
+897,Hair and Fur,Not started,SHOT_180,640,REEL_03,,,72.0
+898,Layout,Completed,SHOT_180,640,REEL_03,2016-02-17 21:00:00,2016-05-23 21:00:00,72.0
+899,Cloth,Not started,SHOT_180,640,REEL_03,,,72.0
+900,Baking,Not started,SHOT_180,640,REEL_03,,,72.0
+901,SPL,Not started,SHOT_180,640,REEL_03,,,72.0
+902,Previz,Not started,SHOT_030,640,REEL_03,,,54.0
+903,Compositing,Not started,SHOT_030,640,REEL_03,,,54.0
+904,Paint,Not started,SHOT_030,640,REEL_03,,,54.0
+905,Rendering,Not started,SHOT_030,640,REEL_03,,,54.0
+906,Animation,Approved,SHOT_030,640,REEL_03,2016-06-14 16:37:27,2016-08-25 21:00:00,54.0
+907,Lookdev,In progress,SHOT_030,640,REEL_03,,,54.0
+908,Hair and Fur,Completed,SHOT_030,640,REEL_03,,,54.0
+909,Layout,Completed,SHOT_030,640,REEL_03,2016-02-17 21:00:00,2016-05-23 21:00:00,54.0
+910,Cloth,Completed,SHOT_030,640,REEL_03,,,54.0
+911,Baking,Completed,SHOT_030,640,REEL_03,,,54.0
+912,Previz,Not started,SHOT_080,640,REEL_03,,,55.0
+913,Compositing,Pending Review,SHOT_080,640,REEL_03,,2016-08-30 12:01:27,55.0
+914,Paint,Ready to Start,SHOT_080,640,REEL_03,,,55.0
+915,Rendering,Not started,SHOT_080,640,REEL_03,,,55.0
+916,Animation,Approved,SHOT_080,640,REEL_03,2016-06-11 21:00:00,2016-08-24 21:00:00,55.0
+917,Lookdev,Pending Review,SHOT_080,640,REEL_03,,,55.0
+918,Hair and Fur,Completed,SHOT_080,640,REEL_03,,,55.0
+919,Layout,Completed,SHOT_080,640,REEL_03,2016-02-17 21:00:00,2016-05-23 21:00:00,55.0
+920,Cloth,Completed,SHOT_080,640,REEL_03,,,55.0
+921,Baking,Completed,SHOT_080,640,REEL_03,,,55.0
+922,Previz,Not started,SHOT_015,640,REEL_03,,,49.0
+923,Compositing,Pending Review,SHOT_015,640,REEL_03,,2016-07-22 15:57:31,49.0
+924,Paint,Completed,SHOT_015,640,REEL_03,,,49.0
+925,Rendering,Not started,SHOT_015,640,REEL_03,,,49.0
+926,Animation,Approved,SHOT_015,640,REEL_03,2016-06-14 16:37:26,,49.0
+927,Lookdev,Ready to Start,SHOT_015,640,REEL_03,,,49.0
+928,Hair and Fur,Completed,SHOT_015,640,REEL_03,,,49.0
+929,Layout,Completed,SHOT_015,640,REEL_03,2016-02-17 21:00:00,2016-05-23 21:00:00,49.0
+930,Baking,Completed,SHOT_015,640,REEL_03,,,49.0
+931,Previz,Not started,SHOT_040,640,REEL_03,,,36.0
+932,Compositing,Not started,SHOT_040,640,REEL_03,,,36.0
+933,Paint,Not started,SHOT_040,640,REEL_03,,,36.0
+934,Rendering,Not started,SHOT_040,640,REEL_03,,,36.0
+935,Animation,In progress,SHOT_040,640,REEL_03,2016-06-14 16:37:27,,36.0
+936,Lookdev,Not started,SHOT_040,640,REEL_03,,,36.0
+937,Hair and Fur,Not started,SHOT_040,640,REEL_03,,,36.0
+938,Layout,Completed,SHOT_040,640,REEL_03,2016-02-17 21:00:00,2016-05-23 21:00:00,36.0
+939,Cloth,Not started,SHOT_040,640,REEL_03,,,36.0
+940,Baking,Not started,SHOT_040,640,REEL_03,,,36.0
+941,Previz,Not started,SHOT_150,640,REEL_03,,,23.0
+942,Compositing,Not started,SHOT_150,640,REEL_03,,,23.0
+943,Paint,Not started,SHOT_150,640,REEL_03,,,23.0
+944,Rendering,Not started,SHOT_150,640,REEL_03,,,23.0
+945,Animation,Completed,SHOT_150,640,REEL_03,2016-06-11 21:00:00,,23.0
+946,Lookdev,Not started,SHOT_150,640,REEL_03,,,23.0
+947,Hair and Fur,Not started,SHOT_150,640,REEL_03,,,23.0
+948,Layout,Completed,SHOT_150,640,REEL_03,2016-02-17 21:00:00,2016-05-23 21:00:00,23.0
+949,Cloth,Not started,SHOT_150,640,REEL_03,,,23.0
+950,Baking,Not started,SHOT_150,640,REEL_03,,,23.0
+951,Previz,Not started,SHOT_140,640,REEL_03,,,59.0
+952,Compositing,Not started,SHOT_140,640,REEL_03,,,59.0
+953,Paint,Not started,SHOT_140,640,REEL_03,,,59.0
+954,Rendering,Not started,SHOT_140,640,REEL_03,,,59.0
+955,Animation,In progress,SHOT_140,640,REEL_03,2016-06-11 21:00:00,,59.0
+956,Lookdev,Not started,SHOT_140,640,REEL_03,,,59.0
+957,Hair and Fur,Not started,SHOT_140,640,REEL_03,,,59.0
+958,Layout,Completed,SHOT_140,640,REEL_03,2016-02-17 21:00:00,2016-05-23 21:00:00,59.0
+959,Cloth,Not started,SHOT_140,640,REEL_03,,,59.0
+960,Baking,Not started,SHOT_140,640,REEL_03,,,59.0
+961,Previz,Not started,SHOT_050,640,REEL_03,,,70.0
+962,Compositing,Pending Review,SHOT_050,640,REEL_03,,2016-08-08 12:05:23,70.0
+963,Paint,Completed,SHOT_050,640,REEL_03,,,70.0
+964,Rendering,Not started,SHOT_050,640,REEL_03,,,70.0
+965,Animation,Approved,SHOT_050,640,REEL_03,2016-06-14 16:37:28,2016-08-03 21:00:00,70.0
+966,Lookdev,Ready to Start,SHOT_050,640,REEL_03,,,70.0
+967,Hair and Fur,Completed,SHOT_050,640,REEL_03,,,70.0
+968,Layout,Completed,SHOT_050,640,REEL_03,2016-02-17 21:00:00,2016-05-23 21:00:00,70.0
+969,Cloth,Completed,SHOT_050,640,REEL_03,,,70.0
+970,Baking,Completed,SHOT_050,640,REEL_03,,,70.0
+971,Previz,Not started,SHOT_020,640,REEL_03,,,43.0
+972,Compositing,Not started,SHOT_020,640,REEL_03,,,43.0
+973,Paint,Not started,SHOT_020,640,REEL_03,,,43.0
+974,Rendering,Not started,SHOT_020,640,REEL_03,,,43.0
+975,Animation,In progress,SHOT_020,640,REEL_03,2016-06-14 16:37:26,,43.0
+976,Lookdev,Not started,SHOT_020,640,REEL_03,,,43.0
+977,Hair and Fur,Not started,SHOT_020,640,REEL_03,,,43.0
+978,Layout,Completed,SHOT_020,640,REEL_03,2016-02-17 21:00:00,2016-05-23 21:00:00,43.0
+979,Cloth,Not started,SHOT_020,640,REEL_03,,,43.0
+980,Baking,Not started,SHOT_020,640,REEL_03,,,43.0
+981,Previz,Not started,SHOT_090,640,REEL_03,,,41.0
+982,Compositing,Pending Review,SHOT_090,640,REEL_03,,2016-08-05 11:03:47,41.0
+983,Paint,Completed,SHOT_090,640,REEL_03,,,41.0
+984,Rendering,Not started,SHOT_090,640,REEL_03,,,41.0
+985,Animation,Approved,SHOT_090,640,REEL_03,2016-06-11 21:00:00,2016-08-01 21:00:00,41.0
+986,Lookdev,Ready to Start,SHOT_090,640,REEL_03,,,41.0
+987,Hair and Fur,Completed,SHOT_090,640,REEL_03,,,41.0
+988,Layout,Completed,SHOT_090,640,REEL_03,2016-02-17 21:00:00,2016-05-23 21:00:00,41.0
+989,Cloth,Completed,SHOT_090,640,REEL_03,,,41.0
+990,Baking,Completed,SHOT_090,640,REEL_03,,,41.0
+991,Previz,Not started,SHOT_060,640,REEL_03,,,33.0
+992,Compositing,Not started,SHOT_060,640,REEL_03,,,33.0
+993,Paint,Not started,SHOT_060,640,REEL_03,,,33.0
+994,Rendering,Not started,SHOT_060,640,REEL_03,,,33.0
+995,Animation,In progress,SHOT_060,640,REEL_03,2016-06-11 21:00:00,,33.0
+996,Lookdev,Not started,SHOT_060,640,REEL_03,,,33.0
+997,Hair and Fur,Not started,SHOT_060,640,REEL_03,,,33.0
+998,Layout,Completed,SHOT_060,640,REEL_03,2016-02-17 21:00:00,2016-05-23 21:00:00,33.0
+999,Cloth,Not started,SHOT_060,640,REEL_03,,,33.0
+1000,Baking,Not started,SHOT_060,640,REEL_03,,,33.0
+1001,Previz,Not started,SHOT_010,640,REEL_03,,,111.0
+1002,Compositing,Not started,SHOT_010,640,REEL_03,,,111.0
+1003,Paint,Not started,SHOT_010,640,REEL_03,,,111.0
+1004,Rendering,Not started,SHOT_010,640,REEL_03,,,111.0
+1005,Animation,In progress,SHOT_010,640,REEL_03,2016-06-14 16:37:26,,111.0
+1006,Lookdev,Not started,SHOT_010,640,REEL_03,,,111.0
+1007,Hair and Fur,Not started,SHOT_010,640,REEL_03,,,111.0
+1008,Layout,Completed,SHOT_010,640,REEL_03,2016-02-17 21:00:00,2016-05-23 21:00:00,111.0
+1009,Cloth,Not started,SHOT_010,640,REEL_03,,,111.0
+1010,Baking,Not started,SHOT_010,640,REEL_03,,,111.0
+1011,Previz,Not started,SHOT_070,640,REEL_03,,,67.0
+1012,HND,Pending Review,SHOT_070,640,REEL_03,,,67.0
+1013,Compositing,Pending Review,SHOT_070,640,REEL_03,,2016-08-26 12:17:49,67.0
+1014,Paint,Completed,SHOT_070,640,REEL_03,,,67.0
+1015,Rendering,Not started,SHOT_070,640,REEL_03,,,67.0
+1016,Animation,Approved,SHOT_070,640,REEL_03,2016-06-11 21:00:00,2016-08-15 21:00:00,67.0
+1017,Lookdev,Ready to Start,SHOT_070,640,REEL_03,,,67.0
+1018,Hair and Fur,Completed,SHOT_070,640,REEL_03,,,67.0
+1019,Layout,Completed,SHOT_070,640,REEL_03,2016-02-17 21:00:00,2016-05-23 21:00:00,67.0
+1020,Cloth,Completed,SHOT_070,640,REEL_03,,,67.0
+1021,Baking,Completed,SHOT_070,640,REEL_03,,,67.0
+1022,Previz,Not started,SHOT_130,640,REEL_03,,,40.0
+1023,FAL,Pending Review,SHOT_130,640,REEL_03,,,40.0
+1024,Compositing,Pending Review,SHOT_130,640,REEL_03,,2016-08-24 21:39:44,40.0
+1025,Paint,Completed,SHOT_130,640,REEL_03,,,40.0
+1026,Rendering,Not started,SHOT_130,640,REEL_03,,,40.0
+1027,Animation,Approved,SHOT_130,640,REEL_03,2016-06-11 21:00:00,,40.0
+1028,Lookdev,Ready to Start,SHOT_130,640,REEL_03,,,40.0
+1029,Hair and Fur,Completed,SHOT_130,640,REEL_03,,,40.0
+1030,Layout,Completed,SHOT_130,640,REEL_03,2016-02-17 21:00:00,2016-05-23 21:00:00,40.0
+1031,Cloth,Completed,SHOT_130,640,REEL_03,,,40.0
+1032,Baking,Completed,SHOT_130,640,REEL_03,,,40.0
+1033,Previz,On Hold,SHOT_010,490,REEL_03,,,48.0
+1034,Hair and Fur,Completed,SHOT_010,490,REEL_03,,,48.0
+1035,Compositing,Pending Review,SHOT_010,490,REEL_03,,2016-07-26 14:54:50,48.0
+1036,Paint,Completed,SHOT_010,490,REEL_03,,,48.0
+1037,Rendering,In progress,SHOT_010,490,REEL_03,,,48.0
+1038,Animation,Approved,SHOT_010,490,REEL_03,2016-03-11 00:00:00,2016-07-17 21:00:00,48.0
+1039,Lookdev,Approved,SHOT_010,490,REEL_03,,,48.0
+1040,Assemble,Completed,SHOT_010,490,REEL_03,,,48.0
+1041,Layout,Completed,SHOT_010,490,REEL_03,2015-12-16 00:00:00,2015-12-24 00:00:00,48.0
+1042,Cloth,Completed,SHOT_010,490,REEL_03,,,48.0
+1043,Baking,Completed,SHOT_010,490,REEL_03,,,48.0
+1044,WLB,Ready to Start,SHOT_010,490,REEL_03,,,48.0
+1045,Compositing,Pending Review,SHOT_005,610,REEL_03,,2016-08-23 11:38:29,70.0
+1046,Paint,Completed,SHOT_005,610,REEL_03,,,70.0
+1047,Rendering,Not started,SHOT_005,610,REEL_03,,,70.0
+1048,Animation,Approved,SHOT_005,610,REEL_03,2016-07-03 21:00:00,2016-08-10 21:00:00,70.0
+1049,Lookdev,Ready to Start,SHOT_005,610,REEL_03,,,70.0
+1050,Layout,Completed,SHOT_005,610,REEL_03,,2016-05-31 21:00:00,70.0
+1051,Baking,Completed,SHOT_005,610,REEL_03,,,70.0
+1052,previz,On Hold,SHOT_005,610,REEL_03,,,70.0
+1053,Compositing,Pending Review,SHOT_015,610,REEL_03,,2016-08-22 16:01:06,78.0
+1054,Paint,Completed,SHOT_015,610,REEL_03,,,78.0
+1055,Rendering,Not started,SHOT_015,610,REEL_03,,,78.0
+1056,Animation,Approved,SHOT_015,610,REEL_03,2016-07-03 21:00:00,2016-08-10 21:00:00,78.0
+1057,Lookdev,Ready to Start,SHOT_015,610,REEL_03,,,78.0
+1058,Hair and Fur,Completed,SHOT_015,610,REEL_03,,,78.0
+1059,Layout,Completed,SHOT_015,610,REEL_03,,2016-05-31 21:00:00,78.0
+1060,Cloth,Completed,SHOT_015,610,REEL_03,,,78.0
+1061,Baking,Completed,SHOT_015,610,REEL_03,,,78.0
+1062,previz,On Hold,SHOT_015,610,REEL_03,,,78.0
+1063,previz,On Hold,SHOT_010,610,REEL_03,,,105.0
+1064,Compositing,Pending Review,SHOT_010,610,REEL_03,,2016-08-19 11:23:18,105.0
+1065,Paint,Completed,SHOT_010,610,REEL_03,,,105.0
+1066,Rendering,Not started,SHOT_010,610,REEL_03,,,105.0
+1067,Animation,Approved,SHOT_010,610,REEL_03,2016-07-03 21:00:00,2016-08-10 21:00:00,105.0
+1068,Lookdev,Ready to Start,SHOT_010,610,REEL_03,,,105.0
+1069,Hair and Fur,Completed,SHOT_010,610,REEL_03,,,105.0
+1070,Layout,Completed,SHOT_010,610,REEL_03,2016-03-16 00:00:00,2016-06-01 16:25:12,105.0
+1071,Cloth,Completed,SHOT_010,610,REEL_03,,,105.0
+1072,Baking,Completed,SHOT_010,610,REEL_03,,,105.0
+1073,previz,On Hold,SHOT_020,610,REEL_03,,,57.0
+1074,Compositing,Pending Review,SHOT_020,610,REEL_03,,2016-08-19 11:04:22,57.0
+1075,Paint,Completed,SHOT_020,610,REEL_03,,,57.0
+1076,Rendering,In progress,SHOT_020,610,REEL_03,,,57.0
+1077,Animation,Approved,SHOT_020,610,REEL_03,2016-07-03 21:00:00,,57.0
+1078,Lookdev,Approved,SHOT_020,610,REEL_03,,,57.0
+1079,Hair and Fur,Completed,SHOT_020,610,REEL_03,,,57.0
+1080,Layout,Completed,SHOT_020,610,REEL_03,2016-03-16 00:00:00,2016-06-01 16:25:14,57.0
+1081,Cloth,Completed,SHOT_020,610,REEL_03,,,57.0
+1082,Baking,Completed,SHOT_020,610,REEL_03,,,57.0
+1083,previz,On Hold,SHOT_030,610,REEL_03,,,41.0
+1084,Compositing,Pending Review,SHOT_030,610,REEL_03,,2016-08-15 16:50:40,41.0
+1085,Paint,Completed,SHOT_030,610,REEL_03,,,41.0
+1086,Rendering,Not started,SHOT_030,610,REEL_03,,,41.0
+1087,Animation,Approved,SHOT_030,610,REEL_03,2016-07-03 21:00:00,2016-08-10 21:00:00,41.0
+1088,Lookdev,Ready to Start,SHOT_030,610,REEL_03,,,41.0
+1089,Hair and Fur,Completed,SHOT_030,610,REEL_03,,,41.0
+1090,Layout,Completed,SHOT_030,610,REEL_03,2016-03-16 00:00:00,2016-06-01 16:25:15,41.0
+1091,Cloth,Completed,SHOT_030,610,REEL_03,,,41.0
+1092,Baking,Completed,SHOT_030,610,REEL_03,,,41.0
+1093,Compositing,Pending Review,SHOT_040,610,REEL_03,,2016-08-12 11:56:07,99.0
+1094,Paint,Completed,SHOT_040,610,REEL_03,,,99.0
+1095,Rendering,In progress,SHOT_040,610,REEL_03,,,99.0
+1096,Animation,Approved,SHOT_040,610,REEL_03,2016-07-03 21:00:00,2016-08-09 21:00:00,99.0
+1097,Lookdev,Approved,SHOT_040,610,REEL_03,,,99.0
+1098,Hair and Fur,Completed,SHOT_040,610,REEL_03,,,99.0
+1099,Layout,Completed,SHOT_040,610,REEL_03,2016-03-16 00:00:00,2016-06-01 16:25:17,99.0
+1100,Cloth,Completed,SHOT_040,610,REEL_03,,,99.0
+1101,Baking,Completed,SHOT_040,610,REEL_03,,,99.0
+1102,previz,On Hold,SHOT_040,610,REEL_03,,,99.0
+1103,previz,On Hold,SHOT_050,610,REEL_03,,,46.0
+1104,Compositing,In progress,SHOT_050,610,REEL_03,,2016-08-29 13:17:54,46.0
+1105,Paint,Completed,SHOT_050,610,REEL_03,,,46.0
+1106,Rendering,Pending Review,SHOT_050,610,REEL_03,,,46.0
+1107,Animation,Approved,SHOT_050,610,REEL_03,2016-07-03 21:00:00,2016-08-08 21:00:00,46.0
+1108,Lookdev,Approved,SHOT_050,610,REEL_03,,,46.0
+1109,Hair and Fur,Completed,SHOT_050,610,REEL_03,,,46.0
+1110,Layout,Completed,SHOT_050,610,REEL_03,2016-03-16 00:00:00,2016-06-01 16:25:19,46.0
+1111,Baking,Completed,SHOT_050,610,REEL_03,,,46.0
+1112,previz,On Hold,SHOT_060,610,REEL_03,,,40.0
+1113,Compositing,Pending Review,SHOT_060,610,REEL_03,,2016-08-17 10:47:48,40.0
+1114,Paint,Completed,SHOT_060,610,REEL_03,,,40.0
+1115,Rendering,Not started,SHOT_060,610,REEL_03,,,40.0
+1116,Animation,Approved,SHOT_060,610,REEL_03,2016-07-03 21:00:00,2016-08-10 21:00:00,40.0
+1117,Lookdev,Ready to Start,SHOT_060,610,REEL_03,,,40.0
+1118,Hair and Fur,Completed,SHOT_060,610,REEL_03,,,40.0
+1119,Layout,Completed,SHOT_060,610,REEL_03,2016-03-16 00:00:00,2016-06-01 16:25:21,40.0
+1120,Cloth,Completed,SHOT_060,610,REEL_03,,,40.0
+1121,Baking,Completed,SHOT_060,610,REEL_03,,,40.0
+1122,previz,On Hold,SHOT_070,610,REEL_03,,,135.0
+1123,Compositing,Not started,SHOT_070,610,REEL_03,,,135.0
+1124,Paint,Not started,SHOT_070,610,REEL_03,,,135.0
+1125,Rendering,Not started,SHOT_070,610,REEL_03,,,135.0
+1126,Animation,Approved,SHOT_070,610,REEL_03,2016-07-03 21:00:00,2016-08-10 21:00:00,135.0
+1127,Lookdev,In progress,SHOT_070,610,REEL_03,,,135.0
+1128,Hair and Fur,Completed,SHOT_070,610,REEL_03,,,135.0
+1129,Layout,Completed,SHOT_070,610,REEL_03,2016-03-16 00:00:00,2016-06-01 16:25:23,135.0
+1130,Cloth,Completed,SHOT_070,610,REEL_03,,,135.0
+1131,Baking,Completed,SHOT_070,610,REEL_03,,,135.0
+1132,BAB,Ready to Start,SHOT_070,610,REEL_03,,,135.0
+1133,Compositing,Pending Review,SHOT_080,610,REEL_03,,2016-08-29 13:20:23,60.0
+1134,Paint,In progress,SHOT_080,610,REEL_03,,,60.0
+1135,Rendering,Pending Review,SHOT_080,610,REEL_03,,,60.0
+1136,Animation,Approved,SHOT_080,610,REEL_03,2016-07-03 21:00:00,2016-08-08 21:00:00,60.0
+1137,Lookdev,Approved,SHOT_080,610,REEL_03,,,60.0
+1138,Hair and Fur,Completed,SHOT_080,610,REEL_03,,,60.0
+1139,Layout,Completed,SHOT_080,610,REEL_03,2016-03-16 00:00:00,2016-06-01 16:25:24,60.0
+1140,Cloth,Completed,SHOT_080,610,REEL_03,,,60.0
+1141,Baking,Completed,SHOT_080,610,REEL_03,,,60.0
+1142,previz,On Hold,SHOT_080,610,REEL_03,,,60.0
+1143,previz,On Hold,SHOT_090,610,REEL_03,,,110.0
+1144,Compositing,Pending Review,SHOT_090,610,REEL_03,,2016-08-30 11:11:38,110.0
+1145,Paint,In progress,SHOT_090,610,REEL_03,,,110.0
+1146,Rendering,Pending Review,SHOT_090,610,REEL_03,,,110.0
+1147,Animation,Approved,SHOT_090,610,REEL_03,2016-07-03 21:00:00,,110.0
+1148,Lookdev,Approved,SHOT_090,610,REEL_03,,,110.0
+1149,Hair and Fur,Completed,SHOT_090,610,REEL_03,,,110.0
+1150,Layout,Completed,SHOT_090,610,REEL_03,2016-03-16 00:00:00,2016-06-01 16:25:25,110.0
+1151,Cloth,Completed,SHOT_090,610,REEL_03,,,110.0
+1152,Baking,Completed,SHOT_090,610,REEL_03,,,110.0
+1153,previz,On Hold,SHOT_055,610,REEL_03,,,50.0
+1154,Compositing,Pending Review,SHOT_055,610,REEL_03,,2016-08-17 10:45:56,50.0
+1155,Paint,Completed,SHOT_055,610,REEL_03,,,50.0
+1156,Rendering,Not started,SHOT_055,610,REEL_03,,,50.0
+1157,Animation,Approved,SHOT_055,610,REEL_03,2016-07-03 21:00:00,2016-08-10 21:00:00,50.0
+1158,Lookdev,Ready to Start,SHOT_055,610,REEL_03,,,50.0
+1159,Hair and Fur,Completed,SHOT_055,610,REEL_03,,,50.0
+1160,Layout,Completed,SHOT_055,610,REEL_03,2016-03-16 00:00:00,2016-06-01 16:25:20,50.0
+1161,Cloth,Completed,SHOT_055,610,REEL_03,,,50.0
+1162,Baking,Completed,SHOT_055,610,REEL_03,,,50.0
+1163,Compositing,Pending Review,SHOT_045,610,REEL_03,,,49.0
+1164,Paint,Completed,SHOT_045,610,REEL_03,,,49.0
+1165,Rendering,Not started,SHOT_045,610,REEL_03,,,49.0
+1166,Animation,Approved,SHOT_045,610,REEL_03,2016-07-03 21:00:00,2016-08-10 21:00:00,49.0
+1167,Lookdev,Ready to Start,SHOT_045,610,REEL_03,,,49.0
+1168,Hair and Fur,Completed,SHOT_045,610,REEL_03,,,49.0
+1169,Layout,Completed,SHOT_045,610,REEL_03,,2016-05-31 21:00:00,49.0
+1170,Cloth,Completed,SHOT_045,610,REEL_03,,,49.0
+1171,Baking,Completed,SHOT_045,610,REEL_03,,,49.0
+1172,previz,On Hold,SHOT_045,610,REEL_03,,,49.0
+1173,Previz,Completed,SHOT_040,430,REEL_03,,,80.0
+1174,SHD,Ready to Start,SHOT_040,430,REEL_03,,,80.0
+1175,Compositing,Pending Review,SHOT_040,430,REEL_03,,2016-08-29 12:00:33,80.0
+1176,Paint,Completed,SHOT_040,430,REEL_03,,,80.0
+1177,Rendering,In progress,SHOT_040,430,REEL_03,,,80.0
+1178,Animation,Approved,SHOT_040,430,REEL_03,2016-05-12 21:00:00,,80.0
+1179,Lookdev,Approved,SHOT_040,430,REEL_03,,,80.0
+1180,Hair and Fur,Completed,SHOT_040,430,REEL_03,,,80.0
+1181,Layout,Completed,SHOT_040,430,REEL_03,2016-02-18 00:00:00,2016-02-19 00:00:00,80.0
+1182,Cloth,Completed,SHOT_040,430,REEL_03,,,80.0
+1183,Baking,Completed,SHOT_040,430,REEL_03,,,80.0
+1184,FTP,Completed,SHOT_040,430,REEL_03,,,80.0
+1185,Previz,Completed,SHOT_020,430,REEL_03,,,57.0
+1186,SHD,Ready to Start,SHOT_020,430,REEL_03,,,57.0
+1187,Compositing,Pending Review,SHOT_020,430,REEL_03,,2016-08-23 16:33:22,57.0
+1188,Paint,Completed,SHOT_020,430,REEL_03,,,57.0
+1189,Rendering,Not started,SHOT_020,430,REEL_03,,,57.0
+1190,Animation,Approved,SHOT_020,430,REEL_03,2016-05-12 21:00:00,2016-08-18 21:00:00,57.0
+1191,Lookdev,Ready to Start,SHOT_020,430,REEL_03,,,57.0
+1192,Hair and Fur,Completed,SHOT_020,430,REEL_03,,,57.0
+1193,Layout,Completed,SHOT_020,430,REEL_03,2016-02-18 00:00:00,2016-02-19 00:00:00,57.0
+1194,Cloth,Completed,SHOT_020,430,REEL_03,,,57.0
+1195,Baking,Completed,SHOT_020,430,REEL_03,,,57.0
+1196,FTP,Completed,SHOT_020,430,REEL_03,,,57.0
+1197,Previz,Completed,SHOT_030,430,REEL_03,,,39.0
+1198,SHD,Not started,SHOT_030,430,REEL_03,,,39.0
+1199,FTP,Completed,SHOT_030,430,REEL_03,,,39.0
+1200,Compositing,Pending Review,SHOT_030,430,REEL_03,,2016-07-16 14:56:49,39.0
+1201,Paint,Completed,SHOT_030,430,REEL_03,,,39.0
+1202,Rendering,Not started,SHOT_030,430,REEL_03,,,39.0
+1203,Animation,In progress,SHOT_030,430,REEL_03,2016-05-12 21:00:00,,39.0
+1204,Lookdev,Not started,SHOT_030,430,REEL_03,,,39.0
+1205,Hair and Fur,Not started,SHOT_030,430,REEL_03,,,39.0
+1206,Layout,Completed,SHOT_030,430,REEL_03,2016-02-18 00:00:00,2016-02-19 00:00:00,39.0
+1207,Cloth,Not started,SHOT_030,430,REEL_03,,,39.0
+1208,Baking,Not started,SHOT_030,430,REEL_03,,,39.0
+1209,Hair and Fur,Completed,SHOT_150,450,REEL_03,,,120.0
+1210,Compositing,Pending Review,SHOT_150,450,REEL_03,,2016-08-04 12:35:31,120.0
+1211,Paint,Completed,SHOT_150,450,REEL_03,,,120.0
+1212,Rendering,Not started,SHOT_150,450,REEL_03,,,120.0
+1213,Animation,Approved,SHOT_150,450,REEL_03,2016-05-30 21:00:00,,120.0
+1214,Lookdev,Ready to Start,SHOT_150,450,REEL_03,,,120.0
+1215,Assemble,Completed,SHOT_150,450,REEL_03,,,120.0
+1216,Layout,Completed,SHOT_150,450,REEL_03,,,120.0
+1217,Baking,Completed,SHOT_150,450,REEL_03,,,120.0
+1218,Previz,On Hold,SHOT_150,450,REEL_03,,,120.0
+1219,SHD,Ready to Start,SHOT_150,450,REEL_03,,,120.0
+1220,FTP,Completed,SHOT_150,450,REEL_03,,,120.0
+1221,Hair and Fur,Completed,SHOT_240,450,REEL_03,,,74.0
+1222,Compositing,Pending Review,SHOT_240,450,REEL_03,,2016-08-03 12:10:03,74.0
+1223,Paint,Completed,SHOT_240,450,REEL_03,,,74.0
+1224,Rendering,Not started,SHOT_240,450,REEL_03,,,74.0
+1225,Animation,Approved,SHOT_240,450,REEL_03,2016-05-30 21:00:00,2016-07-28 21:00:00,74.0
+1226,Lookdev,Ready to Start,SHOT_240,450,REEL_03,,,74.0
+1227,Assemble,Completed,SHOT_240,450,REEL_03,,,74.0
+1228,Layout,Completed,SHOT_240,450,REEL_03,,,74.0
+1229,Cloth,Completed,SHOT_240,450,REEL_03,,,74.0
+1230,Baking,Completed,SHOT_240,450,REEL_03,,,74.0
+1231,Previz,On Hold,SHOT_240,450,REEL_03,,,74.0
+1232,MBL,Pending Review,SHOT_240,450,REEL_03,,,74.0
+1233,SHD,In progress,SHOT_240,450,REEL_03,,,74.0
+1234,FTP,Completed,SHOT_240,450,REEL_03,,,74.0
+1235,Previz,On Hold,SHOT_020,450,REEL_03,,,77.0
+1236,SHD,Ready to Start,SHOT_020,450,REEL_03,,,77.0
+1237,Hair and Fur,Completed,SHOT_020,450,REEL_03,,,77.0
+1238,Compositing,Pending Review,SHOT_020,450,REEL_03,,2016-08-04 12:27:31,77.0
+1239,Paint,Completed,SHOT_020,450,REEL_03,,,77.0
+1240,Rendering,Not started,SHOT_020,450,REEL_03,,,77.0
+1241,Animation,Approved,SHOT_020,450,REEL_03,2016-05-30 21:00:00,2016-08-01 21:00:00,77.0
+1242,Lookdev,Ready to Start,SHOT_020,450,REEL_03,,,77.0
+1243,Assemble,Completed,SHOT_020,450,REEL_03,,,77.0
+1244,Layout,Completed,SHOT_020,450,REEL_03,,,77.0
+1245,Cloth,Completed,SHOT_020,450,REEL_03,,,77.0
+1246,Baking,Completed,SHOT_020,450,REEL_03,,,77.0
+1247,FTP,Completed,SHOT_020,450,REEL_03,,,77.0
+1248,Previz,On Hold,SHOT_100,450,REEL_03,,,125.0
+1249,Hair and Fur,Completed,SHOT_100,450,REEL_03,,,125.0
+1250,Compositing,Pending Review,SHOT_100,450,REEL_03,,2016-08-01 11:48:21,125.0
+1251,Paint,Completed,SHOT_100,450,REEL_03,,,125.0
+1252,Rendering,Not started,SHOT_100,450,REEL_03,,,125.0
+1253,Animation,Approved,SHOT_100,450,REEL_03,2016-05-30 21:00:00,2016-07-26 21:00:00,125.0
+1254,Lookdev,Ready to Start,SHOT_100,450,REEL_03,,,125.0
+1255,Assemble,Completed,SHOT_100,450,REEL_03,,,125.0
+1256,Layout,Completed,SHOT_100,450,REEL_03,,,125.0
+1257,Cloth,Completed,SHOT_100,450,REEL_03,,,125.0
+1258,Baking,Completed,SHOT_100,450,REEL_03,,,125.0
+1259,SHD,Ready to Start,SHOT_100,450,REEL_03,,,125.0
+1260,FTP,Completed,SHOT_100,450,REEL_03,,,125.0
+1261,Previz,On Hold,SHOT_250,450,REEL_03,,,48.0
+1262,Hair and Fur,Not started,SHOT_250,450,REEL_03,,,48.0
+1263,Compositing,Not started,SHOT_250,450,REEL_03,,,48.0
+1264,Paint,Not started,SHOT_250,450,REEL_03,,,48.0
+1265,Rendering,Not started,SHOT_250,450,REEL_03,,,48.0
+1266,Animation,In progress,SHOT_250,450,REEL_03,2016-05-30 21:00:00,,48.0
+1267,Lookdev,Not started,SHOT_250,450,REEL_03,,,48.0
+1268,Assemble,Completed,SHOT_250,450,REEL_03,,,48.0
+1269,Layout,Completed,SHOT_250,450,REEL_03,,,48.0
+1270,Cloth,Not started,SHOT_250,450,REEL_03,,,48.0
+1271,Baking,Not started,SHOT_250,450,REEL_03,,,48.0
+1272,FTP,Completed,SHOT_250,450,REEL_03,,,48.0
+1273,Previz,On Hold,SHOT_030,450,REEL_03,,,97.0
+1274,Hair and Fur,Completed,SHOT_030,450,REEL_03,,,97.0
+1275,Compositing,Pending Review,SHOT_030,450,REEL_03,,2016-07-28 12:15:28,97.0
+1276,Paint,Completed,SHOT_030,450,REEL_03,,,97.0
+1277,Rendering,Not started,SHOT_030,450,REEL_03,,,97.0
+1278,Animation,Approved,SHOT_030,450,REEL_03,2016-05-30 21:00:00,2016-07-24 21:00:00,97.0
+1279,Lookdev,Ready to Start,SHOT_030,450,REEL_03,,,97.0
+1280,Assemble,Completed,SHOT_030,450,REEL_03,,,97.0
+1281,Layout,Completed,SHOT_030,450,REEL_03,,,97.0
+1282,Cloth,Completed,SHOT_030,450,REEL_03,,,97.0
+1283,Baking,Completed,SHOT_030,450,REEL_03,,,97.0
+1284,SHD,Ready to Start,SHOT_030,450,REEL_03,,,97.0
+1285,FTP,Completed,SHOT_030,450,REEL_03,,,97.0
+1286,Previz,On Hold,SHOT_040,450,REEL_03,,,35.0
+1287,Hair and Fur,Completed,SHOT_040,450,REEL_03,,,35.0
+1288,Compositing,Pending Review,SHOT_040,450,REEL_03,,2016-08-04 12:20:29,35.0
+1289,Paint,Completed,SHOT_040,450,REEL_03,,,35.0
+1290,Rendering,Not started,SHOT_040,450,REEL_03,,,35.0
+1291,Animation,Approved,SHOT_040,450,REEL_03,2016-05-30 21:00:00,,35.0
+1292,Lookdev,Ready to Start,SHOT_040,450,REEL_03,,,35.0
+1293,Assemble,Completed,SHOT_040,450,REEL_03,,,35.0
+1294,Layout,Completed,SHOT_040,450,REEL_03,,,35.0
+1295,Cloth,Completed,SHOT_040,450,REEL_03,,,35.0
+1296,Baking,Completed,SHOT_040,450,REEL_03,,,35.0
+1297,SHD,Ready to Start,SHOT_040,450,REEL_03,,,35.0
+1298,FTP,Completed,SHOT_040,450,REEL_03,,,35.0
+1299,Previz,On Hold,SHOT_160,450,REEL_03,,,29.0
+1300,Hair and Fur,Completed,SHOT_160,450,REEL_03,,,29.0
+1301,Compositing,Pending Review,SHOT_160,450,REEL_03,,2016-07-28 12:16:58,29.0
+1302,Paint,Completed,SHOT_160,450,REEL_03,,,29.0
+1303,Rendering,Not started,SHOT_160,450,REEL_03,,,29.0
+1304,Animation,Approved,SHOT_160,450,REEL_03,2016-05-30 21:00:00,,29.0
+1305,Lookdev,Ready to Start,SHOT_160,450,REEL_03,,,29.0
+1306,Assemble,Completed,SHOT_160,450,REEL_03,,,29.0
+1307,Layout,Completed,SHOT_160,450,REEL_03,,,29.0
+1308,Cloth,Completed,SHOT_160,450,REEL_03,,,29.0
+1309,Baking,Completed,SHOT_160,450,REEL_03,,,29.0
+1310,SHD,Ready to Start,SHOT_160,450,REEL_03,,,29.0
+1311,FTP,Completed,SHOT_160,450,REEL_03,,,29.0
+1312,Previz,Not started,SHOT_110,450,REEL_03,,,33.0
+1313,Hair and Fur,Completed,SHOT_110,450,REEL_03,,,33.0
+1314,Compositing,Pending Review,SHOT_110,450,REEL_03,,2016-08-08 12:22:24,33.0
+1315,Paint,Completed,SHOT_110,450,REEL_03,,,33.0
+1316,Rendering,In progress,SHOT_110,450,REEL_03,,,33.0
+1317,Animation,Approved,SHOT_110,450,REEL_03,2016-05-30 21:00:00,2016-07-31 21:00:00,33.0
+1318,Lookdev,Approved,SHOT_110,450,REEL_03,,,33.0
+1319,Assemble,Completed,SHOT_110,450,REEL_03,,,33.0
+1320,Layout,Completed,SHOT_110,450,REEL_03,,,33.0
+1321,Cloth,Completed,SHOT_110,450,REEL_03,,,33.0
+1322,Baking,Completed,SHOT_110,450,REEL_03,,,33.0
+1323,SHD,Ready to Start,SHOT_110,450,REEL_03,,,33.0
+1324,FTP,Completed,SHOT_110,450,REEL_03,,,33.0
+1325,Previz,On Hold,SHOT_210,450,REEL_03,,,105.0
+1326,Hair and Fur,Completed,SHOT_210,450,REEL_03,,,105.0
+1327,Compositing,Pending Review,SHOT_210,450,REEL_03,,,105.0
+1328,Paint,Completed,SHOT_210,450,REEL_03,,,105.0
+1329,Rendering,Not started,SHOT_210,450,REEL_03,,,105.0
+1330,Animation,Approved,SHOT_210,450,REEL_03,2016-05-30 21:00:00,2016-08-02 21:00:00,105.0
+1331,Lookdev,Ready to Start,SHOT_210,450,REEL_03,,,105.0
+1332,Assemble,Completed,SHOT_210,450,REEL_03,,,105.0
+1333,Layout,Completed,SHOT_210,450,REEL_03,,,105.0
+1334,Cloth,Completed,SHOT_210,450,REEL_03,,,105.0
+1335,Baking,Completed,SHOT_210,450,REEL_03,,,105.0
+1336,SHD,Pending Review,SHOT_210,450,REEL_03,,,105.0
+1337,FTP,Completed,SHOT_210,450,REEL_03,,,105.0
+1338,Previz,On Hold,SHOT_170,450,REEL_03,,,107.0
+1339,Hair and Fur,Completed,SHOT_170,450,REEL_03,,,107.0
+1340,Compositing,Pending Review,SHOT_170,450,REEL_03,,2016-08-22 16:29:14,107.0
+1341,Paint,Completed,SHOT_170,450,REEL_03,,,107.0
+1342,Rendering,Not started,SHOT_170,450,REEL_03,,,107.0
+1343,Animation,Approved,SHOT_170,450,REEL_03,2016-05-30 21:00:00,2016-07-28 21:00:00,107.0
+1344,Lookdev,Ready to Start,SHOT_170,450,REEL_03,,,107.0
+1345,Assemble,Completed,SHOT_170,450,REEL_03,,,107.0
+1346,Layout,Completed,SHOT_170,450,REEL_03,,,107.0
+1347,Cloth,Completed,SHOT_170,450,REEL_03,,,107.0
+1348,Baking,Completed,SHOT_170,450,REEL_03,,,107.0
+1349,SHD,Pending Review,SHOT_170,450,REEL_03,,,107.0
+1350,FTP,Completed,SHOT_170,450,REEL_03,,,107.0
+1351,Previz,Completed,SHOT_050,450,REEL_03,,,65.0
+1352,Hair and Fur,Completed,SHOT_050,450,REEL_03,,,65.0
+1353,Compositing,Pending Review,SHOT_050,450,REEL_03,,2016-08-22 12:32:37,65.0
+1354,Paint,Completed,SHOT_050,450,REEL_03,,,65.0
+1355,Rendering,Not started,SHOT_050,450,REEL_03,,,65.0
+1356,Animation,Approved,SHOT_050,450,REEL_03,2016-05-30 21:00:00,2016-07-28 21:00:00,65.0
+1357,Lookdev,Ready to Start,SHOT_050,450,REEL_03,,,65.0
+1358,Assemble,Completed,SHOT_050,450,REEL_03,,,65.0
+1359,Layout,Completed,SHOT_050,450,REEL_03,,,65.0
+1360,Cloth,Completed,SHOT_050,450,REEL_03,,,65.0
+1361,Baking,Completed,SHOT_050,450,REEL_03,,,65.0
+1362,FTP,Completed,SHOT_050,450,REEL_03,,,65.0
+1363,Previz,On Hold,SHOT_060,450,REEL_03,,,24.0
+1364,Hair and Fur,Completed,SHOT_060,450,REEL_03,,,24.0
+1365,Compositing,Pending Review,SHOT_060,450,REEL_03,,2016-08-04 12:24:33,24.0
+1366,Paint,Completed,SHOT_060,450,REEL_03,,,24.0
+1367,Rendering,Not started,SHOT_060,450,REEL_03,,,24.0
+1368,Animation,Approved,SHOT_060,450,REEL_03,2016-05-30 21:00:00,2016-07-31 21:00:00,24.0
+1369,Lookdev,Ready to Start,SHOT_060,450,REEL_03,,,24.0
+1370,Assemble,Completed,SHOT_060,450,REEL_03,,,24.0
+1371,Layout,Completed,SHOT_060,450,REEL_03,,,24.0
+1372,Cloth,Completed,SHOT_060,450,REEL_03,,,24.0
+1373,Baking,Completed,SHOT_060,450,REEL_03,,,24.0
+1374,SHD,Ready to Start,SHOT_060,450,REEL_03,,,24.0
+1375,FTP,Completed,SHOT_060,450,REEL_03,,,24.0
+1376,Previz,Not started,SHOT_180,450,REEL_03,,,56.0
+1377,Hair and Fur,Completed,SHOT_180,450,REEL_03,,,56.0
+1378,Compositing,Pending Review,SHOT_180,450,REEL_03,,2016-08-05 15:12:56,56.0
+1379,Paint,Completed,SHOT_180,450,REEL_03,,,56.0
+1380,Rendering,Not started,SHOT_180,450,REEL_03,,,56.0
+1381,Animation,Approved,SHOT_180,450,REEL_03,2016-05-30 21:00:00,2016-08-02 21:00:00,56.0
+1382,Lookdev,Ready to Start,SHOT_180,450,REEL_03,,,56.0
+1383,Assemble,Completed,SHOT_180,450,REEL_03,,,56.0
+1384,Layout,Completed,SHOT_180,450,REEL_03,,,56.0
+1385,Cloth,Completed,SHOT_180,450,REEL_03,,,56.0
+1386,Baking,Completed,SHOT_180,450,REEL_03,,,56.0
+1387,SHD,Pending Review,SHOT_180,450,REEL_03,,,56.0
+1388,FTP,Completed,SHOT_180,450,REEL_03,,,56.0
+1389,Previz,On Hold,SHOT_190,450,REEL_03,,,73.0
+1390,SHD,Pending Review,SHOT_190,450,REEL_03,,,73.0
+1391,Hair and Fur,Completed,SHOT_190,450,REEL_03,,,73.0
+1392,Compositing,Pending Review,SHOT_190,450,REEL_03,,2016-08-19 11:42:40,73.0
+1393,Paint,Completed,SHOT_190,450,REEL_03,,,73.0
+1394,Rendering,In progress,SHOT_190,450,REEL_03,,,73.0
+1395,Animation,Approved,SHOT_190,450,REEL_03,2016-05-30 21:00:00,2016-08-09 21:00:00,73.0
+1396,Lookdev,Approved,SHOT_190,450,REEL_03,,,73.0
+1397,Assemble,Completed,SHOT_190,450,REEL_03,,,73.0
+1398,Layout,Completed,SHOT_190,450,REEL_03,,,73.0
+1399,Cloth,Completed,SHOT_190,450,REEL_03,,,73.0
+1400,Baking,Completed,SHOT_190,450,REEL_03,,,73.0
+1401,FTP,Completed,SHOT_190,450,REEL_03,,,73.0
+1402,Previz,On Hold,SHOT_070,450,REEL_03,,,36.0
+1403,SHD,Ready to Start,SHOT_070,450,REEL_03,,,36.0
+1404,Hair and Fur,Completed,SHOT_070,450,REEL_03,,,36.0
+1405,Compositing,Pending Review,SHOT_070,450,REEL_03,,2016-07-28 12:13:37,36.0
+1406,Paint,Completed,SHOT_070,450,REEL_03,,,36.0
+1407,Rendering,Not started,SHOT_070,450,REEL_03,,,36.0
+1408,Animation,Approved,SHOT_070,450,REEL_03,2016-05-30 21:00:00,2016-07-25 21:00:00,36.0
+1409,Lookdev,Ready to Start,SHOT_070,450,REEL_03,,,36.0
+1410,Assemble,Completed,SHOT_070,450,REEL_03,,,36.0
+1411,Layout,Completed,SHOT_070,450,REEL_03,,,36.0
+1412,Cloth,Completed,SHOT_070,450,REEL_03,,,36.0
+1413,Baking,Completed,SHOT_070,450,REEL_03,,,36.0
+1414,FTP,Completed,SHOT_070,450,REEL_03,,,36.0
+1415,Previz,On Hold,SHOT_220,450,REEL_03,,,117.0
+1416,MGK,Pending Review,SHOT_220,450,REEL_03,,,117.0
+1417,SHD,Pending Review,SHOT_220,450,REEL_03,,,117.0
+1418,Hair and Fur,Completed,SHOT_220,450,REEL_03,,,117.0
+1419,Compositing,Pending Review,SHOT_220,450,REEL_03,,2016-07-28 13:23:19,117.0
+1420,Paint,Completed,SHOT_220,450,REEL_03,,,117.0
+1421,Rendering,Not started,SHOT_220,450,REEL_03,,,117.0
+1422,Animation,Approved,SHOT_220,450,REEL_03,2016-05-30 21:00:00,2016-07-24 21:00:00,117.0
+1423,Lookdev,Ready to Start,SHOT_220,450,REEL_03,,,117.0
+1424,Assemble,Completed,SHOT_220,450,REEL_03,,,117.0
+1425,Layout,Completed,SHOT_220,450,REEL_03,,,117.0
+1426,Cloth,Completed,SHOT_220,450,REEL_03,,,117.0
+1427,Baking,Completed,SHOT_220,450,REEL_03,,,117.0
+1428,FTP,Completed,SHOT_220,450,REEL_03,,,117.0
+1429,Previz,On Hold,SHOT_200,450,REEL_03,,,108.0
+1430,SHD,Ready to Start,SHOT_200,450,REEL_03,,,108.0
+1431,FTP,Completed,SHOT_200,450,REEL_03,,,108.0
+1432,Hair and Fur,Completed,SHOT_200,450,REEL_03,,,108.0
+1433,Compositing,Pending Review,SHOT_200,450,REEL_03,,2016-08-16 14:20:53,108.0
+1434,Paint,Completed,SHOT_200,450,REEL_03,,,108.0
+1435,Rendering,In progress,SHOT_200,450,REEL_03,,,108.0
+1436,Animation,Approved,SHOT_200,450,REEL_03,2016-05-30 21:00:00,2016-08-04 21:00:00,108.0
+1437,Lookdev,Approved,SHOT_200,450,REEL_03,,,108.0
+1438,Assemble,Completed,SHOT_200,450,REEL_03,,,108.0
+1439,Layout,Completed,SHOT_200,450,REEL_03,,,108.0
+1440,Baking,Completed,SHOT_200,450,REEL_03,,,108.0
+1441,Previz,On Hold,SHOT_230,450,REEL_03,,,102.0
+1442,MBL,Pending Review,SHOT_230,450,REEL_03,,,102.0
+1443,SHD,In progress,SHOT_230,450,REEL_03,,,102.0
+1444,FTP,Completed,SHOT_230,450,REEL_03,,,102.0
+1445,Compositing,Pending Review,SHOT_230,450,REEL_03,,2016-08-03 11:58:57,102.0
+1446,Paint,Completed,SHOT_230,450,REEL_03,,,102.0
+1447,Rendering,Not started,SHOT_230,450,REEL_03,,,102.0
+1448,Animation,Approved,SHOT_230,450,REEL_03,2016-05-30 21:00:00,,102.0
+1449,Lookdev,Ready to Start,SHOT_230,450,REEL_03,,,102.0
+1450,Assemble,Completed,SHOT_230,450,REEL_03,,,102.0
+1451,Layout,Completed,SHOT_230,450,REEL_03,,,102.0
+1452,Baking,Completed,SHOT_230,450,REEL_03,,,102.0
+1453,Previz,On Hold,SHOT_080,450,REEL_03,,,46.0
+1454,SHD,Ready to Start,SHOT_080,450,REEL_03,,,46.0
+1455,FTP,Completed,SHOT_080,450,REEL_03,,,46.0
+1456,Hair and Fur,Completed,SHOT_080,450,REEL_03,,,46.0
+1457,Compositing,Pending Review,SHOT_080,450,REEL_03,,2016-08-16 12:21:01,46.0
+1458,Paint,Completed,SHOT_080,450,REEL_03,,,46.0
+1459,Rendering,In progress,SHOT_080,450,REEL_03,,,46.0
+1460,Animation,Approved,SHOT_080,450,REEL_03,2016-05-30 21:00:00,2016-07-24 21:00:00,46.0
+1461,Lookdev,Approved,SHOT_080,450,REEL_03,,,46.0
+1462,Assemble,Completed,SHOT_080,450,REEL_03,,,46.0
+1463,Layout,Completed,SHOT_080,450,REEL_03,,,46.0
+1464,Cloth,Completed,SHOT_080,450,REEL_03,,,46.0
+1465,Baking,Completed,SHOT_080,450,REEL_03,,,46.0
+1466,Previz,On Hold,SHOT_140,450,REEL_03,,,117.0
+1467,SHD,Ready to Start,SHOT_140,450,REEL_03,,,117.0
+1468,FTP,Completed,SHOT_140,450,REEL_03,,,117.0
+1469,Hair and Fur,Completed,SHOT_140,450,REEL_03,,,117.0
+1470,Compositing,Pending Review,SHOT_140,450,REEL_03,,2016-08-18 10:43:00,117.0
+1471,Paint,Completed,SHOT_140,450,REEL_03,,,117.0
+1472,Rendering,In progress,SHOT_140,450,REEL_03,,,117.0
+1473,Animation,Approved,SHOT_140,450,REEL_03,2016-05-30 21:00:00,2016-08-16 21:00:00,117.0
+1474,Lookdev,Approved,SHOT_140,450,REEL_03,,,117.0
+1475,Assemble,Completed,SHOT_140,450,REEL_03,,,117.0
+1476,Layout,Completed,SHOT_140,450,REEL_03,,,117.0
+1477,Cloth,Completed,SHOT_140,450,REEL_03,,,117.0
+1478,Baking,Completed,SHOT_140,450,REEL_03,,,117.0
+1479,ASD,Ready to Start,SHOT_140,450,REEL_03,,,117.0
+1480,Previz,Completed,SHOT_010,450,REEL_03,,,77.0
+1481,FTP,Completed,SHOT_010,450,REEL_03,,,77.0
+1482,Hair and Fur,Completed,SHOT_010,450,REEL_03,,,77.0
+1483,Compositing,Pending Review,SHOT_010,450,REEL_03,,2016-08-22 16:17:37,77.0
+1484,Paint,Completed,SHOT_010,450,REEL_03,,,77.0
+1485,Rendering,Not started,SHOT_010,450,REEL_03,,,77.0
+1486,Animation,Approved,SHOT_010,450,REEL_03,2016-05-30 21:00:00,2016-08-02 21:00:00,77.0
+1487,Lookdev,Ready to Start,SHOT_010,450,REEL_03,,,77.0
+1488,Assemble,Completed,SHOT_010,450,REEL_03,,,77.0
+1489,Layout,Completed,SHOT_010,450,REEL_03,,,77.0
+1490,Cloth,Completed,SHOT_010,450,REEL_03,,,77.0
+1491,Baking,Completed,SHOT_010,450,REEL_03,,,77.0
+1492,SHD,Ready to Start,SHOT_010,450,REEL_03,,,77.0
+1493,Previz,On Hold,SHOT_090,450,REEL_03,,,138.0
+1494,SHD,Ready to Start,SHOT_090,450,REEL_03,,,138.0
+1495,FTP,Completed,SHOT_090,450,REEL_03,,,138.0
+1496,Hair and Fur,Completed,SHOT_090,450,REEL_03,,,138.0
+1497,Compositing,Pending Review,SHOT_090,450,REEL_03,,2016-08-22 17:23:58,138.0
+1498,Paint,Completed,SHOT_090,450,REEL_03,,,138.0
+1499,Rendering,Not started,SHOT_090,450,REEL_03,,,138.0
+1500,Animation,Approved,SHOT_090,450,REEL_03,2016-05-30 21:00:00,2016-07-25 21:00:00,138.0
+1501,Lookdev,Ready to Start,SHOT_090,450,REEL_03,,,138.0
+1502,Assemble,Completed,SHOT_090,450,REEL_03,,,138.0
+1503,Layout,Completed,SHOT_090,450,REEL_03,,,138.0
+1504,Cloth,Completed,SHOT_090,450,REEL_03,,,138.0
+1505,Baking,Completed,SHOT_090,450,REEL_03,,,138.0
+1506,Previz,On Hold,SHOT_010,480,REEL_03,,,212.0
+1507,Compositing,Pending Review,SHOT_010,480,REEL_03,,2016-08-02 13:55:47,212.0
+1508,Paint,Completed,SHOT_010,480,REEL_03,,,212.0
+1509,Rendering,In progress,SHOT_010,480,REEL_03,,,212.0
+1510,Animation,Approved,SHOT_010,480,REEL_03,,,212.0
+1511,Lookdev,Approved,SHOT_010,480,REEL_03,,,212.0
+1512,Hair and Fur,Completed,SHOT_010,480,REEL_03,,,212.0
+1513,Layout,Completed,SHOT_010,480,REEL_03,,2016-03-10 00:00:00,212.0
+1514,Cloth,Completed,SHOT_010,480,REEL_03,,,212.0
+1515,Baking,Completed,SHOT_010,480,REEL_03,,,212.0
+1516,FTP,Completed,SHOT_010,480,REEL_03,,,212.0
+1517,Previz,On Hold,SHOT_040,480,REEL_03,,,33.0
+1518,Compositing,Not started,SHOT_040,480,REEL_03,,,33.0
+1519,Paint,Not started,SHOT_040,480,REEL_03,,,33.0
+1520,Rendering,Not started,SHOT_040,480,REEL_03,,,33.0
+1521,Animation,Ready to Start,SHOT_040,480,REEL_03,,,33.0
+1522,Lookdev,Not started,SHOT_040,480,REEL_03,,,33.0
+1523,Hair and Fur,Not started,SHOT_040,480,REEL_03,,,33.0
+1524,Layout,Completed,SHOT_040,480,REEL_03,,2016-03-10 00:00:00,33.0
+1525,Cloth,Not started,SHOT_040,480,REEL_03,,,33.0
+1526,Baking,Not started,SHOT_040,480,REEL_03,,,33.0
+1527,FTP,Completed,SHOT_040,480,REEL_03,,,33.0
+1528,SHW,Not started,SHOT_040,480,REEL_03,,,33.0
+1529,Previz,On Hold,SHOT_050,480,REEL_03,,,120.0
+1530,Compositing,Not started,SHOT_050,480,REEL_03,,,120.0
+1531,Paint,Not started,SHOT_050,480,REEL_03,,,120.0
+1532,Rendering,Not started,SHOT_050,480,REEL_03,,,120.0
+1533,Animation,In progress,SHOT_050,480,REEL_03,,,120.0
+1534,Lookdev,Not started,SHOT_050,480,REEL_03,,,120.0
+1535,Hair and Fur,Not started,SHOT_050,480,REEL_03,,,120.0
+1536,Layout,Completed,SHOT_050,480,REEL_03,,2016-03-10 00:00:00,120.0
+1537,Cloth,Not started,SHOT_050,480,REEL_03,,,120.0
+1538,Baking,Not started,SHOT_050,480,REEL_03,,,120.0
+1539,FTP,Completed,SHOT_050,480,REEL_03,,,120.0
+1540,SHW,Not started,SHOT_050,480,REEL_03,,,120.0
+1541,Previz,On Hold,SHOT_060,480,REEL_03,,,87.0
+1542,FTP,Completed,SHOT_060,480,REEL_03,,,87.0
+1543,Compositing,Not started,SHOT_060,480,REEL_03,,,87.0
+1544,Paint,Not started,SHOT_060,480,REEL_03,,,87.0
+1545,Rendering,Not started,SHOT_060,480,REEL_03,,,87.0
+1546,Animation,In progress,SHOT_060,480,REEL_03,2016-08-29 21:00:00,,87.0
+1547,Lookdev,Not started,SHOT_060,480,REEL_03,,,87.0
+1548,Hair and Fur,Not started,SHOT_060,480,REEL_03,,,87.0
+1549,Layout,Completed,SHOT_060,480,REEL_03,,2016-03-10 00:00:00,87.0
+1550,Cloth,Not started,SHOT_060,480,REEL_03,,,87.0
+1551,Baking,Not started,SHOT_060,480,REEL_03,,,87.0
+1552,Previz,On Hold,SHOT_070,480,REEL_03,,,57.0
+1553,SLW,Not started,SHOT_070,480,REEL_03,,,57.0
+1554,FTP,Completed,SHOT_070,480,REEL_03,,,57.0
+1555,Compositing,Not started,SHOT_070,480,REEL_03,,,57.0
+1556,Paint,Not started,SHOT_070,480,REEL_03,,,57.0
+1557,Rendering,Not started,SHOT_070,480,REEL_03,,,57.0
+1558,Animation,In progress,SHOT_070,480,REEL_03,2016-08-23 21:00:00,,57.0
+1559,Lookdev,Not started,SHOT_070,480,REEL_03,,,57.0
+1560,Hair and Fur,Not started,SHOT_070,480,REEL_03,,,57.0
+1561,Layout,Completed,SHOT_070,480,REEL_03,,2016-03-10 00:00:00,57.0
+1562,Cloth,Not started,SHOT_070,480,REEL_03,,,57.0
+1563,Baking,Not started,SHOT_070,480,REEL_03,,,57.0
+1564,Previz,On Hold,SHOT_080,480,REEL_03,,,71.0
+1565,SLW,Not started,SHOT_080,480,REEL_03,,,71.0
+1566,FTP,Completed,SHOT_080,480,REEL_03,,,71.0
+1567,Compositing,Not started,SHOT_080,480,REEL_03,,,71.0
+1568,Paint,Not started,SHOT_080,480,REEL_03,,,71.0
+1569,Rendering,Not started,SHOT_080,480,REEL_03,,,71.0
+1570,Animation,In progress,SHOT_080,480,REEL_03,2016-08-23 21:00:00,,71.0
+1571,Lookdev,Not started,SHOT_080,480,REEL_03,,,71.0
+1572,Hair and Fur,Not started,SHOT_080,480,REEL_03,,,71.0
+1573,Layout,Completed,SHOT_080,480,REEL_03,,2016-03-10 00:00:00,71.0
+1574,Cloth,Not started,SHOT_080,480,REEL_03,,,71.0
+1575,Baking,Not started,SHOT_080,480,REEL_03,,,71.0
+1576,Hair and Fur,Completed,SHOT_060,500,REEL_03,,,32.0
+1577,Compositing,Pending Review,SHOT_060,500,REEL_03,,2016-07-28 12:49:30,32.0
+1578,Paint,Completed,SHOT_060,500,REEL_03,,,32.0
+1579,Rendering,Ready to Start,SHOT_060,500,REEL_03,,,32.0
+1580,Animation,In progress,SHOT_060,500,REEL_03,2016-03-11 00:00:00,,32.0
+1581,Lookdev,Approved,SHOT_060,500,REEL_03,,,32.0
+1582,Assemble,Completed,SHOT_060,500,REEL_03,,,32.0
+1583,Layout,Completed,SHOT_060,500,REEL_03,,2016-01-29 00:00:00,32.0
+1584,Cloth,Completed,SHOT_060,500,REEL_03,,,32.0
+1585,Baking,Completed,SHOT_060,500,REEL_03,,,32.0
+1586,Previz,On Hold,SHOT_060,500,REEL_03,,,32.0
+1587,FTP,Completed,SHOT_060,500,REEL_03,,,32.0
+1588,Hair and Fur,Completed,SHOT_020,500,REEL_03,,,86.0
+1589,Compositing,Approved,SHOT_020,500,REEL_03,,2016-08-23 09:42:02,86.0
+1590,Paint,Completed,SHOT_020,500,REEL_03,,,86.0
+1591,Rendering,Completed,SHOT_020,500,REEL_03,,,86.0
+1592,Animation,Approved,SHOT_020,500,REEL_03,2016-03-11 00:00:00,2016-07-25 21:00:00,86.0
+1593,Lookdev,Approved,SHOT_020,500,REEL_03,,,86.0
+1594,Assemble,Completed,SHOT_020,500,REEL_03,,,86.0
+1595,Layout,Completed,SHOT_020,500,REEL_03,2015-12-29 00:00:00,2016-01-29 00:00:00,86.0
+1596,Cloth,Completed,SHOT_020,500,REEL_03,,,86.0
+1597,Baking,Completed,SHOT_020,500,REEL_03,,,86.0
+1598,Previz,On Hold,SHOT_020,500,REEL_03,,,86.0
+1599,FTP,Completed,SHOT_020,500,REEL_03,,,86.0
+1600,Previz,On Hold,SHOT_011,500,REEL_03,,,30.0
+1601,Compositing,Pending Review,SHOT_011,500,REEL_03,,2016-08-25 13:10:22,30.0
+1602,Paint,Completed,SHOT_011,500,REEL_03,,,30.0
+1603,Rendering,In progress,SHOT_011,500,REEL_03,,,30.0
+1604,Animation,Approved,SHOT_011,500,REEL_03,,2016-07-26 21:00:00,30.0
+1605,Lookdev,Approved,SHOT_011,500,REEL_03,,,30.0
+1606,Hair and Fur,Completed,SHOT_011,500,REEL_03,,,30.0
+1607,Layout,Completed,SHOT_011,500,REEL_03,,,30.0
+1608,Cloth,Completed,SHOT_011,500,REEL_03,,,30.0
+1609,Baking,Completed,SHOT_011,500,REEL_03,,,30.0
+1610,Previz,On Hold,SHOT_070,500,REEL_03,,,180.0
+1611,Hair and Fur,Completed,SHOT_070,500,REEL_03,,,180.0
+1612,Compositing,Pending Review,SHOT_070,500,REEL_03,,2016-08-16 10:41:19,180.0
+1613,Paint,Completed,SHOT_070,500,REEL_03,,,180.0
+1614,Rendering,Not started,SHOT_070,500,REEL_03,,,180.0
+1615,Animation,Approved,SHOT_070,500,REEL_03,2016-03-11 00:00:00,2016-08-08 21:00:00,180.0
+1616,Lookdev,Ready to Start,SHOT_070,500,REEL_03,,,180.0
+1617,Assemble,Completed,SHOT_070,500,REEL_03,,,180.0
+1618,Layout,Completed,SHOT_070,500,REEL_03,,2016-01-29 00:00:00,180.0
+1619,Cloth,Completed,SHOT_070,500,REEL_03,,,180.0
+1620,Baking,Completed,SHOT_070,500,REEL_03,,,180.0
+1621,FTP,Completed,SHOT_070,500,REEL_03,,,180.0
+1622,Previz,On Hold,SHOT_030,500,REEL_03,,,40.0
+1623,FTP,Completed,SHOT_030,500,REEL_03,,,40.0
+1624,Hair and Fur,Completed,SHOT_030,500,REEL_03,,,40.0
+1625,Compositing,Approved,SHOT_030,500,REEL_03,,2016-08-25 18:32:37,40.0
+1626,Paint,Completed,SHOT_030,500,REEL_03,,,40.0
+1627,Rendering,Completed,SHOT_030,500,REEL_03,,,40.0
+1628,Animation,Approved,SHOT_030,500,REEL_03,2016-03-11 00:00:00,,40.0
+1629,Lookdev,Approved,SHOT_030,500,REEL_03,,,40.0
+1630,Assemble,Completed,SHOT_030,500,REEL_03,,,40.0
+1631,Layout,Completed,SHOT_030,500,REEL_03,,2016-01-29 00:00:00,40.0
+1632,Cloth,Completed,SHOT_030,500,REEL_03,,,40.0
+1633,Baking,Completed,SHOT_030,500,REEL_03,,,40.0
+1634,Previz,Completed,SHOT_031,500,REEL_03,,,40.0
+1635,Compositing,Approved,SHOT_031,500,REEL_03,,2016-08-15 16:08:15,40.0
+1636,Paint,Completed,SHOT_031,500,REEL_03,,,40.0
+1637,Rendering,Completed,SHOT_031,500,REEL_03,,,40.0
+1638,Animation,Approved,SHOT_031,500,REEL_03,,2016-07-14 21:00:00,40.0
+1639,Lookdev,Approved,SHOT_031,500,REEL_03,,,40.0
+1640,Hair and Fur,Completed,SHOT_031,500,REEL_03,,,40.0
+1641,Layout,Completed,SHOT_031,500,REEL_03,,,40.0
+1642,Cloth,Completed,SHOT_031,500,REEL_03,,,40.0
+1643,Baking,Completed,SHOT_031,500,REEL_03,,,40.0
+1644,Previz,On Hold,SHOT_040,500,REEL_03,,,115.0
+1645,FTP,Completed,SHOT_040,500,REEL_03,,,115.0
+1646,Hair and Fur,Completed,SHOT_040,500,REEL_03,,,115.0
+1647,Compositing,Pending Review,SHOT_040,500,REEL_03,,2016-08-23 11:16:51,115.0
+1648,Paint,Completed,SHOT_040,500,REEL_03,,,115.0
+1649,Rendering,Ready to Start,SHOT_040,500,REEL_03,,,115.0
+1650,Animation,Approved,SHOT_040,500,REEL_03,2016-03-11 00:00:00,2016-08-01 21:00:00,115.0
+1651,Lookdev,Approved,SHOT_040,500,REEL_03,,,115.0
+1652,Assemble,Completed,SHOT_040,500,REEL_03,,,115.0
+1653,Layout,Completed,SHOT_040,500,REEL_03,,2016-01-29 00:00:00,115.0
+1654,Cloth,Completed,SHOT_040,500,REEL_03,,,115.0
+1655,Baking,Completed,SHOT_040,500,REEL_03,,,115.0
+1656,Previz,On Hold,SHOT_042,500,REEL_03,,,70.0
+1657,Compositing,Pending Review,SHOT_042,500,REEL_03,,2016-08-05 15:30:09,70.0
+1658,Paint,Completed,SHOT_042,500,REEL_03,,,70.0
+1659,Rendering,In progress,SHOT_042,500,REEL_03,,,70.0
+1660,Animation,Approved,SHOT_042,500,REEL_03,,,70.0
+1661,Lookdev,Approved,SHOT_042,500,REEL_03,,,70.0
+1662,Hair and Fur,Completed,SHOT_042,500,REEL_03,,,70.0
+1663,Layout,Completed,SHOT_042,500,REEL_03,,,70.0
+1664,Cloth,Completed,SHOT_042,500,REEL_03,,,70.0
+1665,Baking,Completed,SHOT_042,500,REEL_03,,,70.0
+1666,Previz,On Hold,SHOT_080,500,REEL_03,,,183.0
+1667,FTP,Completed,SHOT_080,500,REEL_03,,,183.0
+1668,Hair and Fur,Completed,SHOT_080,500,REEL_03,,,183.0
+1669,Compositing,Pending Review,SHOT_080,500,REEL_03,,2016-08-22 17:39:00,183.0
+1670,Paint,Completed,SHOT_080,500,REEL_03,,,183.0
+1671,Rendering,Ready to Start,SHOT_080,500,REEL_03,,,183.0
+1672,Animation,Approved,SHOT_080,500,REEL_03,2016-03-11 00:00:00,,183.0
+1673,Lookdev,Approved,SHOT_080,500,REEL_03,,,183.0
+1674,Assemble,Completed,SHOT_080,500,REEL_03,,,183.0
+1675,Layout,Completed,SHOT_080,500,REEL_03,,2016-01-29 00:00:00,183.0
+1676,Cloth,Completed,SHOT_080,500,REEL_03,,,183.0
+1677,Baking,Completed,SHOT_080,500,REEL_03,,,183.0
+1678,Previz,On Hold,SHOT_090,500,REEL_03,,,48.0
+1679,FTP,Completed,SHOT_090,500,REEL_03,,,48.0
+1680,Hair and Fur,Completed,SHOT_090,500,REEL_03,,,48.0
+1681,Compositing,Pending Review,SHOT_090,500,REEL_03,,2016-07-28 12:55:45,48.0
+1682,Paint,Completed,SHOT_090,500,REEL_03,,,48.0
+1683,Rendering,Not started,SHOT_090,500,REEL_03,,,48.0
+1684,Animation,Approved,SHOT_090,500,REEL_03,2016-03-11 00:00:00,2016-07-20 21:00:00,48.0
+1685,Lookdev,Ready to Start,SHOT_090,500,REEL_03,,,48.0
+1686,Assemble,Completed,SHOT_090,500,REEL_03,,,48.0
+1687,Layout,Completed,SHOT_090,500,REEL_03,,2016-01-29 00:00:00,48.0
+1688,Cloth,Completed,SHOT_090,500,REEL_03,,,48.0
+1689,Baking,Completed,SHOT_090,500,REEL_03,,,48.0
+1690,Previz,On Hold,SHOT_041,500,REEL_03,,,70.0
+1691,FTP,Completed,SHOT_041,500,REEL_03,,,70.0
+1692,Hair and Fur,Not started,SHOT_041,500,REEL_03,,,70.0
+1693,Compositing,Not started,SHOT_041,500,REEL_03,,,70.0
+1694,Paint,Not started,SHOT_041,500,REEL_03,,,70.0
+1695,Rendering,Not started,SHOT_041,500,REEL_03,,,70.0
+1696,Animation,In progress,SHOT_041,500,REEL_03,2016-03-11 00:00:00,,70.0
+1697,Lookdev,Not started,SHOT_041,500,REEL_03,,,70.0
+1698,Assemble,Completed,SHOT_041,500,REEL_03,,,70.0
+1699,Layout,Completed,SHOT_041,500,REEL_03,,2016-01-29 00:00:00,70.0
+1700,Cloth,Not started,SHOT_041,500,REEL_03,,,70.0
+1701,Baking,Not started,SHOT_041,500,REEL_03,,,70.0
+1702,Previz,On Hold,SHOT_050,500,REEL_03,,,75.0
+1703,FTP,Completed,SHOT_050,500,REEL_03,,,75.0
+1704,Hair and Fur,Completed,SHOT_050,500,REEL_03,,,75.0
+1705,Compositing,Approved,SHOT_050,500,REEL_03,,2016-08-12 17:23:18,75.0
+1706,Paint,Completed,SHOT_050,500,REEL_03,,,75.0
+1707,Rendering,Completed,SHOT_050,500,REEL_03,,,75.0
+1708,Animation,Approved,SHOT_050,500,REEL_03,2016-03-11 00:00:00,2016-07-24 21:00:00,75.0
+1709,Lookdev,Approved,SHOT_050,500,REEL_03,,,75.0
+1710,Assemble,Completed,SHOT_050,500,REEL_03,,,75.0
+1711,Layout,Completed,SHOT_050,500,REEL_03,,2016-01-29 00:00:00,75.0
+1712,Cloth,Completed,SHOT_050,500,REEL_03,,,75.0
+1713,Baking,Completed,SHOT_050,500,REEL_03,,,75.0
+1714,Previz,Not started,SHOT_010,500,REEL_03,,,30.0
+1715,FTP,Completed,SHOT_010,500,REEL_03,,,30.0
+1716,Hair and Fur,Completed,SHOT_010,500,REEL_03,,,30.0
+1717,Compositing,Approved,SHOT_010,500,REEL_03,,2016-08-25 17:23:55,30.0
+1718,Paint,Completed,SHOT_010,500,REEL_03,,,30.0
+1719,Rendering,Completed,SHOT_010,500,REEL_03,,,30.0
+1720,Animation,Approved,SHOT_010,500,REEL_03,2016-03-11 00:00:00,2016-07-07 21:00:00,30.0
+1721,Lookdev,Approved,SHOT_010,500,REEL_03,,,30.0
+1722,Assemble,Completed,SHOT_010,500,REEL_03,,,30.0
+1723,Layout,Completed,SHOT_010,500,REEL_03,2015-12-29 00:00:00,2016-01-29 00:00:00,30.0
+1724,Cloth,Completed,SHOT_010,500,REEL_03,,,30.0
+1725,Baking,Completed,SHOT_010,500,REEL_03,,,30.0
+1726,Compositing,Pending Review,SHOT_010,540,REEL_03,,2016-08-01 17:56:00,340.0
+1727,Paint,Completed,SHOT_010,540,REEL_03,,,340.0
+1728,Rendering,Not started,SHOT_010,540,REEL_03,,,340.0
+1729,Animation,Approved,SHOT_010,540,REEL_03,2016-05-31 18:06:06,2016-06-24 08:59:06,340.0
+1730,Lookdev,Ready to Start,SHOT_010,540,REEL_03,,,340.0
+1731,Hair and Fur,Completed,SHOT_010,540,REEL_03,,2016-06-24 13:07:16,340.0
+1732,Layout,Completed,SHOT_010,540,REEL_03,2016-02-18 00:00:00,2016-05-26 22:35:44,340.0
+1733,Cloth,Completed,SHOT_010,540,REEL_03,,2016-06-24 13:05:24,340.0
+1734,Baking,Completed,SHOT_010,540,REEL_03,,2016-06-24 12:27:40,340.0
+1735,Previz,Not started,SHOT_010,540,REEL_03,,,340.0
+1736,Compositing,Pending Review,SHOT_110,540,REEL_03,,2016-08-09 14:30:35,28.0
+1737,Paint,Completed,SHOT_110,540,REEL_03,,,28.0
+1738,Rendering,In progress,SHOT_110,540,REEL_03,,,28.0
+1739,Animation,Approved,SHOT_110,540,REEL_03,,,28.0
+1740,Lookdev,Approved,SHOT_110,540,REEL_03,,,28.0
+1741,Hair and Fur,Completed,SHOT_110,540,REEL_03,,,28.0
+1742,Layout,Completed,SHOT_110,540,REEL_03,2016-02-18 00:00:00,2016-05-29 21:15:43,28.0
+1743,Baking,Completed,SHOT_110,540,REEL_03,,,28.0
+1744,Previz,Not started,SHOT_110,540,REEL_03,,,28.0
+1745,Previz,On Hold,SHOT_120,540,REEL_03,,,140.0
+1746,Compositing,Not started,SHOT_120,540,REEL_03,,,140.0
+1747,Paint,Not started,SHOT_120,540,REEL_03,,,140.0
+1748,Rendering,Not started,SHOT_120,540,REEL_03,,,140.0
+1749,Animation,In progress,SHOT_120,540,REEL_03,,,140.0
+1750,Lookdev,Not started,SHOT_120,540,REEL_03,,,140.0
+1751,Hair and Fur,Not started,SHOT_120,540,REEL_03,,,140.0
+1752,Layout,Completed,SHOT_120,540,REEL_03,2016-02-18 00:00:00,2016-05-29 21:15:43,140.0
+1753,Cloth,Not started,SHOT_120,540,REEL_03,,,140.0
+1754,Baking,Not started,SHOT_120,540,REEL_03,,,140.0
+1755,EMG,Not started,SHOT_120,540,REEL_03,,,140.0
+1756,Previz,On Hold,SHOT_130,540,REEL_03,,,46.0
+1757,Compositing,Pending Review,SHOT_130,540,REEL_03,,2016-08-24 21:38:49,46.0
+1758,Paint,Completed,SHOT_130,540,REEL_03,,,46.0
+1759,Rendering,Not started,SHOT_130,540,REEL_03,,,46.0
+1760,Animation,Approved,SHOT_130,540,REEL_03,,,46.0
+1761,Lookdev,Ready to Start,SHOT_130,540,REEL_03,,,46.0
+1762,Hair and Fur,Completed,SHOT_130,540,REEL_03,,,46.0
+1763,Layout,Completed,SHOT_130,540,REEL_03,2016-02-18 00:00:00,2016-05-29 21:15:44,46.0
+1764,Cloth,Completed,SHOT_130,540,REEL_03,,,46.0
+1765,Baking,Completed,SHOT_130,540,REEL_03,,,46.0
+1766,Previz,On Hold,SHOT_140,540,REEL_03,,,35.0
+1767,EMS,Ready to Start,SHOT_140,540,REEL_03,,,35.0
+1768,Compositing,Ready to Start,SHOT_140,540,REEL_03,,2016-08-29 17:17:45,35.0
+1769,Paint,Completed,SHOT_140,540,REEL_03,,,35.0
+1770,Rendering,Pending Review,SHOT_140,540,REEL_03,,,35.0
+1771,Animation,Approved,SHOT_140,540,REEL_03,,2016-08-04 21:00:00,35.0
+1772,Lookdev,Approved,SHOT_140,540,REEL_03,,,35.0
+1773,Hair and Fur,Completed,SHOT_140,540,REEL_03,,,35.0
+1774,Layout,Completed,SHOT_140,540,REEL_03,2016-02-18 00:00:00,2016-05-26 22:35:44,35.0
+1775,Cloth,Completed,SHOT_140,540,REEL_03,,,35.0
+1776,Baking,Completed,SHOT_140,540,REEL_03,,,35.0
+1777,Previz,Not started,SHOT_150,540,REEL_03,,,37.0
+1778,Compositing,Pending Review,SHOT_150,540,REEL_03,,2016-07-25 20:38:02,37.0
+1779,Paint,Completed,SHOT_150,540,REEL_03,,,37.0
+1780,Rendering,In progress,SHOT_150,540,REEL_03,,,37.0
+1781,Animation,Approved,SHOT_150,540,REEL_03,,,37.0
+1782,Lookdev,Approved,SHOT_150,540,REEL_03,,,37.0
+1783,Hair and Fur,Completed,SHOT_150,540,REEL_03,,,37.0
+1784,Layout,Completed,SHOT_150,540,REEL_03,2016-02-18 00:00:00,2016-05-29 21:15:44,37.0
+1785,Cloth,Completed,SHOT_150,540,REEL_03,,,37.0
+1786,Baking,Completed,SHOT_150,540,REEL_03,,,37.0
+1787,Compositing,Not started,SHOT_050,540,REEL_03,,,21.0
+1788,Paint,Not started,SHOT_050,540,REEL_03,,,21.0
+1789,Rendering,Not started,SHOT_050,540,REEL_03,,,21.0
+1790,Animation,In progress,SHOT_050,540,REEL_03,,,21.0
+1791,Lookdev,Not started,SHOT_050,540,REEL_03,,,21.0
+1792,Hair and Fur,Not started,SHOT_050,540,REEL_03,,,21.0
+1793,Layout,Completed,SHOT_050,540,REEL_03,2016-02-18 00:00:00,2016-05-29 21:15:41,21.0
+1794,Cloth,Not started,SHOT_050,540,REEL_03,,,21.0
+1795,Baking,Not started,SHOT_050,540,REEL_03,,,21.0
+1796,Previz,On Hold,SHOT_050,540,REEL_03,,,21.0
+1797,Compositing,Not started,SHOT_300,540,REEL_03,,,190.0
+1798,Paint,Not started,SHOT_300,540,REEL_03,,,190.0
+1799,Rendering,Not started,SHOT_300,540,REEL_03,,,190.0
+1800,Animation,Completed,SHOT_300,540,REEL_03,,,190.0
+1801,Lookdev,Not started,SHOT_300,540,REEL_03,,,190.0
+1802,Hair and Fur,Not started,SHOT_300,540,REEL_03,,,190.0
+1803,Layout,Completed,SHOT_300,540,REEL_03,,2016-05-29 21:15:49,190.0
+1804,Cloth,Not started,SHOT_300,540,REEL_03,,,190.0
+1805,Baking,Not started,SHOT_300,540,REEL_03,,,190.0
+1806,Previz,Not started,SHOT_300,540,REEL_03,,,190.0
+1807,Previz,On Hold,SHOT_160,540,REEL_03,,,95.0
+1808,EMS,Not started,SHOT_160,540,REEL_03,,,95.0
+1809,Compositing,Not started,SHOT_160,540,REEL_03,,,95.0
+1810,Paint,Not started,SHOT_160,540,REEL_03,,,95.0
+1811,Rendering,Not started,SHOT_160,540,REEL_03,,,95.0
+1812,Animation,In progress,SHOT_160,540,REEL_03,,,95.0
+1813,Lookdev,Not started,SHOT_160,540,REEL_03,,,95.0
+1814,Hair and Fur,Not started,SHOT_160,540,REEL_03,,,95.0
+1815,Layout,Completed,SHOT_160,540,REEL_03,2016-02-18 00:00:00,2016-05-29 21:15:45,95.0
+1816,Cloth,Not started,SHOT_160,540,REEL_03,,,95.0
+1817,Baking,Not started,SHOT_160,540,REEL_03,,,95.0
+1818,Previz,On Hold,SHOT_170,540,REEL_03,,,39.0
+1819,Compositing,Not started,SHOT_170,540,REEL_03,,,39.0
+1820,Paint,Not started,SHOT_170,540,REEL_03,,,39.0
+1821,Rendering,Not started,SHOT_170,540,REEL_03,,,39.0
+1822,Animation,In progress,SHOT_170,540,REEL_03,,,39.0
+1823,Lookdev,Not started,SHOT_170,540,REEL_03,,,39.0
+1824,Hair and Fur,Not started,SHOT_170,540,REEL_03,,,39.0
+1825,Layout,Completed,SHOT_170,540,REEL_03,2016-02-18 00:00:00,2016-05-29 21:15:45,39.0
+1826,Cloth,Not started,SHOT_170,540,REEL_03,,,39.0
+1827,Baking,Not started,SHOT_170,540,REEL_03,,,39.0
+1828,Previz,On Hold,SHOT_180,540,REEL_03,,,224.0
+1829,Compositing,Not started,SHOT_180,540,REEL_03,,,224.0
+1830,Paint,Not started,SHOT_180,540,REEL_03,,,224.0
+1831,Rendering,Not started,SHOT_180,540,REEL_03,,,224.0
+1832,Animation,In progress,SHOT_180,540,REEL_03,,,224.0
+1833,Lookdev,Not started,SHOT_180,540,REEL_03,,,224.0
+1834,Hair and Fur,Not started,SHOT_180,540,REEL_03,,,224.0
+1835,Layout,Completed,SHOT_180,540,REEL_03,2016-02-18 00:00:00,2016-05-29 21:15:45,224.0
+1836,Cloth,Not started,SHOT_180,540,REEL_03,,,224.0
+1837,Baking,Not started,SHOT_180,540,REEL_03,,,224.0
+1838,Previz,On Hold,SHOT_190,540,REEL_03,,,61.0
+1839,Compositing,Not started,SHOT_190,540,REEL_03,,,61.0
+1840,Paint,Not started,SHOT_190,540,REEL_03,,,61.0
+1841,Rendering,Not started,SHOT_190,540,REEL_03,,,61.0
+1842,Animation,In progress,SHOT_190,540,REEL_03,,,61.0
+1843,Lookdev,Not started,SHOT_190,540,REEL_03,,,61.0
+1844,Hair and Fur,Not started,SHOT_190,540,REEL_03,,,61.0
+1845,Layout,Completed,SHOT_190,540,REEL_03,2016-02-18 00:00:00,2016-05-29 21:15:46,61.0
+1846,Cloth,Not started,SHOT_190,540,REEL_03,,,61.0
+1847,Baking,Not started,SHOT_190,540,REEL_03,,,61.0
+1848,Previz,On Hold,SHOT_200,540,REEL_03,,,84.0
+1849,Compositing,Not started,SHOT_200,540,REEL_03,,,84.0
+1850,Paint,Not started,SHOT_200,540,REEL_03,,,84.0
+1851,Rendering,Not started,SHOT_200,540,REEL_03,,,84.0
+1852,Animation,Approved,SHOT_200,540,REEL_03,,2016-08-28 21:00:00,84.0
+1853,Lookdev,Ready to Start,SHOT_200,540,REEL_03,,,84.0
+1854,Hair and Fur,Completed,SHOT_200,540,REEL_03,,,84.0
+1855,Layout,Completed,SHOT_200,540,REEL_03,2016-02-18 00:00:00,2016-05-29 21:15:46,84.0
+1856,Cloth,Completed,SHOT_200,540,REEL_03,,,84.0
+1857,Baking,Completed,SHOT_200,540,REEL_03,,,84.0
+1858,Previz,On Hold,SHOT_210,540,REEL_03,,,82.0
+1859,Compositing,Not started,SHOT_210,540,REEL_03,,,82.0
+1860,Paint,Not started,SHOT_210,540,REEL_03,,,82.0
+1861,Rendering,Not started,SHOT_210,540,REEL_03,,,82.0
+1862,Animation,In progress,SHOT_210,540,REEL_03,,,82.0
+1863,Lookdev,Not started,SHOT_210,540,REEL_03,,,82.0
+1864,Hair and Fur,Not started,SHOT_210,540,REEL_03,,,82.0
+1865,Layout,Completed,SHOT_210,540,REEL_03,2016-02-18 00:00:00,2016-05-29 21:15:47,82.0
+1866,Cloth,Not started,SHOT_210,540,REEL_03,,,82.0
+1867,Baking,Not started,SHOT_210,540,REEL_03,,,82.0
+1868,Previz,On Hold,SHOT_220,540,REEL_03,,,120.0
+1869,WLB,Not started,SHOT_220,540,REEL_03,,,120.0
+1870,Compositing,Not started,SHOT_220,540,REEL_03,,,120.0
+1871,Paint,Not started,SHOT_220,540,REEL_03,,,120.0
+1872,Rendering,Not started,SHOT_220,540,REEL_03,,,120.0
+1873,Animation,In progress,SHOT_220,540,REEL_03,,,120.0
+1874,Lookdev,Not started,SHOT_220,540,REEL_03,,,120.0
+1875,Hair and Fur,Not started,SHOT_220,540,REEL_03,,,120.0
+1876,Layout,Completed,SHOT_220,540,REEL_03,2016-02-18 00:00:00,2016-05-29 21:15:48,120.0
+1877,Cloth,Not started,SHOT_220,540,REEL_03,,,120.0
+1878,Baking,Not started,SHOT_220,540,REEL_03,,,120.0
+1879,Previz,On Hold,SHOT_230,540,REEL_03,,,138.0
+1880,Compositing,Not started,SHOT_230,540,REEL_03,,,138.0
+1881,Paint,Not started,SHOT_230,540,REEL_03,,,138.0
+1882,Rendering,Not started,SHOT_230,540,REEL_03,,,138.0
+1883,Animation,In progress,SHOT_230,540,REEL_03,,,138.0
+1884,Lookdev,Not started,SHOT_230,540,REEL_03,,,138.0
+1885,Hair and Fur,Not started,SHOT_230,540,REEL_03,,,138.0
+1886,Layout,Completed,SHOT_230,540,REEL_03,2016-02-18 00:00:00,2016-05-26 22:35:45,138.0
+1887,Cloth,Not started,SHOT_230,540,REEL_03,,,138.0
+1888,Baking,Not started,SHOT_230,540,REEL_03,,,138.0
+1889,Previz,On Hold,SHOT_240,540,REEL_03,,,147.0
+1890,Compositing,Not started,SHOT_240,540,REEL_03,,,147.0
+1891,Paint,Not started,SHOT_240,540,REEL_03,,,147.0
+1892,Rendering,Not started,SHOT_240,540,REEL_03,,,147.0
+1893,Animation,In progress,SHOT_240,540,REEL_03,,,147.0
+1894,Lookdev,Not started,SHOT_240,540,REEL_03,,,147.0
+1895,Hair and Fur,Not started,SHOT_240,540,REEL_03,,,147.0
+1896,Layout,Completed,SHOT_240,540,REEL_03,2016-02-18 00:00:00,2016-05-26 22:35:45,147.0
+1897,Cloth,Not started,SHOT_240,540,REEL_03,,,147.0
+1898,Baking,Not started,SHOT_240,540,REEL_03,,,147.0
+1899,WLB,Not started,SHOT_240,540,REEL_03,,,147.0
+1900,Previz,On Hold,SHOT_250,540,REEL_03,,,25.0
+1901,Compositing,Pending Review,SHOT_250,540,REEL_03,,2016-08-25 18:37:09,25.0
+1902,Paint,Completed,SHOT_250,540,REEL_03,,,25.0
+1903,Rendering,Not started,SHOT_250,540,REEL_03,,,25.0
+1904,Animation,Approved,SHOT_250,540,REEL_03,,2016-08-22 21:00:00,25.0
+1905,Lookdev,Ready to Start,SHOT_250,540,REEL_03,,,25.0
+1906,Hair and Fur,Completed,SHOT_250,540,REEL_03,,,25.0
+1907,Layout,Completed,SHOT_250,540,REEL_03,2016-02-18 00:00:00,2016-05-26 22:35:45,25.0
+1908,Cloth,Completed,SHOT_250,540,REEL_03,,,25.0
+1909,Baking,Completed,SHOT_250,540,REEL_03,,,25.0
+1910,WLB,Pending Review,SHOT_250,540,REEL_03,,,25.0
+1911,Previz,On Hold,SHOT_260,540,REEL_03,,,92.0
+1912,Compositing,Not started,SHOT_260,540,REEL_03,,,92.0
+1913,Paint,Not started,SHOT_260,540,REEL_03,,,92.0
+1914,Rendering,Not started,SHOT_260,540,REEL_03,,,92.0
+1915,Animation,In progress,SHOT_260,540,REEL_03,,,92.0
+1916,Lookdev,Not started,SHOT_260,540,REEL_03,,,92.0
+1917,Hair and Fur,Not started,SHOT_260,540,REEL_03,,,92.0
+1918,Layout,Completed,SHOT_260,540,REEL_03,2016-02-18 00:00:00,2016-05-26 22:35:46,92.0
+1919,Cloth,Not started,SHOT_260,540,REEL_03,,,92.0
+1920,Baking,Not started,SHOT_260,540,REEL_03,,,92.0
+1921,WLB,Not started,SHOT_260,540,REEL_03,,,92.0
+1922,Previz,On Hold,SHOT_270,540,REEL_03,,,65.0
+1923,Compositing,Not started,SHOT_270,540,REEL_03,,,65.0
+1924,Paint,Not started,SHOT_270,540,REEL_03,,,65.0
+1925,Rendering,Not started,SHOT_270,540,REEL_03,,,65.0
+1926,Animation,In progress,SHOT_270,540,REEL_03,,,65.0
+1927,Lookdev,Not started,SHOT_270,540,REEL_03,,,65.0
+1928,Hair and Fur,Not started,SHOT_270,540,REEL_03,,,65.0
+1929,Layout,Completed,SHOT_270,540,REEL_03,2016-02-18 00:00:00,2016-05-26 22:35:46,65.0
+1930,Cloth,Not started,SHOT_270,540,REEL_03,,,65.0
+1931,Baking,Not started,SHOT_270,540,REEL_03,,,65.0
+1932,WLB,Not started,SHOT_270,540,REEL_03,,,65.0
+1933,Previz,On Hold,SHOT_280,540,REEL_03,,,96.0
+1934,Compositing,Not started,SHOT_280,540,REEL_03,,,96.0
+1935,Paint,Not started,SHOT_280,540,REEL_03,,,96.0
+1936,Rendering,Not started,SHOT_280,540,REEL_03,,,96.0
+1937,Animation,In progress,SHOT_280,540,REEL_03,,,96.0
+1938,Lookdev,Not started,SHOT_280,540,REEL_03,,,96.0
+1939,Hair and Fur,Not started,SHOT_280,540,REEL_03,,,96.0
+1940,Layout,Completed,SHOT_280,540,REEL_03,2016-02-18 00:00:00,2016-05-26 22:35:46,96.0
+1941,Cloth,Not started,SHOT_280,540,REEL_03,,,96.0
+1942,Baking,Not started,SHOT_280,540,REEL_03,,,96.0
+1943,WLB,Not started,SHOT_280,540,REEL_03,,,96.0
+1944,Previz,On Hold,SHOT_290,540,REEL_03,,,190.0
+1945,Compositing,Not started,SHOT_290,540,REEL_03,,,190.0
+1946,Paint,Not started,SHOT_290,540,REEL_03,,,190.0
+1947,Rendering,Not started,SHOT_290,540,REEL_03,,,190.0
+1948,Animation,In progress,SHOT_290,540,REEL_03,,,190.0
+1949,Lookdev,Not started,SHOT_290,540,REEL_03,,,190.0
+1950,Hair and Fur,Not started,SHOT_290,540,REEL_03,,,190.0
+1951,Layout,Completed,SHOT_290,540,REEL_03,2016-02-18 00:00:00,2016-05-29 21:15:48,190.0
+1952,Cloth,Not started,SHOT_290,540,REEL_03,,,190.0
+1953,Baking,Not started,SHOT_290,540,REEL_03,,,190.0
+1954,GWT,Not started,SHOT_290,540,REEL_03,,,190.0
+1955,Previz,On Hold,SHOT_020,540,REEL_03,,,105.0
+1956,Compositing,Pending Review,SHOT_020,540,REEL_03,,2016-08-24 21:37:58,105.0
+1957,Paint,Completed,SHOT_020,540,REEL_03,,,105.0
+1958,Rendering,Not started,SHOT_020,540,REEL_03,,,105.0
+1959,Animation,Approved,SHOT_020,540,REEL_03,,2016-08-21 21:00:00,105.0
+1960,Lookdev,Ready to Start,SHOT_020,540,REEL_03,,,105.0
+1961,Hair and Fur,Completed,SHOT_020,540,REEL_03,,,105.0
+1962,Layout,Completed,SHOT_020,540,REEL_03,2016-02-18 00:00:00,2016-05-29 21:15:39,105.0
+1963,Cloth,Completed,SHOT_020,540,REEL_03,,,105.0
+1964,Baking,Completed,SHOT_020,540,REEL_03,,,105.0
+1965,Previz,On Hold,SHOT_060,540,REEL_03,,,130.0
+1966,Compositing,Not started,SHOT_060,540,REEL_03,,,130.0
+1967,Paint,Not started,SHOT_060,540,REEL_03,,,130.0
+1968,Rendering,Not started,SHOT_060,540,REEL_03,,,130.0
+1969,Animation,In progress,SHOT_060,540,REEL_03,,,130.0
+1970,Lookdev,Not started,SHOT_060,540,REEL_03,,,130.0
+1971,Hair and Fur,Not started,SHOT_060,540,REEL_03,,,130.0
+1972,Layout,Completed,SHOT_060,540,REEL_03,2016-02-18 00:00:00,2016-05-29 21:15:41,130.0
+1973,Cloth,Not started,SHOT_060,540,REEL_03,,,130.0
+1974,Baking,Not started,SHOT_060,540,REEL_03,,,130.0
+1975,Previz,On Hold,SHOT_030,540,REEL_03,,,50.0
+1976,Compositing,Not started,SHOT_030,540,REEL_03,,,50.0
+1977,Paint,Not started,SHOT_030,540,REEL_03,,,50.0
+1978,Rendering,Not started,SHOT_030,540,REEL_03,,,50.0
+1979,Animation,In progress,SHOT_030,540,REEL_03,,,50.0
+1980,Lookdev,Not started,SHOT_030,540,REEL_03,,,50.0
+1981,Hair and Fur,Not started,SHOT_030,540,REEL_03,,,50.0
+1982,Layout,Completed,SHOT_030,540,REEL_03,2016-02-18 00:00:00,2016-05-29 21:15:40,50.0
+1983,Cloth,Not started,SHOT_030,540,REEL_03,,,50.0
+1984,Baking,Not started,SHOT_030,540,REEL_03,,,50.0
+1985,Previz,On Hold,SHOT_070,540,REEL_03,,,34.0
+1986,Compositing,Pending Review,SHOT_070,540,REEL_03,,2016-08-28 20:39:40,34.0
+1987,Paint,Completed,SHOT_070,540,REEL_03,,,34.0
+1988,Rendering,Not started,SHOT_070,540,REEL_03,,,34.0
+1989,Animation,Approved,SHOT_070,540,REEL_03,,2016-08-24 21:00:00,34.0
+1990,Lookdev,Ready to Start,SHOT_070,540,REEL_03,,,34.0
+1991,Hair and Fur,Completed,SHOT_070,540,REEL_03,,,34.0
+1992,Layout,Completed,SHOT_070,540,REEL_03,2016-02-18 00:00:00,2016-05-29 21:15:41,34.0
+1993,Cloth,Completed,SHOT_070,540,REEL_03,,,34.0
+1994,Baking,Completed,SHOT_070,540,REEL_03,,,34.0
+1995,Previz,On Hold,SHOT_080,540,REEL_03,,,71.0
+1996,Compositing,Not started,SHOT_080,540,REEL_03,,,71.0
+1997,Paint,Not started,SHOT_080,540,REEL_03,,,71.0
+1998,Rendering,Not started,SHOT_080,540,REEL_03,,,71.0
+1999,Animation,In progress,SHOT_080,540,REEL_03,,,71.0
+2000,Lookdev,Not started,SHOT_080,540,REEL_03,,,71.0
+2001,Hair and Fur,Not started,SHOT_080,540,REEL_03,,,71.0
+2002,Layout,Completed,SHOT_080,540,REEL_03,2016-02-18 00:00:00,2016-05-29 21:15:42,71.0
+2003,Cloth,Not started,SHOT_080,540,REEL_03,,,71.0
+2004,Baking,Not started,SHOT_080,540,REEL_03,,,71.0
+2005,Previz,On Hold,SHOT_090,540,REEL_03,,,45.0
+2006,Compositing,Not started,SHOT_090,540,REEL_03,,,45.0
+2007,Paint,Not started,SHOT_090,540,REEL_03,,,45.0
+2008,Rendering,Not started,SHOT_090,540,REEL_03,,,45.0
+2009,Animation,Approved,SHOT_090,540,REEL_03,,2016-08-24 21:00:00,45.0
+2010,Lookdev,Ready to Start,SHOT_090,540,REEL_03,,,45.0
+2011,Hair and Fur,Completed,SHOT_090,540,REEL_03,,,45.0
+2012,Layout,Completed,SHOT_090,540,REEL_03,2016-02-18 00:00:00,2016-05-29 21:15:42,45.0
+2013,Cloth,Completed,SHOT_090,540,REEL_03,,,45.0
+2014,Baking,Completed,SHOT_090,540,REEL_03,,,45.0
+2015,Previz,On Hold,SHOT_100,540,REEL_03,,,87.0
+2016,Compositing,Not started,SHOT_100,540,REEL_03,,,87.0
+2017,Paint,Not started,SHOT_100,540,REEL_03,,,87.0
+2018,Rendering,Not started,SHOT_100,540,REEL_03,,,87.0
+2019,Animation,In progress,SHOT_100,540,REEL_03,,,87.0
+2020,Lookdev,Not started,SHOT_100,540,REEL_03,,,87.0
+2021,Hair and Fur,Not started,SHOT_100,540,REEL_03,,,87.0
+2022,Layout,Completed,SHOT_100,540,REEL_03,2016-02-18 00:00:00,2016-05-29 21:15:43,87.0
+2023,Cloth,Not started,SHOT_100,540,REEL_03,,,87.0
+2024,Baking,Not started,SHOT_100,540,REEL_03,,,87.0
+2025,Previz,On Hold,SHOT_040,540,REEL_03,,,59.0
+2026,Compositing,Not started,SHOT_040,540,REEL_03,,,59.0
+2027,Paint,Not started,SHOT_040,540,REEL_03,,,59.0
+2028,Rendering,Not started,SHOT_040,540,REEL_03,,,59.0
+2029,Animation,In progress,SHOT_040,540,REEL_03,,,59.0
+2030,Lookdev,Not started,SHOT_040,540,REEL_03,,,59.0
+2031,Hair and Fur,Not started,SHOT_040,540,REEL_03,,,59.0
+2032,Layout,Completed,SHOT_040,540,REEL_03,2016-02-18 00:00:00,2016-05-29 21:15:40,59.0
+2033,Cloth,Not started,SHOT_040,540,REEL_03,,,59.0
+2034,Baking,Not started,SHOT_040,540,REEL_03,,,59.0
+2035,Previz,On Hold,SHOT_010,560,REEL_03,,,470.0
+2036,FTP,Completed,SHOT_010,560,REEL_03,,,470.0
+2037,Compositing,Not started,SHOT_010,560,REEL_03,,,470.0
+2038,Paint,Not started,SHOT_010,560,REEL_03,,,470.0
+2039,Rendering,Not started,SHOT_010,560,REEL_03,,,470.0
+2040,Animation,In progress,SHOT_010,560,REEL_03,2016-05-12 21:00:00,,470.0
+2041,Lookdev,Not started,SHOT_010,560,REEL_03,,,470.0
+2042,Hair and Fur,Not started,SHOT_010,560,REEL_03,,,470.0
+2043,Layout,Completed,SHOT_010,560,REEL_03,,2016-03-17 00:00:00,470.0
+2044,Cloth,Not started,SHOT_010,560,REEL_03,,,470.0
+2045,Baking,Not started,SHOT_010,560,REEL_03,,,470.0
+2046,GWT,Not started,SHOT_010,560,REEL_03,,,470.0
+2047,Previz,Not started,SHOT_012,600,REEL_03,,,111.0
+2048,Compositing,Pending Review,SHOT_012,600,REEL_03,,2016-08-19 11:21:40,111.0
+2049,Paint,Completed,SHOT_012,600,REEL_03,,,111.0
+2050,Rendering,Not started,SHOT_012,600,REEL_03,,,111.0
+2051,Animation,Approved,SHOT_012,600,REEL_03,2016-05-30 21:00:00,,111.0
+2052,Lookdev,In progress,SHOT_012,600,REEL_03,,,111.0
+2053,Hair and Fur,Completed,SHOT_012,600,REEL_03,,,111.0
+2054,Layout,Completed,SHOT_012,600,REEL_03,2016-03-21 00:00:00,2016-05-19 21:00:00,111.0
+2055,Cloth,Completed,SHOT_012,600,REEL_03,,,111.0
+2056,Baking,Completed,SHOT_012,600,REEL_03,,,111.0
+2057,Previz,Not started,SHOT_010,600,REEL_03,,,161.0
+2058,Compositing,Pending Review,SHOT_010,600,REEL_03,,2016-08-15 09:58:48,161.0
+2059,Paint,Completed,SHOT_010,600,REEL_03,,,161.0
+2060,Rendering,Not started,SHOT_010,600,REEL_03,,,161.0
+2061,Animation,Approved,SHOT_010,600,REEL_03,2016-05-31 18:48:24,2016-08-09 21:00:00,161.0
+2062,Lookdev,Ready to Start,SHOT_010,600,REEL_03,,,161.0
+2063,Hair and Fur,Completed,SHOT_010,600,REEL_03,,,161.0
+2064,Layout,Completed,SHOT_010,600,REEL_03,2016-03-21 00:00:00,2016-05-19 21:00:00,161.0
+2065,Cloth,Completed,SHOT_010,600,REEL_03,,,161.0
+2066,Baking,Completed,SHOT_010,600,REEL_03,,,161.0
+2067,SHD,Ready to Start,SHOT_010,410,REEL_03,,,74.0
+2068,Hair and Fur,Completed,SHOT_010,410,REEL_03,,,74.0
+2069,Compositing,Ready to Start,SHOT_010,410,REEL_03,,,74.0
+2070,Paint,Not started,SHOT_010,410,REEL_03,,,74.0
+2071,Rendering,Not started,SHOT_010,410,REEL_03,,,74.0
+2072,Animation,Approved,SHOT_010,410,REEL_03,2016-05-12 21:00:00,,74.0
+2073,Lookdev,Pending Review,SHOT_010,410,REEL_03,,,74.0
+2074,Assemble,Completed,SHOT_010,410,REEL_03,,,74.0
+2075,Layout,Completed,SHOT_010,410,REEL_03,,2016-02-24 00:00:00,74.0
+2076,Cloth,Completed,SHOT_010,410,REEL_03,,,74.0
+2077,Baking,Completed,SHOT_010,410,REEL_03,,,74.0
+2078,previz,Not started,SHOT_010,410,REEL_03,,,74.0
+2079,FTP,Completed,SHOT_010,410,REEL_03,,,74.0
+2080,SHD,Not started,SHOT_020,410,REEL_03,,,114.0
+2081,Hair and Fur,Not started,SHOT_020,410,REEL_03,,,114.0
+2082,Compositing,Not started,SHOT_020,410,REEL_03,,,114.0
+2083,Paint,Not started,SHOT_020,410,REEL_03,,,114.0
+2084,Rendering,Not started,SHOT_020,410,REEL_03,,,114.0
+2085,Animation,In progress,SHOT_020,410,REEL_03,2016-05-12 21:00:00,,114.0
+2086,Lookdev,Not started,SHOT_020,410,REEL_03,,,114.0
+2087,Assemble,Completed,SHOT_020,410,REEL_03,,,114.0
+2088,Layout,Completed,SHOT_020,410,REEL_03,,2016-02-24 00:00:00,114.0
+2089,Cloth,Not started,SHOT_020,410,REEL_03,,,114.0
+2090,Baking,Not started,SHOT_020,410,REEL_03,,,114.0
+2091,previz,Not started,SHOT_020,410,REEL_03,,,114.0
+2092,FTP,Completed,SHOT_020,410,REEL_03,,,114.0
+2093,SHD,Ready to Start,SHOT_030,410,REEL_03,,,202.0
+2094,Hair and Fur,Completed,SHOT_030,410,REEL_03,,,202.0
+2095,Compositing,Pending Review,SHOT_030,410,REEL_03,,2016-08-08 11:19:03,202.0
+2096,Paint,Completed,SHOT_030,410,REEL_03,,,202.0
+2097,Rendering,In progress,SHOT_030,410,REEL_03,,,202.0
+2098,Animation,Approved,SHOT_030,410,REEL_03,2016-05-12 21:00:00,,202.0
+2099,Lookdev,Approved,SHOT_030,410,REEL_03,,,202.0
+2100,Assemble,Completed,SHOT_030,410,REEL_03,,,202.0
+2101,Layout,Completed,SHOT_030,410,REEL_03,,2016-02-24 00:00:00,202.0
+2102,Cloth,Completed,SHOT_030,410,REEL_03,,,202.0
+2103,Baking,Completed,SHOT_030,410,REEL_03,,,202.0
+2104,previz,Not started,SHOT_030,410,REEL_03,,,202.0
+2105,FTP,Completed,SHOT_030,410,REEL_03,,,202.0
+2106,Hair and Fur,Not started,SHOT_040,410,REEL_03,,,85.0
+2107,Compositing,Not started,SHOT_040,410,REEL_03,,,85.0
+2108,Paint,Not started,SHOT_040,410,REEL_03,,,85.0
+2109,Rendering,Not started,SHOT_040,410,REEL_03,,,85.0
+2110,Animation,In progress,SHOT_040,410,REEL_03,2016-08-17 21:00:00,,85.0
+2111,Lookdev,Not started,SHOT_040,410,REEL_03,,,85.0
+2112,Assemble,Completed,SHOT_040,410,REEL_03,,,85.0
+2113,Layout,Completed,SHOT_040,410,REEL_03,,2016-02-24 00:00:00,85.0
+2114,Cloth,Not started,SHOT_040,410,REEL_03,,,85.0
+2115,Baking,Not started,SHOT_040,410,REEL_03,,,85.0
+2116,previz,Not started,SHOT_040,410,REEL_03,,,85.0
+2117,FTP,Completed,SHOT_040,410,REEL_03,,,85.0
+2118,SHD,Not started,SHOT_040,410,REEL_03,,,85.0
+2119,Hair and Fur,Not started,SHOT_050,410,REEL_03,,,46.0
+2120,Compositing,Not started,SHOT_050,410,REEL_03,,,46.0
+2121,Paint,Not started,SHOT_050,410,REEL_03,,,46.0
+2122,Rendering,Not started,SHOT_050,410,REEL_03,,,46.0
+2123,Animation,In progress,SHOT_050,410,REEL_03,2016-08-17 21:00:00,,46.0
+2124,Lookdev,Not started,SHOT_050,410,REEL_03,,,46.0
+2125,Assemble,Completed,SHOT_050,410,REEL_03,,,46.0
+2126,Layout,Completed,SHOT_050,410,REEL_03,,2016-02-24 00:00:00,46.0
+2127,Cloth,Not started,SHOT_050,410,REEL_03,,,46.0
+2128,Baking,Not started,SHOT_050,410,REEL_03,,,46.0
+2129,previz,Not started,SHOT_050,410,REEL_03,,,46.0
+2130,FTP,Completed,SHOT_050,410,REEL_03,,,46.0
+2131,SHD,Not started,SHOT_050,410,REEL_03,,,46.0
+2132,SHD,Ready to Start,SHOT_060,410,REEL_03,,,150.0
+2133,Hair and Fur,Completed,SHOT_060,410,REEL_03,,2016-06-21 12:09:02,150.0
+2134,Compositing,Pending Review,SHOT_060,410,REEL_03,,2016-08-08 11:26:57,150.0
+2135,Paint,Completed,SHOT_060,410,REEL_03,,,150.0
+2136,Rendering,In progress,SHOT_060,410,REEL_03,,,150.0
+2137,Animation,Approved,SHOT_060,410,REEL_03,2016-05-12 21:00:00,2016-06-19 21:00:00,150.0
+2138,Lookdev,Approved,SHOT_060,410,REEL_03,,,150.0
+2139,Assemble,Completed,SHOT_060,410,REEL_03,,,150.0
+2140,Layout,Completed,SHOT_060,410,REEL_03,,2016-02-24 00:00:00,150.0
+2141,Cloth,Completed,SHOT_060,410,REEL_03,,2016-06-21 12:09:00,150.0
+2142,Baking,Completed,SHOT_060,410,REEL_03,,2016-06-21 11:55:06,150.0
+2143,previz,Not started,SHOT_060,410,REEL_03,,,150.0
+2144,FTP,Completed,SHOT_060,410,REEL_03,,,150.0
+2145,Compositing,Pending Review,SHOT_031,580,REEL_03,,2016-08-08 11:56:40,39.0
+2146,Paint,Completed,SHOT_031,580,REEL_03,,,39.0
+2147,Rendering,Not started,SHOT_031,580,REEL_03,,,39.0
+2148,Animation,Approved,SHOT_031,580,REEL_03,2016-05-30 21:00:00,2016-07-31 21:00:00,39.0
+2149,Lookdev,Ready to Start,SHOT_031,580,REEL_03,,,39.0
+2150,Hair and Fur,Completed,SHOT_031,580,REEL_03,,,39.0
+2151,Layout,Completed,SHOT_031,580,REEL_03,,,39.0
+2152,Baking,Completed,SHOT_031,580,REEL_03,,,39.0
+2153,Previz,Not started,SHOT_031,580,REEL_03,,,39.0
+2154,Compositing,Approved,SHOT_105,580,REEL_03,,2016-08-17 17:55:53,137.0
+2155,Paint,Completed,SHOT_105,580,REEL_03,,,137.0
+2156,Rendering,Completed,SHOT_105,580,REEL_03,,,137.0
+2157,Lookdev,Approved,SHOT_105,580,REEL_03,,,137.0
+2158,Layout,Completed,SHOT_105,580,REEL_03,,,137.0
+2159,Baking,Completed,SHOT_105,580,REEL_03,,,137.0
+2160,Previz,Not started,SHOT_105,580,REEL_03,,,137.0
+2161,animation,Approved,SHOT_105,580,REEL_03,,,137.0
+2162,Compositing,Pending Review,SHOT_050,580,REEL_03,,2016-08-27 15:06:13,195.0
+2163,Paint,Completed,SHOT_050,580,REEL_03,,,195.0
+2164,Rendering,Not started,SHOT_050,580,REEL_03,,,195.0
+2165,Animation,Approved,SHOT_050,580,REEL_03,2016-05-30 21:00:00,2016-08-21 21:00:00,195.0
+2166,Lookdev,Ready to Start,SHOT_050,580,REEL_03,,,195.0
+2167,Hair and Fur,Completed,SHOT_050,580,REEL_03,,,195.0
+2168,Layout,Completed,SHOT_050,580,REEL_03,2016-02-18 00:00:00,,195.0
+2169,Baking,Completed,SHOT_050,580,REEL_03,,,195.0
+2170,Previz,Not started,SHOT_050,580,REEL_03,,,195.0
+2171,Compositing,Pending Review,SHOT_130,580,REEL_03,,2016-08-05 15:58:17,43.0
+2172,Paint,Completed,SHOT_130,580,REEL_03,,,43.0
+2173,Rendering,Not started,SHOT_130,580,REEL_03,,,43.0
+2174,Animation,Approved,SHOT_130,580,REEL_03,2016-05-30 21:00:00,2016-08-02 21:00:00,43.0
+2175,Lookdev,Ready to Start,SHOT_130,580,REEL_03,,,43.0
+2176,Hair and Fur,Completed,SHOT_130,580,REEL_03,,,43.0
+2177,Layout,Completed,SHOT_130,580,REEL_03,2016-02-18 00:00:00,,43.0
+2178,Cloth,Completed,SHOT_130,580,REEL_03,,,43.0
+2179,Baking,Completed,SHOT_130,580,REEL_03,,,43.0
+2180,Previz,Not started,SHOT_130,580,REEL_03,,,43.0
+2181,Previz,Not started,SHOT_125,580,REEL_03,,,60.0
+2182,GRS,Pending Review,SHOT_125,580,REEL_03,,,60.0
+2183,Compositing,Pending Review,SHOT_125,580,REEL_03,,2016-08-02 15:14:35,60.0
+2184,Paint,Completed,SHOT_125,580,REEL_03,,,60.0
+2185,Rendering,Not started,SHOT_125,580,REEL_03,,,60.0
+2186,Animation,Approved,SHOT_125,580,REEL_03,2016-05-30 21:00:00,2016-07-31 21:00:00,60.0
+2187,Lookdev,Ready to Start,SHOT_125,580,REEL_03,,,60.0
+2188,Hair and Fur,Completed,SHOT_125,580,REEL_03,,,60.0
+2189,Layout,Completed,SHOT_125,580,REEL_03,,,60.0
+2190,Cloth,Completed,SHOT_125,580,REEL_03,,,60.0
+2191,Baking,Completed,SHOT_125,580,REEL_03,,,60.0
+2192,Previz,Not started,SHOT_010,580,REEL_03,,,80.0
+2193,Compositing,Pending Review,SHOT_010,580,REEL_03,,2016-08-08 11:04:47,80.0
+2194,Paint,Completed,SHOT_010,580,REEL_03,,,80.0
+2195,Rendering,In progress,SHOT_010,580,REEL_03,,,80.0
+2196,Animation,Approved,SHOT_010,580,REEL_03,2016-05-30 21:00:00,2016-07-31 21:00:00,80.0
+2197,Lookdev,Approved,SHOT_010,580,REEL_03,,,80.0
+2198,Hair and Fur,Completed,SHOT_010,580,REEL_03,,,80.0
+2199,Layout,Completed,SHOT_010,580,REEL_03,2016-02-18 00:00:00,,80.0
+2200,Cloth,Completed,SHOT_010,580,REEL_03,,,80.0
+2201,Baking,Completed,SHOT_010,580,REEL_03,,,80.0
+2202,Previz,Not started,SHOT_060,580,REEL_03,,,88.0
+2203,Compositing,Pending Review,SHOT_060,580,REEL_03,,2016-08-10 09:23:27,88.0
+2204,Paint,Completed,SHOT_060,580,REEL_03,,,88.0
+2205,Rendering,In progress,SHOT_060,580,REEL_03,,,88.0
+2206,Animation,Approved,SHOT_060,580,REEL_03,2016-05-30 21:00:00,2016-08-07 21:00:00,88.0
+2207,Lookdev,Approved,SHOT_060,580,REEL_03,,,88.0
+2208,Hair and Fur,Completed,SHOT_060,580,REEL_03,,,88.0
+2209,Layout,Completed,SHOT_060,580,REEL_03,2016-02-18 00:00:00,,88.0
+2210,Cloth,Completed,SHOT_060,580,REEL_03,,,88.0
+2211,Baking,Completed,SHOT_060,580,REEL_03,,,88.0
+2212,Previz,Not started,SHOT_140,580,REEL_03,,,110.0
+2213,Compositing,Pending Review,SHOT_140,580,REEL_03,,2016-08-11 18:05:23,110.0
+2214,Paint,Completed,SHOT_140,580,REEL_03,,,110.0
+2215,Rendering,Not started,SHOT_140,580,REEL_03,,,110.0
+2216,Animation,Approved,SHOT_140,580,REEL_03,2016-05-30 21:00:00,2016-08-07 21:00:00,110.0
+2217,Lookdev,Ready to Start,SHOT_140,580,REEL_03,,,110.0
+2218,Hair and Fur,Completed,SHOT_140,580,REEL_03,,,110.0
+2219,Layout,Completed,SHOT_140,580,REEL_03,2016-02-18 00:00:00,,110.0
+2220,Cloth,Completed,SHOT_140,580,REEL_03,,,110.0
+2221,Baking,Completed,SHOT_140,580,REEL_03,,,110.0
+2222,Previz,Not started,SHOT_122,580,REEL_03,,,60.0
+2223,GRS,Pending Review,SHOT_122,580,REEL_03,,,60.0
+2224,Compositing,Pending Review,SHOT_122,580,REEL_03,,2016-08-02 09:43:07,60.0
+2225,Paint,Completed,SHOT_122,580,REEL_03,,,60.0
+2226,Rendering,Not started,SHOT_122,580,REEL_03,,,60.0
+2227,Animation,Approved,SHOT_122,580,REEL_03,2016-05-30 21:00:00,2016-07-26 21:00:00,60.0
+2228,Lookdev,Ready to Start,SHOT_122,580,REEL_03,,,60.0
+2229,Hair and Fur,Completed,SHOT_122,580,REEL_03,,,60.0
+2230,Layout,Completed,SHOT_122,580,REEL_03,,,60.0
+2231,Cloth,Completed,SHOT_122,580,REEL_03,,,60.0
+2232,Baking,Completed,SHOT_122,580,REEL_03,,,60.0
+2233,Previz,Not started,SHOT_123,580,REEL_03,,,60.0
+2234,Compositing,Pending Review,SHOT_123,580,REEL_03,,2016-08-05 11:07:08,60.0
+2235,Paint,Completed,SHOT_123,580,REEL_03,,,60.0
+2236,Rendering,Not started,SHOT_123,580,REEL_03,,,60.0
+2237,Animation,Approved,SHOT_123,580,REEL_03,2016-05-30 21:00:00,2016-08-01 21:00:00,60.0
+2238,Lookdev,Ready to Start,SHOT_123,580,REEL_03,,,60.0
+2239,Hair and Fur,Completed,SHOT_123,580,REEL_03,,,60.0
+2240,Layout,Completed,SHOT_123,580,REEL_03,2016-05-03 21:00:00,,60.0
+2241,Cloth,Completed,SHOT_123,580,REEL_03,,,60.0
+2242,Baking,Completed,SHOT_123,580,REEL_03,,,60.0
+2243,EMG,Ready to Start,SHOT_070,580,REEL_03,,,47.0
+2244,Previz,Not started,SHOT_070,580,REEL_03,,,47.0
+2245,Compositing,Pending Review,SHOT_070,580,REEL_03,,2016-08-12 13:12:07,47.0
+2246,Paint,Completed,SHOT_070,580,REEL_03,,,47.0
+2247,Rendering,Ready to Start,SHOT_070,580,REEL_03,,,47.0
+2248,Animation,Approved,SHOT_070,580,REEL_03,2016-05-30 21:00:00,,47.0
+2249,Lookdev,Approved,SHOT_070,580,REEL_03,,,47.0
+2250,Hair and Fur,Completed,SHOT_070,580,REEL_03,,,47.0
+2251,Layout,Completed,SHOT_070,580,REEL_03,2016-02-18 00:00:00,,47.0
+2252,Cloth,Completed,SHOT_070,580,REEL_03,,,47.0
+2253,Baking,Completed,SHOT_070,580,REEL_03,,,47.0
+2254,Previz,Not started,SHOT_020,580,REEL_03,,,62.0
+2255,Compositing,Pending Review,SHOT_020,580,REEL_03,,2016-08-08 11:14:30,62.0
+2256,Paint,Completed,SHOT_020,580,REEL_03,,,62.0
+2257,Rendering,In progress,SHOT_020,580,REEL_03,,,62.0
+2258,Animation,Approved,SHOT_020,580,REEL_03,2016-05-30 21:00:00,2016-08-03 21:00:00,62.0
+2259,Lookdev,Approved,SHOT_020,580,REEL_03,,,62.0
+2260,Hair and Fur,Completed,SHOT_020,580,REEL_03,,,62.0
+2261,Layout,Completed,SHOT_020,580,REEL_03,2016-02-18 00:00:00,,62.0
+2262,Cloth,Completed,SHOT_020,580,REEL_03,,,62.0
+2263,Baking,Completed,SHOT_020,580,REEL_03,,,62.0
+2264,Previz,On Hold,SHOT_005,580,REEL_03,,,50.0
+2265,Compositing,Pending Review,SHOT_005,580,REEL_03,,2016-08-02 13:51:39,50.0
+2266,Paint,Completed,SHOT_005,580,REEL_03,,,50.0
+2267,Rendering,Not started,SHOT_005,580,REEL_03,,,50.0
+2268,Animation,Approved,SHOT_005,580,REEL_03,2016-05-30 21:00:00,2016-07-26 21:00:00,50.0
+2269,Lookdev,Ready to Start,SHOT_005,580,REEL_03,,,50.0
+2270,Hair and Fur,Completed,SHOT_005,580,REEL_03,,,50.0
+2271,Layout,Completed,SHOT_005,580,REEL_03,,,50.0
+2272,Cloth,Completed,SHOT_005,580,REEL_03,,,50.0
+2273,Baking,Completed,SHOT_005,580,REEL_03,,,50.0
+2274,Previz,Not started,SHOT_080,580,REEL_03,,,17.0
+2275,Compositing,Pending Review,SHOT_080,580,REEL_03,,2016-08-04 17:11:16,17.0
+2276,Paint,Completed,SHOT_080,580,REEL_03,,,17.0
+2277,Rendering,In progress,SHOT_080,580,REEL_03,,,17.0
+2278,Animation,Approved,SHOT_080,580,REEL_03,2016-05-30 21:00:00,2016-07-31 21:00:00,17.0
+2279,Lookdev,Approved,SHOT_080,580,REEL_03,,,17.0
+2280,Hair and Fur,Completed,SHOT_080,580,REEL_03,,,17.0
+2281,Layout,Completed,SHOT_080,580,REEL_03,2016-02-18 00:00:00,,17.0
+2282,Cloth,Completed,SHOT_080,580,REEL_03,,,17.0
+2283,Baking,Completed,SHOT_080,580,REEL_03,,,17.0
+2284,Previz,Not started,SHOT_090,580,REEL_03,,,196.0
+2285,ESP,Ready to Start,SHOT_090,580,REEL_03,,,196.0
+2286,Compositing,Pending Review,SHOT_090,580,REEL_03,,2016-08-05 15:35:01,196.0
+2287,Paint,Completed,SHOT_090,580,REEL_03,,,196.0
+2288,Rendering,Not started,SHOT_090,580,REEL_03,,,196.0
+2289,Animation,Approved,SHOT_090,580,REEL_03,2016-05-30 21:00:00,2016-07-28 21:00:00,196.0
+2290,Lookdev,Ready to Start,SHOT_090,580,REEL_03,,,196.0
+2291,Hair and Fur,Completed,SHOT_090,580,REEL_03,,,196.0
+2292,Layout,Completed,SHOT_090,580,REEL_03,2016-02-18 00:00:00,,196.0
+2293,Cloth,Completed,SHOT_090,580,REEL_03,,,196.0
+2294,Baking,Completed,SHOT_090,580,REEL_03,,,196.0
+2295,Previz,Not started,SHOT_100,580,REEL_03,,,50.0
+2296,Compositing,Pending Review,SHOT_100,580,REEL_03,,2016-08-11 09:38:21,50.0
+2297,Paint,Completed,SHOT_100,580,REEL_03,,,50.0
+2298,Rendering,Ready to Start,SHOT_100,580,REEL_03,,,50.0
+2299,Animation,Approved,SHOT_100,580,REEL_03,2016-05-30 21:00:00,2016-08-07 21:00:00,50.0
+2300,Lookdev,Approved,SHOT_100,580,REEL_03,,,50.0
+2301,Hair and Fur,Completed,SHOT_100,580,REEL_03,,,50.0
+2302,Layout,Completed,SHOT_100,580,REEL_03,2016-02-18 00:00:00,,50.0
+2303,Cloth,Completed,SHOT_100,580,REEL_03,,,50.0
+2304,Baking,Completed,SHOT_100,580,REEL_03,,,50.0
+2305,BMG,Ready to Start,SHOT_072,580,REEL_03,,,18.0
+2306,Compositing,Pending Review,SHOT_072,580,REEL_03,,2016-07-27 14:09:16,18.0
+2307,Paint,Completed,SHOT_072,580,REEL_03,,,18.0
+2308,Rendering,Not started,SHOT_072,580,REEL_03,,,18.0
+2309,Lookdev,Ready to Start,SHOT_072,580,REEL_03,,,18.0
+2310,Layout,Completed,SHOT_072,580,REEL_03,,,18.0
+2311,Baking,Completed,SHOT_072,580,REEL_03,,,18.0
+2312,Previz,Not started,SHOT_072,580,REEL_03,,,18.0
+2313,animation,Approved,SHOT_072,580,REEL_03,,,18.0
+2314,Previz,Not started,SHOT_030,580,REEL_03,,,47.0
+2315,Compositing,Not started,SHOT_030,580,REEL_03,,,47.0
+2316,Paint,Not started,SHOT_030,580,REEL_03,,,47.0
+2317,Rendering,Not started,SHOT_030,580,REEL_03,,,47.0
+2318,Animation,Completed,SHOT_030,580,REEL_03,2016-05-30 21:00:00,,47.0
+2319,Lookdev,Not started,SHOT_030,580,REEL_03,,,47.0
+2320,Hair and Fur,Not started,SHOT_030,580,REEL_03,,,47.0
+2321,Layout,Completed,SHOT_030,580,REEL_03,2016-02-18 00:00:00,,47.0
+2322,Cloth,Not started,SHOT_030,580,REEL_03,,,47.0
+2323,Baking,Not started,SHOT_030,580,REEL_03,,,47.0
+2324,Previz,Not started,SHOT_110,580,REEL_03,,,64.0
+2325,Compositing,Pending Review,SHOT_110,580,REEL_03,,2016-07-28 12:56:17,64.0
+2326,Paint,Completed,SHOT_110,580,REEL_03,,,64.0
+2327,Rendering,In progress,SHOT_110,580,REEL_03,,,64.0
+2328,Animation,Approved,SHOT_110,580,REEL_03,2016-05-31 18:45:58,2016-07-25 21:00:00,64.0
+2329,Lookdev,Approved,SHOT_110,580,REEL_03,,,64.0
+2330,Hair and Fur,Completed,SHOT_110,580,REEL_03,,,64.0
+2331,Layout,Completed,SHOT_110,580,REEL_03,2016-02-18 00:00:00,,64.0
+2332,Cloth,Completed,SHOT_110,580,REEL_03,,,64.0
+2333,Baking,Completed,SHOT_110,580,REEL_03,,,64.0
+2334,ESP,Ready to Start,SHOT_075,580,REEL_03,,,17.0
+2335,Compositing,Pending Review,SHOT_075,580,REEL_03,,2016-08-04 11:47:22,17.0
+2336,Paint,Completed,SHOT_075,580,REEL_03,,,17.0
+2337,Rendering,In progress,SHOT_075,580,REEL_03,,,17.0
+2338,Animation,Approved,SHOT_075,580,REEL_03,2016-05-30 21:00:00,2016-07-31 21:00:00,17.0
+2339,Lookdev,Approved,SHOT_075,580,REEL_03,,,17.0
+2340,Hair and Fur,Completed,SHOT_075,580,REEL_03,,,17.0
+2341,Layout,Completed,SHOT_075,580,REEL_03,,,17.0
+2342,Cloth,Completed,SHOT_075,580,REEL_03,,,17.0
+2343,Baking,Completed,SHOT_075,580,REEL_03,,,17.0
+2344,Previz,Not started,SHOT_075,580,REEL_03,,,17.0
+2345,Previz,Not started,SHOT_040,580,REEL_03,,,56.0
+2346,Compositing,Not started,SHOT_040,580,REEL_03,,,56.0
+2347,Paint,Not started,SHOT_040,580,REEL_03,,,56.0
+2348,Rendering,Not started,SHOT_040,580,REEL_03,,,56.0
+2349,Animation,Approved,SHOT_040,580,REEL_03,2016-05-30 21:00:00,2016-08-11 21:00:00,56.0
+2350,Lookdev,Ready to Start,SHOT_040,580,REEL_03,,,56.0
+2351,Hair and Fur,Completed,SHOT_040,580,REEL_03,,,56.0
+2352,Layout,Completed,SHOT_040,580,REEL_03,2016-02-18 00:00:00,,56.0
+2353,Cloth,Completed,SHOT_040,580,REEL_03,,,56.0
+2354,Baking,Completed,SHOT_040,580,REEL_03,,,56.0
+2355,Previz,Not started,SHOT_120,580,REEL_03,,,60.0
+2356,Compositing,Pending Review,SHOT_120,580,REEL_03,,2016-07-28 12:59:48,60.0
+2357,Paint,Completed,SHOT_120,580,REEL_03,,,60.0
+2358,Rendering,In progress,SHOT_120,580,REEL_03,,,60.0
+2359,Animation,Approved,SHOT_120,580,REEL_03,2016-05-30 21:00:00,2016-07-25 21:00:00,60.0
+2360,Lookdev,Approved,SHOT_120,580,REEL_03,,,60.0
+2361,Hair and Fur,Completed,SHOT_120,580,REEL_03,,,60.0
+2362,Layout,Completed,SHOT_120,580,REEL_03,2016-02-18 00:00:00,,60.0
+2363,Cloth,Completed,SHOT_120,580,REEL_03,,,60.0
+2364,Baking,Completed,SHOT_120,580,REEL_03,,,60.0
+2365,Previz,On Hold,SHOT_020,470,REEL_03,,,64.0
+2366,FTP,Completed,SHOT_020,470,REEL_03,,,64.0
+2367,Hair and Fur,Not started,SHOT_020,470,REEL_03,,,64.0
+2368,Compositing,Not started,SHOT_020,470,REEL_03,,,64.0
+2369,Paint,Not started,SHOT_020,470,REEL_03,,,64.0
+2370,Rendering,Not started,SHOT_020,470,REEL_03,,,64.0
+2371,Animation,In progress,SHOT_020,470,REEL_03,2016-08-23 21:00:00,,64.0
+2372,Lookdev,Not started,SHOT_020,470,REEL_03,,,64.0
+2373,Assemble,Completed,SHOT_020,470,REEL_03,,,64.0
+2374,Layout,Completed,SHOT_020,470,REEL_03,2016-02-24 00:00:00,2016-03-09 00:00:00,64.0
+2375,Cloth,Not started,SHOT_020,470,REEL_03,,,64.0
+2376,Baking,Not started,SHOT_020,470,REEL_03,,,64.0
+2377,Previz,On Hold,SHOT_030,470,REEL_03,,,144.0
+2378,FTP,Completed,SHOT_030,470,REEL_03,,,144.0
+2379,Hair and Fur,Not started,SHOT_030,470,REEL_03,,,144.0
+2380,Compositing,Not started,SHOT_030,470,REEL_03,,,144.0
+2381,Paint,Not started,SHOT_030,470,REEL_03,,,144.0
+2382,Rendering,Not started,SHOT_030,470,REEL_03,,,144.0
+2383,Animation,In progress,SHOT_030,470,REEL_03,2016-08-23 21:00:00,,144.0
+2384,Lookdev,Not started,SHOT_030,470,REEL_03,,,144.0
+2385,Assemble,Completed,SHOT_030,470,REEL_03,,,144.0
+2386,Layout,Completed,SHOT_030,470,REEL_03,,2016-03-09 00:00:00,144.0
+2387,Cloth,Not started,SHOT_030,470,REEL_03,,,144.0
+2388,Baking,Not started,SHOT_030,470,REEL_03,,,144.0
+2389,Previz,On Hold,SHOT_040,470,REEL_03,,,76.0
+2390,FTP,Completed,SHOT_040,470,REEL_03,,,76.0
+2391,Hair and Fur,Not started,SHOT_040,470,REEL_03,,,76.0
+2392,Compositing,Not started,SHOT_040,470,REEL_03,,,76.0
+2393,Paint,Not started,SHOT_040,470,REEL_03,,,76.0
+2394,Rendering,Not started,SHOT_040,470,REEL_03,,,76.0
+2395,Animation,In progress,SHOT_040,470,REEL_03,2016-08-24 21:00:00,,76.0
+2396,Lookdev,Not started,SHOT_040,470,REEL_03,,,76.0
+2397,Assemble,Completed,SHOT_040,470,REEL_03,,,76.0
+2398,Layout,Completed,SHOT_040,470,REEL_03,,2016-03-09 00:00:00,76.0
+2399,Cloth,Not started,SHOT_040,470,REEL_03,,,76.0
+2400,Baking,Not started,SHOT_040,470,REEL_03,,,76.0
+2401,Previz,On Hold,SHOT_050,470,REEL_03,,,96.0
+2402,FTP,Completed,SHOT_050,470,REEL_03,,,96.0
+2403,Hair and Fur,Completed,SHOT_050,470,REEL_03,,,96.0
+2404,Compositing,Not started,SHOT_050,470,REEL_03,,,96.0
+2405,Paint,Not started,SHOT_050,470,REEL_03,,,96.0
+2406,Rendering,Not started,SHOT_050,470,REEL_03,,,96.0
+2407,Animation,Approved,SHOT_050,470,REEL_03,2016-05-12 21:00:00,2016-08-28 21:00:00,96.0
+2408,Lookdev,In progress,SHOT_050,470,REEL_03,,,96.0
+2409,Assemble,Completed,SHOT_050,470,REEL_03,,,96.0
+2410,Layout,Completed,SHOT_050,470,REEL_03,,2016-03-09 00:00:00,96.0
+2411,Cloth,Completed,SHOT_050,470,REEL_03,,,96.0
+2412,Baking,Completed,SHOT_050,470,REEL_03,,,96.0
+2413,Hair and Fur,Completed,SHOT_030,510,REEL_03,,,92.0
+2414,Compositing,Pending Review,SHOT_030,510,REEL_03,,2016-08-15 12:42:12,92.0
+2415,Paint,Completed,SHOT_030,510,REEL_03,,,92.0
+2416,Rendering,In progress,SHOT_030,510,REEL_03,,,92.0
+2417,Animation,Approved,SHOT_030,510,REEL_03,2016-03-11 00:00:00,,92.0
+2418,Lookdev,Approved,SHOT_030,510,REEL_03,,,92.0
+2419,Assemble,Completed,SHOT_030,510,REEL_03,,,92.0
+2420,Layout,Completed,SHOT_030,510,REEL_03,,2016-02-09 00:00:00,92.0
+2421,Cloth,Completed,SHOT_030,510,REEL_03,,,92.0
+2422,Baking,Completed,SHOT_030,510,REEL_03,,,92.0
+2423,Previz,On Hold,SHOT_030,510,REEL_03,,,92.0
+2424,Previz,On Hold,SHOT_010,510,REEL_03,,,76.0
+2425,Hair and Fur,Completed,SHOT_010,510,REEL_03,,,76.0
+2426,Compositing,Pending Review,SHOT_010,510,REEL_03,,2016-08-23 12:01:36,76.0
+2427,Paint,Completed,SHOT_010,510,REEL_03,,,76.0
+2428,Rendering,In progress,SHOT_010,510,REEL_03,,,76.0
+2429,Animation,Approved,SHOT_010,510,REEL_03,2016-03-11 00:00:00,2016-08-08 21:00:00,76.0
+2430,Lookdev,Approved,SHOT_010,510,REEL_03,,,76.0
+2431,Assemble,Completed,SHOT_010,510,REEL_03,,,76.0
+2432,Layout,Completed,SHOT_010,510,REEL_03,,2016-02-09 00:00:00,76.0
+2433,Cloth,Completed,SHOT_010,510,REEL_03,,,76.0
+2434,Baking,Completed,SHOT_010,510,REEL_03,,,76.0
+2435,Previz,On Hold,SHOT_040,510,REEL_03,,,143.0
+2436,Hair and Fur,Completed,SHOT_040,510,REEL_03,,,143.0
+2437,Compositing,Pending Review,SHOT_040,510,REEL_03,,2016-08-15 13:15:38,143.0
+2438,Paint,Completed,SHOT_040,510,REEL_03,,,143.0
+2439,Rendering,Not started,SHOT_040,510,REEL_03,,,143.0
+2440,Animation,Approved,SHOT_040,510,REEL_03,2016-03-11 00:00:00,2016-08-10 21:00:00,143.0
+2441,Lookdev,Ready to Start,SHOT_040,510,REEL_03,,,143.0
+2442,Assemble,Completed,SHOT_040,510,REEL_03,,,143.0
+2443,Layout,Completed,SHOT_040,510,REEL_03,,2016-02-09 00:00:00,143.0
+2444,Cloth,Completed,SHOT_040,510,REEL_03,,,143.0
+2445,Baking,Completed,SHOT_040,510,REEL_03,,,143.0
+2446,Previz,On Hold,SHOT_050,510,REEL_03,,,126.0
+2447,Hair and Fur,Completed,SHOT_050,510,REEL_03,,,126.0
+2448,Compositing,Pending Review,SHOT_050,510,REEL_03,,2016-08-15 09:47:47,126.0
+2449,Paint,Completed,SHOT_050,510,REEL_03,,,126.0
+2450,Rendering,Not started,SHOT_050,510,REEL_03,,,126.0
+2451,Animation,Approved,SHOT_050,510,REEL_03,2016-03-11 00:00:00,2016-08-10 21:00:00,126.0
+2452,Lookdev,Ready to Start,SHOT_050,510,REEL_03,,,126.0
+2453,Assemble,Completed,SHOT_050,510,REEL_03,,,126.0
+2454,Layout,Completed,SHOT_050,510,REEL_03,,2016-02-09 00:00:00,126.0
+2455,Cloth,Completed,SHOT_050,510,REEL_03,,,126.0
+2456,Baking,Completed,SHOT_050,510,REEL_03,,,126.0
+2457,Previz,On Hold,SHOT_020,510,REEL_03,,,72.0
+2458,Hair and Fur,Completed,SHOT_020,510,REEL_03,,,72.0
+2459,Compositing,Pending Review,SHOT_020,510,REEL_03,,2016-08-23 11:20:00,72.0
+2460,Paint,Completed,SHOT_020,510,REEL_03,,,72.0
+2461,Rendering,Not started,SHOT_020,510,REEL_03,,,72.0
+2462,Animation,Approved,SHOT_020,510,REEL_03,2016-03-11 00:00:00,2016-08-09 21:00:00,72.0
+2463,Lookdev,Pending Review,SHOT_020,510,REEL_03,,,72.0
+2464,Assemble,Completed,SHOT_020,510,REEL_03,,,72.0
+2465,Layout,Completed,SHOT_020,510,REEL_03,,2016-02-09 00:00:00,72.0
+2466,Cloth,Completed,SHOT_020,510,REEL_03,,,72.0
+2467,Baking,Completed,SHOT_020,510,REEL_03,,,72.0
+2468,Hair and Fur,Completed,SHOT_040,520,REEL_03,,,150.0
+2469,Compositing,Pending Review,SHOT_040,520,REEL_03,,2016-08-15 09:57:22,150.0
+2470,Paint,Completed,SHOT_040,520,REEL_03,,,150.0
+2471,Rendering,Not started,SHOT_040,520,REEL_03,,,150.0
+2472,Animation,Approved,SHOT_040,520,REEL_03,2016-03-11 00:00:00,,150.0
+2473,Lookdev,Ready to Start,SHOT_040,520,REEL_03,,,150.0
+2474,Assemble,Completed,SHOT_040,520,REEL_03,,,150.0
+2475,Layout,Completed,SHOT_040,520,REEL_03,,2016-02-24 00:00:00,150.0
+2476,Cloth,Completed,SHOT_040,520,REEL_03,,,150.0
+2477,Baking,Completed,SHOT_040,520,REEL_03,,,150.0
+2478,FTP,Completed,SHOT_040,520,REEL_03,,,150.0
+2479,Previz,Not started,SHOT_040,520,REEL_03,,,150.0
+2480,Compositing,Not started,SHOT_011,520,REEL_03,,,320.0
+2481,Paint,Not started,SHOT_011,520,REEL_03,,,320.0
+2482,Rendering,Not started,SHOT_011,520,REEL_03,,,320.0
+2483,Animation,Approved,SHOT_011,520,REEL_03,,,320.0
+2484,Lookdev,Ready to Start,SHOT_011,520,REEL_03,,,320.0
+2485,Hair and Fur,Completed,SHOT_011,520,REEL_03,,,320.0
+2486,Layout,Completed,SHOT_011,520,REEL_03,,,320.0
+2487,Cloth,Completed,SHOT_011,520,REEL_03,,,320.0
+2488,Baking,Completed,SHOT_011,520,REEL_03,,,320.0
+2489,Previz,Not started,SHOT_011,520,REEL_03,,,320.0
+2490,FTP,Completed,SHOT_010,520,REEL_03,,,317.0
+2491,Previz,Completed,SHOT_010,520,REEL_03,,,317.0
+2492,Hair and Fur,Completed,SHOT_010,520,REEL_03,,,317.0
+2493,Compositing,Pending Review,SHOT_010,520,REEL_03,,2016-08-04 12:37:46,317.0
+2494,Paint,Completed,SHOT_010,520,REEL_03,,,317.0
+2495,Rendering,Ready to Start,SHOT_010,520,REEL_03,,,317.0
+2496,Animation,Approved,SHOT_010,520,REEL_03,2016-03-11 00:00:00,2016-07-14 21:00:00,317.0
+2497,Lookdev,Approved,SHOT_010,520,REEL_03,,,317.0
+2498,Assemble,Completed,SHOT_010,520,REEL_03,,,317.0
+2499,Layout,Completed,SHOT_010,520,REEL_03,,2016-02-24 00:00:00,317.0
+2500,Cloth,Completed,SHOT_010,520,REEL_03,,,317.0
+2501,Baking,Completed,SHOT_010,520,REEL_03,,,317.0
+2502,FTP,Completed,SHOT_050,520,REEL_03,,,130.0
+2503,Previz,Not started,SHOT_050,520,REEL_03,,,130.0
+2504,Hair and Fur,Completed,SHOT_050,520,REEL_03,,,130.0
+2505,Compositing,Pending Review,SHOT_050,520,REEL_03,,2016-08-05 17:43:13,130.0
+2506,Paint,Completed,SHOT_050,520,REEL_03,,,130.0
+2507,Rendering,In progress,SHOT_050,520,REEL_03,,,130.0
+2508,Animation,Approved,SHOT_050,520,REEL_03,2016-03-11 00:00:00,2016-07-24 21:00:00,130.0
+2509,Lookdev,Approved,SHOT_050,520,REEL_03,,,130.0
+2510,Assemble,Completed,SHOT_050,520,REEL_03,,,130.0
+2511,Layout,Completed,SHOT_050,520,REEL_03,,2016-02-24 00:00:00,130.0
+2512,Cloth,Completed,SHOT_050,520,REEL_03,,,130.0
+2513,Baking,Completed,SHOT_050,520,REEL_03,,,130.0
+2514,Previz,Not started,SHOT_031,520,REEL_03,,,227.0
+2515,Compositing,Pending Review,SHOT_031,520,REEL_03,,2016-08-08 11:03:22,227.0
+2516,Paint,Completed,SHOT_031,520,REEL_03,,,227.0
+2517,Rendering,In progress,SHOT_031,520,REEL_03,,,227.0
+2518,Animation,Approved,SHOT_031,520,REEL_03,,2016-07-25 21:00:00,227.0
+2519,Lookdev,Approved,SHOT_031,520,REEL_03,,,227.0
+2520,Hair and Fur,Completed,SHOT_031,520,REEL_03,,,227.0
+2521,Layout,Completed,SHOT_031,520,REEL_03,,,227.0
+2522,Cloth,Completed,SHOT_031,520,REEL_03,,,227.0
+2523,Baking,Completed,SHOT_031,520,REEL_03,,,227.0
+2524,Previz,On Hold,SHOT_041,520,REEL_03,,,147.0
+2525,Compositing,Pending Review,SHOT_041,520,REEL_03,,2016-08-12 13:05:59,147.0
+2526,Paint,Completed,SHOT_041,520,REEL_03,,,147.0
+2527,Rendering,Not started,SHOT_041,520,REEL_03,,,147.0
+2528,Animation,In progress,SHOT_041,520,REEL_03,,,147.0
+2529,Lookdev,Not started,SHOT_041,520,REEL_03,,,147.0
+2530,Hair and Fur,Completed,SHOT_041,520,REEL_03,,,147.0
+2531,Layout,Completed,SHOT_041,520,REEL_03,,,147.0
+2532,Cloth,Completed,SHOT_041,520,REEL_03,,,147.0
+2533,Baking,Completed,SHOT_041,520,REEL_03,,,147.0
+2534,FTP,Completed,SHOT_060,520,REEL_03,,,61.0
+2535,Previz,Not started,SHOT_060,520,REEL_03,,,61.0
+2536,RMG,Ready to Start,SHOT_060,520,REEL_03,,,61.0
+2537,Hair and Fur,Completed,SHOT_060,520,REEL_03,,,61.0
+2538,Compositing,Pending Review,SHOT_060,520,REEL_03,,2016-08-10 09:20:58,61.0
+2539,Paint,Completed,SHOT_060,520,REEL_03,,,61.0
+2540,Rendering,Ready to Start,SHOT_060,520,REEL_03,,,61.0
+2541,Animation,Approved,SHOT_060,520,REEL_03,2016-03-11 00:00:00,2016-08-07 21:00:00,61.0
+2542,Lookdev,Pending Review,SHOT_060,520,REEL_03,,,61.0
+2543,Assemble,Completed,SHOT_060,520,REEL_03,,,61.0
+2544,Layout,Completed,SHOT_060,520,REEL_03,,2016-02-24 00:00:00,61.0
+2545,Cloth,Completed,SHOT_060,520,REEL_03,,,61.0
+2546,Baking,Completed,SHOT_060,520,REEL_03,,,61.0
+2547,FTP,Completed,SHOT_030,520,REEL_03,,,227.0
+2548,Previz,Not started,SHOT_030,520,REEL_03,,,227.0
+2549,Hair and Fur,Completed,SHOT_030,520,REEL_03,,,227.0
+2550,Compositing,Pending Review,SHOT_030,520,REEL_03,,2016-08-26 13:14:08,227.0
+2551,Paint,Completed,SHOT_030,520,REEL_03,,,227.0
+2552,Rendering,Pending Review,SHOT_030,520,REEL_03,,,227.0
+2553,Animation,Approved,SHOT_030,520,REEL_03,2016-03-11 00:00:00,2016-07-31 21:00:00,227.0
+2554,Lookdev,Approved,SHOT_030,520,REEL_03,,,227.0
+2555,Assemble,Completed,SHOT_030,520,REEL_03,,,227.0
+2556,Layout,Completed,SHOT_030,520,REEL_03,,2016-02-24 00:00:00,227.0
+2557,Cloth,Completed,SHOT_030,520,REEL_03,,,227.0
+2558,Baking,Completed,SHOT_030,520,REEL_03,,,227.0
+2559,FTP,Completed,SHOT_020,520,REEL_03,,,183.0
+2560,Previz,Not started,SHOT_020,520,REEL_03,,,183.0
+2561,Hair and Fur,Completed,SHOT_020,520,REEL_03,,,183.0
+2562,Compositing,Pending Review,SHOT_020,520,REEL_03,,2016-08-15 09:49:23,183.0
+2563,Paint,Completed,SHOT_020,520,REEL_03,,,183.0
+2564,Rendering,Not started,SHOT_020,520,REEL_03,,,183.0
+2565,Animation,Approved,SHOT_020,520,REEL_03,2016-03-11 00:00:00,2016-08-09 21:00:00,183.0
+2566,Lookdev,Ready to Start,SHOT_020,520,REEL_03,,,183.0
+2567,Assemble,Completed,SHOT_020,520,REEL_03,,,183.0
+2568,Layout,Completed,SHOT_020,520,REEL_03,,2016-02-24 00:00:00,183.0
+2569,Cloth,Completed,SHOT_020,520,REEL_03,,,183.0
+2570,Baking,Completed,SHOT_020,520,REEL_03,,,183.0
+2571,Compositing,Pending Review,SHOT_030,530,REEL_03,,2016-07-27 11:56:39,48.0
+2572,Paint,Completed,SHOT_030,530,REEL_03,,,48.0
+2573,Rendering,Not started,SHOT_030,530,REEL_03,,,48.0
+2574,Animation,Approved,SHOT_030,530,REEL_03,,2016-07-17 21:00:00,48.0
+2575,Lookdev,Ready to Start,SHOT_030,530,REEL_03,,,48.0
+2576,Assemble,Completed,SHOT_030,530,REEL_03,,,48.0
+2577,Layout,Completed,SHOT_030,530,REEL_03,,2016-02-18 00:00:00,48.0
+2578,Cloth,Completed,SHOT_030,530,REEL_03,,,48.0
+2579,Baking,Completed,SHOT_030,530,REEL_03,,,48.0
+2580,Previz,On Hold,SHOT_030,530,REEL_03,,,48.0
+2581,Hair and Fur,Completed,SHOT_060,530,REEL_03,,,310.0
+2582,Compositing,Pending Review,SHOT_060,530,REEL_03,,2016-08-23 17:23:50,310.0
+2583,Paint,Completed,SHOT_060,530,REEL_03,,,310.0
+2584,Rendering,Not started,SHOT_060,530,REEL_03,,,310.0
+2585,Animation,Approved,SHOT_060,530,REEL_03,,,310.0
+2586,Lookdev,Ready to Start,SHOT_060,530,REEL_03,,,310.0
+2587,Assemble,Completed,SHOT_060,530,REEL_03,,,310.0
+2588,Layout,Completed,SHOT_060,530,REEL_03,,2016-02-18 00:00:00,310.0
+2589,Cloth,Completed,SHOT_060,530,REEL_03,,,310.0
+2590,Baking,Completed,SHOT_060,530,REEL_03,,,310.0
+2591,Previz,On Hold,SHOT_060,530,REEL_03,,,310.0
+2592,TBL,Ready to Start,SHOT_060,530,REEL_03,,,310.0
+2593,Hair and Fur,Completed,SHOT_040,530,REEL_03,,,119.0
+2594,Compositing,Pending Review,SHOT_040,530,REEL_03,,2016-08-05 10:25:38,119.0
+2595,Paint,Completed,SHOT_040,530,REEL_03,,,119.0
+2596,Rendering,In progress,SHOT_040,530,REEL_03,,,119.0
+2597,Animation,Approved,SHOT_040,530,REEL_03,2016-03-11 00:00:00,2016-07-14 21:00:00,119.0
+2598,Lookdev,Approved,SHOT_040,530,REEL_03,,,119.0
+2599,Assemble,Completed,SHOT_040,530,REEL_03,,,119.0
+2600,Layout,Completed,SHOT_040,530,REEL_03,,2016-02-18 00:00:00,119.0
+2601,Cloth,Completed,SHOT_040,530,REEL_03,,,119.0
+2602,Baking,Completed,SHOT_040,530,REEL_03,,,119.0
+2603,Previz,Not started,SHOT_040,530,REEL_03,,,119.0
+2604,Previz,On Hold,SHOT_010,530,REEL_03,,,33.0
+2605,Hair and Fur,Completed,SHOT_010,530,REEL_03,,,33.0
+2606,Compositing,Pending Review,SHOT_010,530,REEL_03,,2016-08-03 12:33:50,33.0
+2607,Paint,Completed,SHOT_010,530,REEL_03,,,33.0
+2608,Rendering,Not started,SHOT_010,530,REEL_03,,,33.0
+2609,Animation,Approved,SHOT_010,530,REEL_03,2016-03-11 00:00:00,2016-07-31 21:00:00,33.0
+2610,Lookdev,Ready to Start,SHOT_010,530,REEL_03,,,33.0
+2611,Assemble,Completed,SHOT_010,530,REEL_03,,,33.0
+2612,Layout,Completed,SHOT_010,530,REEL_03,,2016-02-18 00:00:00,33.0
+2613,Cloth,Completed,SHOT_010,530,REEL_03,,,33.0
+2614,Baking,Completed,SHOT_010,530,REEL_03,,,33.0
+2615,ENM,Pending Review,SHOT_010,530,REEL_03,,,33.0
+2616,Previz,On Hold,SHOT_020,530,REEL_03,,,254.0
+2617,Hair and Fur,Completed,SHOT_020,530,REEL_03,,,254.0
+2618,Compositing,Pending Review,SHOT_020,530,REEL_03,,2016-08-15 10:01:44,254.0
+2619,Paint,Completed,SHOT_020,530,REEL_03,,,254.0
+2620,Rendering,Not started,SHOT_020,530,REEL_03,,,254.0
+2621,Animation,Approved,SHOT_020,530,REEL_03,2016-03-11 00:00:00,2016-08-09 21:00:00,254.0
+2622,Lookdev,Ready to Start,SHOT_020,530,REEL_03,,,254.0
+2623,Assemble,Completed,SHOT_020,530,REEL_03,,,254.0
+2624,Layout,Completed,SHOT_020,530,REEL_03,,2016-02-18 00:00:00,254.0
+2625,Cloth,Completed,SHOT_020,530,REEL_03,,,254.0
+2626,Baking,Completed,SHOT_020,530,REEL_03,,,254.0
+2627,Previz,On Hold,SHOT_050,530,REEL_03,,,61.0
+2628,Hair and Fur,Completed,SHOT_050,530,REEL_03,,,61.0
+2629,Compositing,Pending Review,SHOT_050,530,REEL_03,,2016-08-04 17:12:28,61.0
+2630,Paint,Completed,SHOT_050,530,REEL_03,,,61.0
+2631,Rendering,Not started,SHOT_050,530,REEL_03,,,61.0
+2632,Animation,Approved,SHOT_050,530,REEL_03,2016-03-11 00:00:00,2016-08-01 21:00:00,61.0
+2633,Lookdev,Ready to Start,SHOT_050,530,REEL_03,,,61.0
+2634,Assemble,Completed,SHOT_050,530,REEL_03,,,61.0
+2635,Layout,Completed,SHOT_050,530,REEL_03,,2016-02-18 00:00:00,61.0
+2636,Cloth,Completed,SHOT_050,530,REEL_03,,,61.0
+2637,Baking,Completed,SHOT_050,530,REEL_03,,,61.0
+2638,Previz,On Hold,SHOT_090,530,REEL_03,,,89.0
+2639,Hair and Fur,Completed,SHOT_090,530,REEL_03,,,89.0
+2640,Compositing,Pending Review,SHOT_090,530,REEL_03,,2016-08-02 09:40:55,89.0
+2641,Paint,Completed,SHOT_090,530,REEL_03,,,89.0
+2642,Rendering,Ready to Start,SHOT_090,530,REEL_03,,,89.0
+2643,Animation,Approved,SHOT_090,530,REEL_03,2016-03-11 00:00:00,2016-07-25 21:00:00,89.0
+2644,Lookdev,Approved,SHOT_090,530,REEL_03,,,89.0
+2645,Assemble,Completed,SHOT_090,530,REEL_03,,,89.0
+2646,Layout,Completed,SHOT_090,530,REEL_03,,2016-02-18 00:00:00,89.0
+2647,Cloth,Completed,SHOT_090,530,REEL_03,,,89.0
+2648,Baking,Completed,SHOT_090,530,REEL_03,,,89.0
