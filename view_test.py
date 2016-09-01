@@ -1,7 +1,7 @@
 import os
 from app import config
 import database_connection
-
+from app import view
 from app import app
 import unittest
 import tempfile
@@ -13,12 +13,7 @@ class FlaskrTestCase(unittest.TestCase):
         self.app = app.test_client()
         #with app.app_context():
          #   database_connection.init_db()
-    def test_db(self):
-        with app.app_context():
-            from app import model,db
-            user = model.Users('ledidukh','ledidukh','Leonid','Didukh')
-            db.session.add(user)
-            db.session.commit()
+
     def test_tasks_db(self):
         with app.app_context():
             from app import model,db
@@ -27,18 +22,10 @@ class FlaskrTestCase(unittest.TestCase):
             db.session.add(task)
             db.session.add(WorkFlow)
             db.session.commit()     
-    def user_db(self):
-        with app.app_context():
-            from app import model,db
-            users = model.Users.query.all()
-            print users
-    def task_db(self):
-        with app.app_context():
-            from app import model,db
-            tasks = model.Tasks.query.all()
-            print tasks
-            workflows = model.WorkFlow.query.all()
-            print workflows
+    def test_route(self):
+        rv = self.app.get('/login')
+        assert rv.data
+
     def tearDown(self):
         pass
 if __name__ == '__main__':
