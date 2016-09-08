@@ -7,15 +7,15 @@ class Users(db.Model):
     password  = db.Column(db.String(64))
     first_name = db.Column(db.String(64))
     second_name = db.Column(db.String(64))
+
     def __init__(self,login,password,first_name,second_name):
         self.first_name = first_name
         self.login = login
-        self.password = set_password()
+        self.password = generate_password_hash(password)
         self.second_name = second_name
-    def set_password(password):
-        self.pw_hash = generate_password_hash(password)
-    def check_user(self.password):
-        return check_password_hash(self.pw_hash, password)
+    
+    def check_password(self,password):
+        return check_password_hash(self.password, password)
     def __repr__(self):
         print "User  %s %s %s" % (self.login,self.first_name,self.second_name)
 class Tasks(db.Model):

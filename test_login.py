@@ -18,27 +18,17 @@ class FlaskrTestCase(unittest.TestCase):
             db.session.add(user)
             db.session.commit()
             db.session.close()
-    def test_tasks_db(self):
+    
+    def Authentification(self,login,password):
         with app.app_context():
             from app import model,db
-            task = model.Tasks(name="FX",shot="SHOT_010",seq='020',reel='Reel_01',start_date='123/123/123',end_date='22/222/1223',duration='22.0')
-            WorkFlow = model.WorkFlow(status="Approved",fill_date='11/22/1232',task =task)
-            db.session.add(task)
-            db.session.add(WorkFlow)
-            db.session.commit()  
-            db.session.close()   
-    def user_db(self):
-        with app.app_context():
-            from app import model,db
-            users = model.Users.query.all()
-            print users
-    def task_db(self):
-        with app.app_context():
-            from app import model,db
-            tasks = model.Tasks.query.all()
-            print tasks
-            workflows = model.WorkFlow.query.all()
-            print workflows
+            user = model.Users.query.filter(model.Users.login == login)
+            if user:
+                if user[0].check_password(password):
+                    return True
+    def test_users(self):
+        print self.Authentification("ledidukh","ledidukh")
+        print self.Authentification("1223123","123123123")
     def tearDown(self):
         pass
 if __name__ == '__main__':

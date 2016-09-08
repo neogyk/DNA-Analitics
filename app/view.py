@@ -4,13 +4,14 @@ import pandas as pd
 import os
 import model
 
+
+#Authentification Logic
 @app.route('/login',methods = ['POST','GET'])
 def index():
     return render_template('index.html')
 
 
-
-
+#Check if user exist or password and login valid
 def valid_login(login,password):
     user  = model.Users.query.filter(_and(model.Users.login == login,model.Users.password == password))
     if user:
@@ -18,7 +19,7 @@ def valid_login(login,password):
     else:
         return False
 
-
+#Logic for user authentification
 @app.route('/login/valid',methods = ['POST','GET'])
 def check():
     if 'username' in session:
@@ -28,6 +29,7 @@ def check():
             return jsonify({'responce':"Login before use it!!"})
             redirect()
 
+#Logic for user registration
 @app.route('/login/register',methods = ['POST','GET'])
 def register():
     request_data = request.json
@@ -38,8 +40,13 @@ def register():
     return jsonify({'responce':"Your have successfully registered!"})
 
 
-
+#main Page
 @app.route('/index')
+def index_view():
     return render_template("index.html")
 
+#Get specific data by specific filter
+
+#@app.route('index/task_name')
+#@app.route('index/task_status')
 
