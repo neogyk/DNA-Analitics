@@ -1,5 +1,6 @@
 from app import db
- 
+from werkzeug.security import generate_password_hash,check_password_hash
+
 class Users(db.Model):
     id = db.Column(db.Integer,primary_key = True)
     login = db.Column(db.String(64))
@@ -9,10 +10,14 @@ class Users(db.Model):
     def __init__(self,login,password,first_name,second_name):
         self.first_name = first_name
         self.login = login
-        self.password = password
+        self.password = set_password()
         self.second_name = second_name
+    def set_password(password):
+        self.pw_hash = generate_password_hash(password)
+    def check_user(self.password):
+        return check_password_hash(self.pw_hash, password)
     def __repr__(self):
-        print "User %r %r %r %r" % (self.login,self.password,self.first_name,self.second_name)
+        print "User  %s %s %s" % (self.login,self.first_name,self.second_name)
 class Tasks(db.Model):
 
     task_id = db.Column(db.Integer,primary_key = True)
@@ -32,7 +37,7 @@ class Tasks(db.Model):
         self.end_date = end_date
         self.duration = duration
     def __repr__(self):
-        print "Task %r %r %r %r %r %r %r " % (self.name,self.shot,self.seq,self.reel,self.start_date,self.end_date,self.duration)
+        print "Task %s %s %s %s %s %s %s " % (self.name,self.shot,self.seq,self.reel,self.start_date,self.end_date,self.duration)
 class WorkFlow(db.Model):
     id = db.Column(db.Integer,primary_key = True)
     status = db.Column(db.String(64))
@@ -45,4 +50,4 @@ class WorkFlow(db.Model):
         self.fill_date = fill_date
         self.task = task
     def __repr__(self):
-        print "work_flow %r %r" % (self.status,self.task_id)
+        print "work_flow %s %s" % (self.status,self.task_id)

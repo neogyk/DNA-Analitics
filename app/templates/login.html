@@ -1,30 +1,79 @@
-<html>
-    <head>
-    
-    </head>
-    <body>
-        <div class="container">
-            <div class="form-group">
-                <form>
-                    <label>Login</label>
-                    <input placeholder="Enter your login"></input>
-                </from>
-                <form>
-                    <label>Password</label>
-                    <input placeholder="Enter password"></input>
-                </form>
-                <form>
-                    <label>First Name</label>
-                    <input placeholder="Enter password"></input>
-                </form>
-                <form>
-                    <label>Second Name</label>
-                    <input placeholder="Enter password"></input>
-                </form>
-             <button>Login</button>
-             <button>Sign Up</button>
-            </div>
-            <div class = 'pop-up windows'></div>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+
+</head>
+
+<body ng-app="Login">
+
+    <div class="container" ng-controller="autentification" ng-form="userform">
+
+        <div class="form-group">
+
+            <label for='email'>Login</label>
+            <input class="form-control" required placeholder="Enter your login" ng-model="user.login"></input>
+
         </div>
-    </body>
+        <div class=" form-group ">
+            <label>Password</label>
+            <input class="form-control " required placeholder="Enter password " ng-model="user.password"></input>
+
+        </div>
+        <div class="form-group " id='first_name'>
+            <label>First Name</label>
+            <input class="form-control " placeholder="Enter First Name " ng-model="user.first_name "></input>
+
+        </div>
+        <div class="form-group " id='second_name'>
+            <label>Second Name</label>
+            <input class="form-control " placeholder="Enter Second Name " ng-model="user.second_name "></input>
+        </div>
+        <button type="submit " class="btn btn-default " ng-click="login()">Login</button>
+        <button type="submit " class="btn btn-default " ng-click="signup()">Sign Up</button>
+    </div>
+    </div>
+    <script>
+        var login_app = angular.module('Login', []);
+        login_app.controller("autentification", function($scope, $http) {
+
+            $scope.login = function() {
+
+                console.log($scope.user.login);
+                console.log($scope.user.password);
+                $http.post('/login/valid', data = {
+                        'login': $scope.user.login,
+                        'password': $scope.user.password
+                    })
+                    .then(function(responce) {
+                        console.log("Everything all right.We check your data");
+                        console.log(responce);
+                    });
+            }
+            $scope.signup = function() {
+
+                $http.post('/login/register', {
+                        login: $scope.user.login,
+                        password: $scope.user.password,
+                        first_name: $scope.user.first_name,
+                        second_name: $scope.user.second_name
+                    })
+                    .then(function(responce) {
+                        console.log("Everything all right. ");
+                        console.log(responce);
+                    });
+
+            }
+
+        });
+    </script>
+</body>
+
 </html>
